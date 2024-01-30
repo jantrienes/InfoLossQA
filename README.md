@@ -2,7 +2,7 @@
 
 Text simplification aims to make technical texts more accessible to laypeople. However, even in professional simplifications this process often results in deletion of information and vagueness. This project proposes InfoLossQA, a framework to characterize and recover simplification-induced information loss in form of question-and-answer (QA) pairs.
 
-**More information:** [Paper]() | [Project Website]()
+**More information:** [Paper]() | [Project Website](https://InfoLossQA.ikim.nrw/)
 
 **Authors:** [Jan Trienes](https://jantrienes.com/), [Sebastian Joseph](https://www.linkedin.com/in/sebastian-joseph-a30228171/), [Jörg Schlötterer](https://www.bwl.uni-mannheim.de/strohmaier/team/wissenschaftliche-mitarbeiter/joerg-schloetterer/), [Christin Seifert](http://christinseifert.info/), [Kyle Lo](https://kyleclo.github.io/), [Wei Xu](https://cocoxu.github.io/), [Byron C. Wallace](https://www.byronwallace.com/), and [Junyi Jessy Li](https://jessyli.com/).
 
