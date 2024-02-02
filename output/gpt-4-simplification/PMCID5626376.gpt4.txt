@@ -1,0 +1,11 @@
+PURPOSE.
+This study aims to compare different treatments for knee pain after knee surgery in patients with meniscus (a type of cartilage in the knee) damage and osteoarthritis (a condition causing joints to become painful and stiff). The treatments tested include viscosupplementation (injection of a gel-like substance into the knee) or platelet-rich plasma (concentrated blood cells that might help healing), and standard care. 
+
+PATIENTS AND METHODS.
+We carried out a study where the patients did not know which treatment they were getting. After the knee surgery, patients were randomly chosen to receive one of these treatments: five injections of HA1 (a type of gel), four injections of HA2 (another type of gel), three injections of HA3 (yet another gel type), a single injection of PRP (a substance taken from the patient's own blood), or standard care. Patients were checked up on for 18 months. We measured pain and function using a standard questionnaire (WOMAC) and tracked if there was a 20% or more improvement in symptoms.
+
+RESULTS.
+We included 50 patients in the study. After the first 3 months, all groups showed improvement compared to how they felt at the start. The group which received HA1 injections showed the best results, with 65% improvement after 18 months, followed by the PRP group, other HA injections, and lastly the standard care group. All patients in the HA1 group achieved 20% or more improvement in both pain and function at 18 months. No side effects were linked to the surgery or injections.
+
+CONCLUSION.
+Viscosupplementation after knee surgery is more effective than platelet-rich plasma for patients with meniscal damage and osteoarthritis. Further studies with more patients and/or different approaches to treatment will be useful for the scientific community.

@@ -1,0 +1,11 @@
+OBJECTIVE:
+This study investigates if combining a low dose of the drug palonosetron with another drug called droperidol can help to reduce sickness (nausea and vomiting) experienced after a certain eye surgery, compared to using a higher dose of palonosetron alone. 
+
+PATIENTS AND METHODS:
+This trial involved 129 adults, aged 18 to 70, that are categorised as healthy or having mild illness by the American Society of Anesthesiologists. They were going to have eye and orbital implant surgery. These patients were divided into three groups and each group received different anti-sickness treatments just before their surgery. Their levels of nausea, vomiting, and overall response to treatment were assessed for 72 hours after surgery. 
+
+RESULTS:
+All involved patients finished the study. The group receiving a low dose of palonosetron had more severe nausea than the other two groups at 0-4 and 24-48 hours after surgery. Vomiting levels were similar across all the groups. The complete response (no nausea or vomiting) rate was better in the group receiving a low-dose of palonosetron and droperidol than in the low dose palonosetron alone group, except at 4-72 hours, and was also better at 24-72 hours in the high dose palonosetron group. Less than half (49%) of the patients in the low dose palonosetron alone group didn't experience any sickness, compared to 67% in the high dose group and 81% in the combined treatment group.
+
+CONCLUSION:
+Combining a low dose of palonosetron with droperidol was better at preventing post-surgery sickness and produced similar results to using a high dose of palonosetron alone.

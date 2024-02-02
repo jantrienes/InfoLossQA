@@ -1,0 +1,14 @@
+BACKGROUND.
+Using targeted radiation to treat liver cancers can be effective in some patients. However, the liver can only handle a limited amount of radiation before it starts to get damaged. We looked into whether a combination treatment of three drugs - pentoxifylline (PTX), ursodeoxycholic acid (UDCA) and low-dose low molecular weight heparin (LMWH) - could prevent radiation-induced liver injury.
+
+METHODS.
+People with liver cancer spread from colon cancer who were set for radiation treatment were included. They were randomly chosen to receive either the combination treatment for 8 weeks or no extra medication. We looked for signs of radiation-induced liver injury using a specific type of MRI scan. We also calculated the smallest radiation dose that caused injury by combining MRI results and radiation dose data.
+
+RESULTS.
+We had to stop the study early due to early results. We included 22 patients in the final report. The smallest dose that caused liver injury 6 weeks after radiation treatment was significantly higher in the group receiving the combination treatment compared to the group without (19.1 Gy versus 14.6 Gy, p = 0.011). At 6 weeks, 45.5% of the treated group showed signs of liver injury compared with 90.9% of the untreated group. There were no noticeable differences between the groups at 12 weeks.
+
+CONCLUSIONS.
+Taking PTX, UDCA and low-dose LMWH after radiation treatment considerably reduced liver injury at 6 weeks after radiation treatment. However, 4 weeks after stopping the drug combination (which was given during weeks 1-8), incidences of liver injury in the treated group were like those in the control group. This supports the notion that these drugs can minimize radiation-induced liver injury. 
+
+TRIAL REGISTRATION.
+The trial was registered in the EU clinical trials register (2008-002985-70) and ClinicalTrials.gov (NCT01149304).

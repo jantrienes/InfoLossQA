@@ -1,0 +1,9 @@
+This study examines the effects of insulin on platelet activation (a process that can lead to blood clot formation) in people with type 2 diabetes. After meals, blood glucose levels can become unusually high, which can lead to platelet activation. 
+
+This study sought to understand whether administering insulin before a meal could reduce or prevent this platelet activation effect. The experiment included 18 patients with type 2 diabetes and used a reliable trial method where the order of insulin and placebo treatments were randomly assigned and then swapped. 
+
+The process used a technology called flow cytometry to measure platelet activation, which was evaluated before and after the pre-meal blood glucose standardization (if needed, insulin was infused to bring blood glucose levels to a standard range) and 90 minutes after eating. 
+
+The study discovered that giving insulin before a meal reduced post-meal high blood sugar levels significantly compared to the placebo. However, the use of pre-meal insulin also intensified platelet activation after the meal. This reaction was associated with higher insulin levels and lower blood glucose levels. 
+
+In conclusion, the study suggests that post-meal insulin spikes, rather than high blood glucose levels, may be responsible for increased platelet activation in people with type 2 diabetes. It highlights the need to manage insulin levels and platelet activation effectively in the treatment and management of type 2 diabetes.

@@ -1,0 +1,11 @@
+GOAL:
+This study looks at whether taking vitamin D3 can affect a particular form of bowel disease (ulcerative colitis) and improve the lives of patients with low levels of vitamin D.
+
+METHODS:
+The study was carried out at a medical center in Fresno, California, between 2012 and 2013. Patients with this disease and low vitamin D levels were included. Participants were randomly given either 2,000 IU or 4,000 IU of vitamin D3 daily for 90 days. Researchers used surveys about participant’s quality of life and a score system for disease severity. Lab tests were done and compared between the two groups. Researchers also checked if their vitamin D levels, inflammation, and scores changed before and after taking the vitamin D3.
+
+RESULTS:
+Eight patients got 2,000 IU/daily and ten got 4,000 IU/daily of vitamin D3 for three months. Vitamin D levels went up in both groups, but more so in the group taking the higher dose. Healthy vitamin D levels were reached in four out of the ten patients (40%) in the high dose group and one out of eight patients (12%) in the low dose group. The quality of life score also improved significantly in the high dose group, but not in the low dose group. The severity scores of the disease didn’t change significantly in either group. Taking vitamin D3 also seemed to lower inflammation in both groups.
+
+CONCLUSION:
+Taking 4,000 IU/day of vitamin D3 is more likely to increase vitamin D levels in patients with low levels of vitamin D. However, higher doses or longer time may be needed. Vitamin D3 might improve the quality of life in these patients, but it isn't proven yet. The effect on the severity of the disease is still not clear. More research is needed to better understand the impact of vitamin D in this bowel disease.

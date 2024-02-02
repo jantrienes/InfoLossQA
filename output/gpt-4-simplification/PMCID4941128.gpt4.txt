@@ -1,0 +1,11 @@
+INTRODUCTION & OBJECTIVES.
+This research is about a deep brain stimulation method, known as adaptive deep brain stimulation (aDBS), where we use feedback from the brain to guide the process. From previous trials, we saw that aDBS had a strong positive impact on people with Parkinson's disease. Now, we wanted to check if these benefits can be achieved with bilateral aDBS (applied to both sides of the brain) when the patient is also on medication.
+
+METHODS.
+We used this therapy on 4 Parkinson's patients. The aDBS therapy was administered to both sides of their brains independently, depending on the level of their brain activity. We primarily looked at how this treatment affected the patients' movement and coordination, measured using a specific scoring system.
+
+RESULTS. 
+The treatment, aDBS, lead to a 43% improvement in the patients' coordination and movement scores. Interestingly, the improvements observed were achieved even though the treatment was used only 45% of the time. Furthermore, the commonly used Parkinson's disease medication (Levodopa) worked well with aDBS, leading to additional improvements.
+
+CONCLUSION.
+So, we conclude that using aDBS on both sides of the brain improves certain symptoms of Parkinson's disease. It's also able to adjust to the need for stimulation in patients taking medication.

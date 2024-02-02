@@ -1,0 +1,14 @@
+BACKGROUND.
+Cognitive Behavioral Therapy (CBT) is known to help with depression. But it faces some obstacles when used in low-income communities like people's lack of commitment to regular therapy sessions and homework. However, using automated text messages may help solve these issues, as they can remind patients about their treatment and encourage them to stick with it.
+
+OBJECTIVES.
+The study tests if a texting service improves people's commitment and results in group therapy sessions for depression. The texts include prompts for mood monitoring and reminders about therapy content. The focus is specifically on whether this service boosts the number of therapy sessions attended, how long patients stay in therapy, and whether it successfully lessens depression symptoms in Spanish-speaking Latino patients with low income.
+
+METHODS.
+Patients were divided into two groups. One received the typical CBT treatment for depression alone (40 participants), while the second group received the same treatment plus the texting service (45 participants). The texting service included daily mood checks, daily reminders about therapy topics, and reminders about medication and therapy sessions. The therapist could access these texts and use them as part of the therapy process.
+
+RESULTS.
+The study found that those who received texts as part of their treatment stayed in therapy for significantly longer. On average, they remained for 13.5 weeks, compared to just 3 weeks for the standard treatment group. Generally, the texting group also attended more therapy sessions, although this wasn't a significant difference. Both groups showed a substantial reduction in depression symptoms over the course of the treatment. Still, there wasn't a noticeable difference in symptom reduction between the two groups.
+
+CONCLUSIONS.
+Automated text messages can be a useful tool to keep patients engaged in their depression treatment. Even though both groups showed a decrease in symptoms, the texting service helped patients to stick with their therapy for longer. The fact that depression levels didn't differ much between the groups might have been influenced by a low number of responses from participants who quit therapy early.

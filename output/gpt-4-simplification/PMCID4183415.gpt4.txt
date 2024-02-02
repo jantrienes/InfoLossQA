@@ -1,0 +1,5 @@
+This study looked at whether text message reminders sent to drug store staff in Tanzania would help patients take all their doses of a malaria drug called Artemether-Lumefantrine. 904 patients and 110 drug store staff members from 77 stores participated. The stores were divided into two groups. In one group, the staff members received text message reminders about how to give advice to patients using the drug. 
+
+The findings show that while there was some improvement in the drug store staff's knowledge, there was no significant difference between the two groups regarding the patients completing all their doses or taking each dose at the right time. This means that the text message reminders did not change the patients' behavior concerning taking their medication properly. 
+
+More studies are needed to see if text messages can be used effectively to improve how patients adhere to their medication schedules.

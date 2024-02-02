@@ -1,0 +1,11 @@
+PURPOSE:
+We studied whether the drug alfuzosin can help treat kidney stones that are less than 10 mm in size after a procedure called extracorporeal shock wave lithotripsy (ESWL).
+
+HOW WE DID IT:
+We did a controlled, single-blind medical trial from June 2010 to August 2011. During this trial, 84 people with kidney stones that are 5 to 10 mm in size were randomly split into two groups. The first group was given alfuzosin and another drug called loxoprofen sodium. The second group only received loxoprofen sodium. The patients were given these drugs immediately after their ESWL procedure and treatment was continued until their kidney stones passed or up to six weeks after the procedure.
+
+WHAT WE FOUND:
+In the first group, 39 out of 41 patients (95.1%) passed their kidney stones, while in the second group, 40 out of 43 patients (93.0%) passed their stones. There wasn't a significant difference in the number of treatment sessions each group needed or in the number of patients that needed painkillers following treatment. However, the first group that received alfuzosin reported slightly less pain and passed their kidney stones about 5 days faster than the second group. We didn't notice any big negative side effects of the treatment. 
+
+WHAT THIS MEANS:
+This research suggests that using alfuzosin along with ESWL can make kidney stones pass quicker. However, it doesn't seem to affect the overall success rate, i.e., the chance of the kidney stone being completely removed.

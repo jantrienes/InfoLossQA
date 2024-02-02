@@ -1,0 +1,14 @@
+CONTEXT.
+People who experience sensitivity in their teeth (also known as dentinal hypersensitivity or DH) often feel a sharp pain when they eat certain foods or drink certain liquids. Up to now, there hasn't been a universal treatment for this type of tooth sensitivity, though some doctors have been using various methods, including laser treatments.
+
+AIM.
+The goal of this study was to find a way to treat tooth sensitivity using the smallest amount possible of a particular chemical and a low level of laser energy, and then keep track of those patients for a long period of time. 
+
+MATERIALS AND METHODS.
+One hundred and twenty patients were randomly split into four groups: one group was treated with potassium nitrate; a second group had a procedure done with a specific type of laser; a third group both received the chemical and the laser treatment; the fourth group received a placebo or fake treatment. They measured the levels of the patients' tooth sensitivity by asking them to describe their pain before and after the treatment. This was done using tests with different materials and temperatures over a period of 6 weeks. 
+
+RESULTS.
+The group where we combined the chemical and laser treatment (Group 3) reported a significant decrease in their tooth sensitivity. In fact, by the 6th week, almost all of the patients in that group no longer felt the pain (97%-99% of them reported relief). This group performed better than the other treatment groups. 
+
+CONCLUSIONS.
+Considering these results, using a combination of low-dose potassium nitrate and laser treatment seems to be an effective way to treat tooth sensitivity.

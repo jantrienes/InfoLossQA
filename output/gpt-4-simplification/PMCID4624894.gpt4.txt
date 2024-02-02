@@ -1,0 +1,11 @@
+GOAL:
+We aim to find the best treatment for a specific type of hepatitis C (a liver disease) that is mainly found in certain geographic areas. We decided to test two different lengths of treatment - 24 weeks and 48 weeks - using a combination of two drugs. This test was done on patients in Southern China.
+
+METHODS AND RESULTS:
+We gave the drug combination to people with this type of hepatitis C who had never received treatment for it before. After four weeks, the people who were showing signs of improvement were split into two groups. One group received 20 more weeks of treatment and the other got 44 more weeks of treatment. The main thing we were watching for was the effectiveness of the treatment. Over the course of three years, we found that about 72% of the patients showed an improvement. Both groups had roughly the same success rate. However, we noticed more patients in the longer-term treatment group had anemia (low iron levels in the blood), though other negative side effects were about the same. One downfall to this study was that we only included people from Southern China, so the results may not apply to everyone.
+
+CONCLUSION:
+The shorter 24-week treatment worked just as well as the 48-week treatment in these patients. So, for those patients who reacted positively to the treatment at the four-week mark, 24-weeks of treatment may be just as good if not better due to less chance of developing anemia.
+
+TRIAL REGISTRATION:
+This is the official registration number of the trial for reference: ClinicalTrials.gov NCT01263860.

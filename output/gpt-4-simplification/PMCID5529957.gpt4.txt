@@ -1,0 +1,11 @@
+GOAL.
+The aim of this study was to see if the drug riociguat helped patients with a certain type of non-operable chronic lung disease.
+
+METHODS.
+We tested 261 patients (average age 59, 66% women) who had this chronic lung disease and could not have surgery or still had the disease after surgery. We gave some patients the drug riociguat and others a placebo. We tested certain indicators of heart and lung function at the start of the experiment and 16 weeks later. 
+
+RESULTS.
+We found that riociguat reduced resistance to blood flow in the lungs in both groups of patients, improving their heart's ability to pump blood. The drug also reduced blood pressure in the lungs. Furthermore, patients who showed improvement in the indicators we were testing also walked longer in a 6-minute walking test, suggesting they had better overall health. 
+
+CONCLUSIONS.
+Our findings suggest that riociguat can improve heart and lung function in patients with this non-operable chronic lung disease. This research was registered with the trial registration number NCT00855465.

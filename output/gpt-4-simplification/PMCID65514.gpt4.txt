@@ -1,0 +1,11 @@
+BACKGROUND
+People with high levels of "bad" cholesterol, known as LDL-cholesterol, have a greater chance of getting heart disease. In Thailand, the cost of medicines is getting very high, so the government is encouraging people to take medications that are made locally, which are cheaper. One such drug is Simvastatin, which is used to lower high cholesterol levels. In this study, we compared how effective and safe a local version of Simvastatin is compared to an international one, in 43 healthy Thai people.
+
+METHOD
+The local Simvastatin we used was Eucor©, made by Thai company Greater Pharma Ltd. The international version was Zocor©, made by Merck Sharp & Dohme in the USA. Both versions of the drug were given to the participants once in the form of a 10-mg pill. We then took blood samples from them every 4 weeks for 16 weeks to see how much "bad" cholesterol was in their blood.
+
+RESULT
+There was no significant difference in the amount of "bad" cholesterol in the blood of the people who took the local drug versus the international drug. Similarly, after switching the drugs between the groups halfway through the study, we again found no significant difference. At the end of the 16-week study, we found no remarkable differences between the two drugs in all tested blood parameters. There were minor side effects from both drugs - mainly dizziness and nausea.
+
+CONCLUSION
+Our study found that the local Simvastatin (Eucor©) is just as safe and effective at lowering "bad" cholesterol as the international Simvastatin (Zocor©).

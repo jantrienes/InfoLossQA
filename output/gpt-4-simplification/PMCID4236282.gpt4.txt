@@ -1,0 +1,11 @@
+OBJECTIVE.
+The goal of this study was to see if a doctor's office would be a good place to help people lose weight, specifically using two different internet-based methods: one focusing on helpful conversations (MIC), and the other on understanding the mental side of dieting (NPC). The results were compared to people who received standard care (UC).
+
+DESIGN AND METHODS.
+The study involved 89 overweight people, some of whom also struggled with binge eating disorder (BED). These participants were randomly assigned to one of the three approaches (MIC, NPC, or UC) for three months. Afterword, the researchers checked on their progress and followed up with them 3 months later.
+
+RESULTS.
+Participants who received NPC showed a greater reduction in weight, blood fat levels, and feelings of sadness compared to UC and MIC. However, there was no significant difference between UC and MIC. About 25% of participants in the MIC and NPC groups achieved at least 5% weight loss at the 3-month follow-up. This result was not impacted by whether or not the participant had binge eating disorder. The success of the treatment was linked to how well the participant stuck with the program.
+
+CONCLUSIONS.
+This is the first study of its kind to test motivational interviewing as a method for weight loss in a primary care setting, while also testing a control intervention (NPC). The NPC method showed better results than MIC or standard care. Binge eating disorder did not affect the results, but sticking to the treatment did improve weight loss outcomes.

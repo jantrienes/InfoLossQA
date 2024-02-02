@@ -1,0 +1,11 @@
+PURPOSE
+This study was done to compare two different treatments - SIRT and DEB-TACE - for liver cancer.
+
+METHODS
+From April 2010 to July 2012, 24 people with liver cancer that couldn't be removed through surgery were randomly chosen to get either SIRT or DEB-TACE treatment. People who got SIRT could have the treatment repeated if the cancer came back. Those on DEB-TACE got the treatment every six weeks until MRI scans showed no sign of cancer, or further treatment wasn't advisable due to other health reasons. We checked on the patients every three months with an MRI, with the final check-up in May 2013.
+
+RESULTS
+Both treatment groups had similar characteristics. Half the people were men, the average age was around 72, the cancer had spread about the same amount, and were at a similar stage according to a liver cancer staging system. On average, the SIRT group continued without the cancer spreading for 180 days, and the DEB-TACE group for 216 days. It took about a year for the cancer to spread for both groups. The SIRT group lived for an average of 592 days, and the DEB-TACE group for 788 days. Seven people died in each group. The reasons for death included liver failure, the cancer spreading, heart events, and one unknown cause.
+
+CONCLUSIONS
+No major differences were found between the two types of treatment regarding how long patients lived, how long before the cancer spread, or the time before the treatment stopped working. Although fewer people in the SIRT group had the cancer spread, more people had liver failure. This first study comparing SIRT and DEB-TACE for treating liver cancer gives us some valuable data to plan future research.

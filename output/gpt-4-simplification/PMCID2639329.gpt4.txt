@@ -1,0 +1,10 @@
+GOAL
+The ŒDIPE study looked at how safe and effective it was to have a shorter stay in the hospital after getting a dual-chamber pacemaker put in or replaced. This was done using a remote heart monitoring program.
+
+METHODS AND RESULTS
+Patients were placed into two groups: (i) the active group, who left the hospital 24 hours after getting a pacemaker for the first time or 4–6 hours after a replacement, and were watched for 4 weeks using Home-Monitoring (HM), or (ii) the control group, who were monitored for 4 weeks following standard medical practices. The main goal of the study was to check that the patients who left the hospital early (active group) didn't experience more serious negative events compared to those who stayed longer (control group). 
+
+The study had 379 patients. About 9% of patients in the active group experienced some negative events related to their treatment, compared to about 13% in the control group (the difference was not significant meaning the early discharge was not proven to cause more negative events). Also, those in the active group had a 34% shorter hospital stay compared to the control group, and the Home-Monitoring helped to catch technical and health issues sooner.
+
+CONCLUSION
+Leaving the hospital early with Home-Monitoring after getting a pacemaker put in or replaced was shown to be safe and helpful in keeping an eye on patients' health for a month after the procedure.

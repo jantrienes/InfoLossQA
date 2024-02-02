@@ -1,0 +1,14 @@
+BACKGROUND.
+Dengue is a major health problem that affects people's health and finances in areas where it's common, due to costs associated with prevention and treatment. A project called the Camino Verde trial in Mexico and Nicaragua looked at how educating communities about dengue prevention could help. One part of this project in Mexico involved 90 different communities across three coastal regions. This study focuses on whether the trial led households to spend less money on products to ward off mosquitoes.
+
+METHODS.
+We conducted surveys in 2010 (12,312 households) and 2012 (approximately 10,500 households) asking about things like income, whether anyone had had dengue, and spending on mosquito-prevention products in the previous month. We compared spending on these products to social vulnerability and also looked at the difference in product use and spending between the households that received the intervention and those that did not in 2012. 
+
+RESULTS.
+In 2010, nearly half of the households used anti-mosquito products, spending on average $4.61 per month. Households that were more vulnerable socially spent less. In 2012, after the intervention, fewer households in the intervention group (47.8%) bought anti-mosquito products as compared to the control group (53.3%). Those who did buy them spent on average $6.43; more households in the control group spent above this amount as compared to the intervention group. These costs represented about 3.3% and 3.8% of the monthly income for the poorest 10% of the population in 2012.
+
+CONCLUSIONS.
+The Camino Verde project, which aimed to educate communities about dengue prevention, not only helped reduce dengue infections but also decreased the money households spent on anti-mosquito products.
+
+TRIAL REGISTRATION.
+The trial was registered with the identifier ISRCTN27581154.

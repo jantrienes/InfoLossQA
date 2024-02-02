@@ -1,0 +1,14 @@
+BACKGROUND.
+People with Multiple Sclerosis often get flu-like symptoms when receiving a treatment called interferon beta (IFN-β). There seems to be a link with a spike in certain proteins (cytokines) in the blood after the injection. We think taking Vitamin D3 might help reduce these flu-like symptoms by lowering the levels of these proteins in the blood.
+
+METHODS.
+We ran a study with 45 people who were being treated for their Multiple Sclerosis with IFN-β. Half of them were given a small dose of Vitamin D3 each day and the other half were given a larger dose, every day for a year. We checked in with them regularly via phone to see if they were having flu-like symptoms. We also checked certain things in their blood and noted any relapses or changes in the quality of their life.
+
+RESULTS.
+People who took the higher dose of Vitamin D3 had higher levels of vitamin D in their blood and lower levels of a certain hormone. However, we didn't see any major change in their flu-like symptoms. In the low dose group, levels of a certain protein (IL-17) rose significantly. No major changes were found in other factors we were monitoring, such as relapse rate and quality of life. We also didn't observe any serious side effects from the vitamin D supplementation.
+
+CONCLUSION.
+It seems safe for people receiving IFN-β treatment for their Multiple Sclerosis to take Vitamin D supplements. The dose does measurably impact levels of the protein IL-17, but it doesn't seem to affect the flu-like symptoms related to the IFN-β treatment.
+
+TRIAL REGISTRATION.
+This clinical trial is registered on ClinicalTrials.gov with the ID: NCT01005095.

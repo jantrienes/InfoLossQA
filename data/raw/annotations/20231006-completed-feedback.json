@@ -1,0 +1,3040 @@
+[
+    {
+        "id": 4283690,
+        "source": "OBJECTIVES.\nTo evaluate the effect of certolizumab pegol (CZP) on productivity outside and within the home, and on participation in family, social and leisure activities in adult patients with psoriatic arthritis (PsA).\n\nMETHODS.\nRAPID-PsA (NCT01087788) is a phase 3, double-blind, placebo-controlled trial. 409 patients with active PsA were randomised 1:1:1 to placebo, CZP 200 mg every 2 weeks (Q2W) or CZP 400 mg every 4 weeks (Q4W). The arthritis-specific Work Productivity Survey (WPS) assessed the impact of PsA on paid work and household productivity, and participation in social activities during the preceding month. WPS responses were compared between treatment arms using a non-parametric bootstrap-t method.\n\nRESULTS.\nAt baseline, 56.6%, 60.1% and 61.5% of placebo, CZP 200 mg Q2W and CZP 400 mg Q4W patients were employed. By week 24, employed CZP patients reported an average of 1.0\u20131.8 and 3.0\u20133.9 fewer days of absenteeism and presenteeism, respectively, per month compared with 1.0 and 0.3 fewer days for placebo patients (p\u227a0.05). Within the home, by week 24, CZP patients reported an average of 3.0\u20133.5 household work days gained per month versus 1.0 day for placebo (p\u227a0.05). CZP patients also reported fewer days with reduced household productivity or days lost for participation in family, social and leisure activities. Improvements with CZP were seen as early as week 4 and continued to week 24.\n\nCONCLUSIONS.\nCZP treatment significantly improved productivity at paid work and within the home, and resulted in greater participation in social activities for PsA patients.\n\nTRIAL REGISTRATION NUMBER.\nNCT01087788.",
+        "target": "GOAL OF THE STUDY:\nThis study aimed to check how a drug called certolizumab pegol (CZP) helps adults with a type of arthritis, known as psoriatic arthritis (PsA), in their work life, home life, as well as in their ability to participate in family gatherings, socials and their hobbies.\n\nHOW THE STUDY WAS DONE:\nA large-scale trial involving 409 adults with PsA was conducted using either CZP or a placebo. They were divided into three groups - one got a placebo, one got a middle dose of CZP every 2 weeks, and the third received a higher dose of CZP every 4 weeks. A survey was used to measure if the drug increased productivity at work and home, and participation in various activities over a month. This survey data was then statistically examined and compared between the groups.\n\nWHAT THE STUDY FOUND:\nWhen the study started, a little over half of the people in each of the three groups had jobs. By week 24, those taking CZP were able to work more, missing 1.0 to 1.8 days less in a month due to illness and experiencing 3.0 to 3.9 fewer days of reduced productivity while at work compared to those taking the placebo. At home, the individuals on CZP also were more productive, gaining an average of 3 to 3.5 days of productive household work in a month. They also participated more in social and family activities and hobbies. These benefits started to appear as early as the 4th week and continued till the 24th week of the treatment.\n\nWHAT THIS MEANS:\nThe drug CZP can significantly help improve the work, home productivity, and social engagement of adults dealing with psoriatic arthritis.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 38,
+                        "feedback": "Could slightly rephrase the question: Q: How mature is the tested drug? Answer: The current study is a phase 3 trial that is used to confirm the preliminary evidence, gathered in phase 1 and phase 2 trials, that the drug is safe and effective.",
+                        "annotation": {
+                            "question": "What kind of evidence supports this study?",
+                            "answer": "The current study is a phase 3 trial that is used to confirm the preliminary evidence, gathered in phase 1 and phase 2 trials, that the drug is safe and effective.",
+                            "comment": "I wasn't sure how to write a question for this since a the concept of phase 3 clinical trial wouldn't be known to the common person. I'm also unsure about my definition for a phase 3 trial, since I found conflicting definitions in my search. "
+                        },
+                        "input_idx": [
+                            [
+                                259,
+                                267
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 39,
+                        "annotation": {
+                            "question": "How did the trial control for bias?",
+                            "answer": "The study was a double-blind trial, so neither the researchers nor the participants knew which drug each participant had been given. "
+                        },
+                        "input_idx": [
+                            [
+                                268,
+                                281
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 40,
+                        "annotation": {
+                            "question": "How were the participants put into the three groups?",
+                            "answer": "The participants were randomized and put into three equal sized groups. "
+                        },
+                        "input_idx": [
+                            [
+                                342,
+                                358
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                416,
+                                441
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 41,
+                        "annotation": {
+                            "question": "What was the survey used in the study?",
+                            "answer": "The survey used was the arthritis-specific Work Productivity Survey (WPS), which measures the productivity of patients with arthritis. "
+                        },
+                        "input_idx": [
+                            [
+                                437,
+                                490
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                568,
+                                574
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 42,
+                        "feedback": "Rather than explaining how the t-test works, it would be fine to explain the high level goal (rule out that the observed benefits of the drug are due to pure chance).",
+                        "annotation": {
+                            "question": "How was the data statistically examined?",
+                            "answer": "The data from the three groups was compared using a non-parametric bootstrap-t method, or when a sample is taken from the data using replacement (\"replacing\" samples back into the population so that they can occur more than once in the data) in order to calculate the t-value (which compares the means between two samples and measures their variability). ",
+                            "comment": "This is far beyond my statistical knowledge so I'm not fully confident in this definition."
+                        },
+                        "input_idx": [
+                            [
+                                683,
+                                719
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                728,
+                                754
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 43,
+                        "annotation": {
+                            "question": "What was the work productivity reported for those taking the placebo?",
+                            "answer": "Those taking the placebo only reported 1 less day of missing work per month, and .3 fewer days per month of reduced productivity at work. "
+                        },
+                        "input_idx": [
+                            [
+                                981,
+                                1048
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1087,
+                                1124
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 44,
+                        "feedback": "Was this omission intentional? The highlighted text does not answer the question.",
+                        "annotation": {
+                            "question": "What was the household productivity reported for patients taking the placebo?",
+                            "answer": "Placebo patients reported gaining 1 more day per month in household work. "
+                        },
+                        "input_idx": [
+                            [
+                                112,
+                                139
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 45,
+                        "feedback": "Discussion point: the original text compares household productivity w/ the drug vs. placebo. Should the question talk about that comparison? For example: Q: How does the household productivity compare between patients with the drug vs. with the placebo? A (sketch): The placebo patients gained 1 more day, whereas the CZP patients gained 3.0-3.5 days.",
+                        "annotation": {
+                            "question": "What was the household productivity reported by patients who took the placebo?",
+                            "answer": "The placebo patients reported gained 1 more day per month of household work. "
+                        },
+                        "input_idx": [
+                            [
+                                1159,
+                                1185
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-29T08:27:11.483Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 123,
+                        "annotation": {
+                            "question": "How was the study conducted to make sure there was no bias?",
+                            "answer": "The study was conducted as a double-blind (neither the participants nor the researchers having knowledge of which group was testing which drug), placebo-controlled (a trial in which there are two or more groups) study to avoid bias."
+                        },
+                        "input_idx": [
+                            [
+                                268,
+                                300
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 124,
+                        "annotation": {
+                            "question": "How were the doses of CZP administered to the non-placebo groups?",
+                            "answer": "One non-placebo group received a dose of 200mg every 2 weeks, and the other group received a higher dose of 400mg of CZP every 4 weeks."
+                        },
+                        "input_idx": [
+                            [
+                                371,
+                                436
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                444,
+                                565
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 125,
+                        "feedback": "Nice Q, because it reveals the content gap. However, I'm not sure if the answer makes it more clear or confusing. Could mention 'Researchers used a statistical method called bootstrap testing, to make sure that the observed benefits of the drug are not due to random chance' (also see Kathryn)",
+                        "annotation": {
+                            "question": "What statistical method was used to examine the results?",
+                            "answer": "The responses were examined using a non-parametric bootstrap statistical method, meaning the data was randomly sampled and replaced to form a \"new\" sample of data that could be analyzed. "
+                        },
+                        "input_idx": [
+                            [
+                                683,
+                                719
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                728,
+                                750
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-29T03:16:43.502Z"
+            }
+        ]
+    },
+    {
+        "id": 2699714,
+        "source": "OBJECTIVE.\nTo gather preliminary data on the feasibility and efficacy of etanercept therapy to prolong endogenous insulin production in pediatric patients with newly diagnosed type 1 diabetes.\n\nRESEARCH DESIGN AND METHODS.\nThis was a 24-week double-blind, randomized, placebo-controlled study conducted at the Diabetes Center, Women and Children's Hospital of Buffalo. Eighteen subjects (11 male and 7 female, aged 7.8\u201318.2 years) were randomly assigned to receive either placebo or etanercept. Inclusion criteria included age 3\u201318 years, GAD-65 and/or islet cell antibody positivity, A1C \u227b6%, three insulin injections per day, white blood cell count 3,000\u201310,000, platelets \u227b100,000, and normal liver and renal function. Intention-to-treat analysis was used.\n\nRESULTS.\nA1C at week 24 was lower in the etanercept group (5.91 \u00b1 0.5%) compared with that in the placebo group (6.98 \u00b1 1.2%; P \u227a 0.05) with a higher percent decrease from baseline than in the placebo group (etanercept 0.41 \u00b1 0.1 vs. placebo 0.18 \u00b1 0.21; P \u227a 0.01). The percent change in C-peptide area under the curve from baseline to week 24 showed a 39% increase in the etanercept group and a 20% decrease in the placebo group (P \u227a 0.05). From baseline to week 24 insulin dose decreased 18% in the etanercept group compared with a 23% increase in the placebo group (P \u227a 0.05). Seventeen patients completed the study, and none withdrew because of adverse events.\n\nCONCLUSIONS.\nIn this small pilot study, treatment of pediatric patients newly diagnosed with type 1 diabetes with etanercept resulted in lower A1C and increased endogenous insulin production, suggesting preservation of \u03b2-cell function. A larger study is needed to further explore safety and efficacy.",
+        "target": "GOAL.\nThe goal of this study was to test if a drug called etanercept could help children with newly detected type 1 diabetes continue making their own insulin for longer.\n\nSTUDY DESIGN. \nThis was a six-month experiment carried out at the Children's Hospital of Buffalo's Diabetes Center. A diverse group of 18 kids aged between 7.8-18.2 years participated. They were randomly split into two groups. One group received etanercept, and the other got a placebo (a substance with no therapeutic effect). The researchers used standard criteria, including age, health status, insulin injections, and general health markers to select the participants. They treated all participants equally whether they finished the study or not.\n\nFINDINGS. \nAt the end of the study, the group that received etanercept had a lower average blood sugar level and seemed to be making more of their own insulin than the placebo group. Their average insulin dose decreased by 18%, while the placebo group's average dose increased by 23%. Importantly, none of the patients dropped out due to side effects from the etanercept.\n\nCONCLUSIONS. \nThis small preliminary study suggests that etanercept might help children newly diagnosed with type 1 diabetes maintain their ability to produce insulin. Therefore, etanercept might delay the point at which patients need to rely entirely on insulin injections. More extensive research is needed to confirm this possibility and to ensure the safety and effectiveness of this treatment approach.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 23,
+                        "feedback": "Nice Q/A because it succinctly explains a difficult topic in easy language.",
+                        "annotation": {
+                            "question": "How did the study control for bias?",
+                            "answer": "Study was double-blind, so neither the researchers nor the participants knew which drug each participant had recieved. "
+                        },
+                        "input_idx": [
+                            [
+                                242,
+                                255
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 24,
+                        "feedback": "Yes please include! We want to take an inclusive perspective with our Q/A.",
+                        "annotation": {
+                            "question": "What was the ratio of gender among the participants?",
+                            "answer": "The participants included 11 male and 7 female. ",
+                            "comment": "This information may be unnecessary, but I included it just in case. "
+                        },
+                        "input_idx": [
+                            [
+                                387,
+                                409
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 25,
+                        "annotation": {
+                            "question": "What was the inclusion criteria?",
+                            "answer": "Participants included were between 3 and 18 years old, GAD-65 and/or islet cell antibody positivity (positive for antibodies that indicate an autoimmune disease), A1C (blood sugar level) >6%, three insulin injections per day, white blood cell (a part of the immune system) count 3,000 - 10,000, platelets (cells that form blood clots) >100,000, and normal liver and renal (kidney) function. "
+                        },
+                        "input_idx": [
+                            [
+                                495,
+                                721
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                500,
+                                616
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 26,
+                        "annotation": {
+                            "question": "How many patients completed the study?",
+                            "answer": "17 out of 18 patients completed the study. "
+                        },
+                        "input_idx": [
+                            [
+                                1341,
+                                1425
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1009,
+                                1095
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 27,
+                        "feedback": "(1) I would put this as omission, because the simplification does not mention anything about how the effect is measured. (2) The part about AUC may be difficult to understand. Could say: 'Imagine you have a graph that shows how the C-peptide changes over time. The area under the curve means they're looking at all the points on the graph and accumulating them.'",
+                        "annotation": {
+                            "question": "How was insulin production measured?",
+                            "answer": "Insulin production was measured by taking the percent change in C-peptide (an important part in the insulin molecule) area under the curve, which gives the cumulative measurement. "
+                        },
+                        "input_idx": [
+                            [
+                                1027,
+                                1079
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                865,
+                                882
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 28,
+                        "annotation": {
+                            "question": "How much lower were the blood sugar levels for the etanercept group compared to the placebo group?",
+                            "answer": "Patients taking etanercept had an average blood sugar level of around 6%, and patients taking the placebo had an average blood sugar level around 7%. "
+                        },
+                        "input_idx": [
+                            [
+                                770,
+                                896
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                795,
+                                832
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 29,
+                        "annotation": {
+                            "question": "How did the insulin production of the etanercept group compare to the placebo group?",
+                            "answer": "By week 24, the etanercept group showed a 39% increase in insulin production, while the placebo group showed a 20% decrease in insulin production. "
+                        },
+                        "input_idx": [
+                            [
+                                1112,
+                                1202
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                837,
+                                861
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 30,
+                        "feedback": "Could make more explicit what the primary finding was, and then lead into the other finding. For example 'Besides an average decrease in absolute blood sugar level, were there any other changes observed?'",
+                        "annotation": {
+                            "question": "Were there any other changes in blood sugar level observed in the study?",
+                            "answer": "The study also found that the etanercept group had a higher percent decrease in blood sugar levels from the baseline, with a .41% decrease, compared to the placebo group's .18% decrease. "
+                        },
+                        "input_idx": [
+                            [
+                                902,
+                                967
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 31,
+                        "annotation": {
+                            "question": "How does etanercept help children with newly diagnosed type 1 diabetes maintain their insulin production?",
+                            "answer": "The study suggests that etanercept helps with the preservation of \u03b2-cell function (pancreatic beta cells), which are the primary source of insulin. "
+                        },
+                        "input_idx": [
+                            [
+                                1619,
+                                1662
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1154,
+                                1264
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-30T04:57:00.352Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 119,
+                        "feedback": "Would an average adult know what is meant with 'parameters of the study?' (the answer is great btw!)",
+                        "annotation": {
+                            "question": "What were the parameters of the study?",
+                            "answer": "The study was double-blind (neither the participants nor the researchers knew which group had the drug, etanercept), randomized (the population receiving the drug was chosen at random from the eligible population), and placebo-controlled (a trial in which there are two or more groups, one of which receives a placebo drug). "
+                        },
+                        "input_idx": [
+                            [
+                                242,
+                                286
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 120,
+                        "annotation": {
+                            "question": "How many male and female participants were there?",
+                            "answer": "11 male and 7 female participants participated. "
+                        },
+                        "input_idx": [
+                            [
+                                387,
+                                409
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 121,
+                        "annotation": {
+                            "question": "What criteria did the researchers use to select eligible participants?",
+                            "answer": "The researchers gathered participants between the ages of 3-18, participants who were GAD-65 (an autoimmune disease marker) and/or islet cell antibody (cell markers that appear when insulin producing cells in pancreas are damaged) positive, those who scored higher than 6% blood sugar levels on the A1C test (blood glucose level test), those who receive three insulin injections per day, those how have a white blood cell count between 3000-10000, those with a platelet of less than 100,000, and those with normal liver and renal function. "
+                        },
+                        "input_idx": [
+                            [
+                                495,
+                                721
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                500,
+                                644
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 122,
+                        "annotation": {
+                            "question": "How many patients completed the study?",
+                            "answer": "Seventeen patients completed the study."
+                        },
+                        "input_idx": [
+                            [
+                                1341,
+                                1380
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-29T03:39:36.398Z"
+            }
+        ]
+    },
+    {
+        "id": 3215316,
+        "source": "Thalassemia is the commonest single gene disorder in India. About 10,000 infants with Thalassemia major are born every year. The present study was under taken with a hope to prevail better quality of life to the Thalassemic patients. Pallor being the chief complaint, a randomized controlled trial was undertaken with Dhatri Avaleha as it is specially mentioned for Pandu, Kamala & Haleemaka Roga. Children between age group of 1 to 15 years were randomly divided in two groups: Drug treated group (Group A) and Control group (Group B). Assessment was done on subjective and objective parameters after 30 and 60 days of treatment with follow up of two month. Statistically significant (P\u227a0.01) result was obtained in Blood transfusion interval in group 'A' in comparison to group 'B'. Dhatri Avaleha may have a potential to increase blood transfusion interval and decrease secondary infection and thus it can be used as supportive therapy with modern medical management.",
+        "target": "Thalassemia is the most common genetic disease in India, with around 10,000 babies born each year with severe Thalassemia. This study was done to try improve the quality of life for people living with Thalassemia. The main symptom these patients suffer is pallor, or paleness. \n\nThey used a traditional Indian medicine called Dhatri Avaleha, known for treating conditions like anemia, jaundice, and liver disease. The study involved children aged between 1 to 15 years old. They were split into two groups. Group A received the Dhatri Avaleha treatment, and Group B did not.\n\nThe children were monitored before treatment, after 30 days of treatment, after 60 days of treatment, and for two months after the treatment. The results showed that the children who took Dhatri Avaleha (Group A) could go longer without needing a blood transfusion than the children who didn't take the medicine (Group B).\n\nWhat this means is that Dhatri Avaleha could potentialy be used to lengthen the time between blood transfusions and lower the chance of secondary infections. This suggests it could be a good extra treatment to use alongside regular medical care for Thalassemia.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 115,
+                        "feedback": "This was tricky in our discussion. We eventually agreed on following: the model probably simplified 'the present study' to 'this study', so this is not a fuzzy concept for 'randomized controlled trial', but rather an omission of the word RCT. Later the text actually explains that the participants were split into two groups, but it still lacks some nuance about it being a random process. ==> Omission",
+                        "annotation": {
+                            "question": "How did the study control for bias?",
+                            "answer": "The study was a randomized control trial, so participants were randomly assigned to either an experimental group or a control group. "
+                        },
+                        "input_idx": [
+                            [
+                                268,
+                                297
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                123,
+                                133
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 116,
+                        "annotation": {
+                            "question": "How were the patients assigned to the two groups?",
+                            "answer": "The patients were randomly assigned to either of the two groups. "
+                        },
+                        "input_idx": [
+                            [
+                                447,
+                                478
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                484,
+                                506
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 117,
+                        "feedback": "Interesting catch! I would slightly rephrase: 'How reliable is this result?'",
+                        "annotation": {
+                            "question": "How can these results be considered reliable. ",
+                            "answer": "These results are statistically significant, so they are highly unlikely to occur b chance. "
+                        },
+                        "input_idx": [
+                            [
+                                659,
+                                700
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                718,
+                                729
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "comment",
+                        "id": 118,
+                        "feedback": "Thank you! Please keep pointing out those factuality errors/hallucinations!",
+                        "annotation": {
+                            "comment_text": "The simplified version seems to have hallucinated information, as the original article never mentions that the patients were monitored before treatment. "
+                        }
+                    }
+                ],
+                "_completed": "2023-09-30T06:32:41.335Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "comment",
+                        "id": 162,
+                        "annotation": {
+                            "comment_text": "Pandu, Kamala & Haleemaka Roga translates to anemia, jaundice, and liver disease"
+                        }
+                    },
+                    {
+                        "category": "omission",
+                        "id": 163,
+                        "feedback": "I don't think 'randomized controlled trial' was simplified as 'this study'. Also (i) we can assume that readers know that all studies are RCTs, (ii) later the text actually explains that the participants were split into two groups, so this Q/A becomes obsolete?",
+                        "annotation": {
+                            "question": "How was the effectiveness of Dhatri Avaleha studied? ",
+                            "answer": "The effectiveness of Dhatri Avaleha was studied through a randomized control trial (a study that measure the effectiveness of a new intervention or treatment). "
+                        },
+                        "input_idx": [
+                            [
+                                268,
+                                297
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-29T03:54:39.209Z"
+            }
+        ]
+    },
+    {
+        "id": 5350209,
+        "source": "AIM.\nRecent research has shown that adopting strong (i.e. high fear) visual health-warning messages can increase the perceived health risks and intentions to reduce alcohol consumption. Separately, it is known that the speed at which alcohol is consumed has dramatic effects on the level of intoxication. In the present study we aimed to combine these two separate areas to understand whether the speed of alcohol consumption is influenced by the type of alcohol health warning contained on the beverage.\n\nSUBJECT AND METHODS.\nIn the present study, female participants (N = 45) consumed an alcoholic beverage in a relaxed environment in one of three conditions: no health-warning label, a text-only health-warning label or a pictorial health-warning label with text.\n\nRESULTS.\nWe found that compared with the control condition, the beverage was consumed at a slower rate in the two health-warning conditions, which surprisingly did not differ from each other. Despite these effects, product acceptability did not differ between the text-only and control conditions.\n\nCONCLUSION.\nThese are the first set of results to demonstrate how the use of strong health warnings on alcoholic beverages can influence actual drinking rate and further suggest that the beneficial effects of slowed consumption are possible in the absence of any reduction in consumer acceptability.",
+        "target": "AIM.\nThis study aimed to find out if the kind of health warning on an alcoholic drink's bottle can affect how quickly people drink it. Previous studies found that scary health warnings make people realize the risks of drinking more clearly, and lead them to want to drink less. Another study showed that the faster you drink, the more drunk you get. We combined these two ideas to see if the type of health warning can make people drink slower.\n\nSUBJECT AND METHODS.\nWe tested this idea on 45 women. We gave them an alcoholic drink in a relaxed setting. There were three different groups: one group had drinks with no health warning, one had drinks with only a text warning, and one had drinks with a warning that included a picture and text.\n\nRESULTS.\nWe found that women drank slower when their drinks had a health warning, regardless of whether it was just text or included a picture. Interestingly, the speed was the same in both health warning groups. However, whether the drink had a warning or not did not affect whether they liked the drink.\n\nCONCLUSION.\nThis is the first study to show that strong health warnings on alcoholic drinks can make people drink slower. It also suggests that these warnings can be used without making the drink less appealing to consumers.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 106,
+                        "feedback": "Good Q/A. Just make sure that the highlight entails the answer as good as possible (missing 'strong').",
+                        "annotation": {
+                            "question": "What kind of health warnings do people find scary?",
+                            "answer": "Previous research shows that strong visual health-warning messages can influence alcohol consumption. "
+                        },
+                        "input_idx": [
+                            [
+                                69,
+                                99
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                163,
+                                184
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T04:11:50.561Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 156,
+                        "annotation": {
+                            "question": "What kind of health warnings are used to increase perceived health risks of alcohol?",
+                            "answer": "Strong, high-fear visual health warnings are used to increase perceived health risks of alcohol."
+                        },
+                        "input_idx": [
+                            [
+                                45,
+                                99
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                49,
+                                63
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 157,
+                        "annotation": {
+                            "question": "How were the results of the effect of visual warnings on the bottles analyzed? ",
+                            "answer": "The groups of women who had either a visual and text label or a health-warning label were compared with the control group who had bottles without labels."
+                        },
+                        "input_idx": [
+                            [
+                                791,
+                                827
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-29T04:23:32.337Z"
+            }
+        ]
+    },
+    {
+        "id": 4769147,
+        "source": "OBJECTIVES.\nBreastfeeding is known to reduce infant morbidity and improve well-being. Nevertheless, breastfeeding rates remain low despite public health efforts. Our study aims to investigate the effect of controlled limited formula usage during birth hospitalisation on breastfeeding, using the primary hypothesis that early limited formula feeds in infants with early weight loss will not adversely affect the rate of exclusive or any breastfeeding as measured at discharge, 3 and 6 months of age.\n\nMATERIAL AND METHODS.\nWe randomly assigned 104 healthy term infants, 24 to 48 hours old, with \u2265 5% loss of birth weight to controlled limited formula (CLF) intervention (10 ml formula by syringe after each breastfeeding, discontinued at onset of lactation) or control group (standard approach, SA). Groups were compared for demographic data and breastfeeding rates at discharge, 3 months and 6 months of age (p-values adjusted for multiple testing).\n\nRESULTS.\nFifty newborns were analysed in CLF and 50 in SA group. There were no differences in demographic data or clinical characteristics between groups. We found no evidence of difference between treatment groups in the rates of exclusive as well as any breastfeeding at discharge (p-value 0.2 and \u227b0.99 respectively), 3 months (p-value 0.12 and 0.10) and 6 months of infants\u2019 age (p-value 0.45 and 0.34 respectively). The percentage weight loss during hospitalisation was significantly higher in the SA group (7.3% in CLF group, 8.4% in SA group, p = 0.002).\n\nCONCLUSION.\nThe study shows that controlled limited formula use does not have an adverse effect on rates of breastfeeding in the short and long term. Larger studies are needed to confirm a possible potential in controlled limited formula use to support establishing breastfeeding and to help to improve the rates of breastfeeding overall.\n\nTRIAL REGISTRATION.\nISRCTN registry ISRCTN61915183",
+        "target": "GOAL OF THE STUDY.\nBreastfeeding is good for a baby's health and overall wellbeing-- but not enough women do it. We wanted to see if giving newborns a small amount of baby formula right after birth would hurt or help breastfeeding rates. We also wanted to know whether this approach would hinder breastfeeding when the baby is three or six months old.\n\nHOW THE STUDY WAS DONE.\nWe picked 104 healthy babies that had lost more than 5% of their birth weight and were between one and two days old. We split them into two groups. In one group, we gave the babies 10 ml of baby formula feed after each breastfeeding session (this was stopped as soon as the mother's milk came in). The other group followed the standard approach. We tracked breastfeeding rates when the babies left the hospital, and then checked in when they were three and six months old.\n\nWHAT WE FOUND.\nIn both groups, 50 newborns were examined. The groups were similar in terms of demographic data and clinical characteristics. There was no noticeable difference in breastfeeding rates at hospital discharge, at three months, or at six months between the two groups. One thing that did differ, was the amount of weight the babies lost in the hospital - babies in the standard approach lost more weight.\n\nWHAT THIS MEANS.\nOur study shows that giving newborns a small amount of baby formula feed doesn't seem to hurt breastfeeding rates in the short or long term. More studies need to be done to see if this approach can help more moms breastfeed and keep breastfeeding for longer.\n\nTRIAL REGISTRATION DETAILS.\nThe study is registered with the ISRCTN under the number ISRCTN61915183.\n",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 54,
+                        "annotation": {
+                            "question": "Have there been any previous efforts to improve the rates of breastfeeding?",
+                            "answer": "There have been previous public health efforts, but the rate of breastfeeding remains low. "
+                        },
+                        "input_idx": [
+                            [
+                                131,
+                                161
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 55,
+                        "feedback": "very elegant Q to reveal more background about the aim of the study.",
+                        "annotation": {
+                            "question": "What is the preliminary hypothesis?",
+                            "answer": "The hypothesis is that feeding infants with early weight loss limited formula during birth hospitalization will not have a negative effect on the rate of breastfeeding. "
+                        },
+                        "input_idx": [
+                            [
+                                286,
+                                450
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 56,
+                        "annotation": {
+                            "question": "How frequent will breastfeeding rates be measured?",
+                            "answer": "Breastfeeding rates will be measured when the baby is discharged from the hospital, at 3 months, and at 6 months of age. "
+                        },
+                        "input_idx": [
+                            [
+                                454,
+                                476
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 57,
+                        "annotation": {
+                            "question": "How were the babies split into two groups?",
+                            "answer": "The babies were randomly assigned to either the formula intervention group or the control group. "
+                        },
+                        "input_idx": [
+                            [
+                                523,
+                                543
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                494,
+                                524
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 58,
+                        "annotation": {
+                            "question": "What other data was collected from the two groups?",
+                            "answer": "Aside for measuring breastfeeding rates, demographic data (the characteristics of the group such as age or gender) was collected and compared between the two groups. "
+                        },
+                        "input_idx": [
+                            [
+                                800,
+                                841
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 59,
+                        "annotation": {
+                            "question": "How much weight did babies in the standard approach group lose compared to the babies who received formula?",
+                            "answer": "Babies in the SA group experience 8.4% weight loss during hospitalization, as compared to the formula intervention group which only experienced 7.3% weight loss. "
+                        },
+                        "input_idx": [
+                            [
+                                1373,
+                                1513
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1131,
+                                1266
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T04:35:27.445Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 126,
+                        "feedback": "I wonder if the researchers have the same definition of 'infant morbidity' in mind... Could take a safe approach and say 'breastfeeding reduces the risk of health problems'",
+                        "annotation": {
+                            "question": "What is a major benefit of breastfeeding for infants?",
+                            "answer": "Breastfeeding is known to reduce infant morbidity, meaning any medical condition resulting in postdelivery inpatient hospital readmission, observational stay, or mortality in the first 28 days of life. "
+                        },
+                        "input_idx": [
+                            [
+                                38,
+                                61
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 127,
+                        "annotation": {
+                            "question": "What hypothesis drives the breastfeeding and formula relationship study?",
+                            "answer": "The study is driven by the primary hypothesis that early limited formula feeds in infants with early weight loss will not hinder breastfeeding.",
+                            "comment": "some of the later sentence was captured in the simplification, but this was omitted"
+                        },
+                        "input_idx": [
+                            [
+                                286,
+                                416
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 128,
+                        "annotation": {
+                            "question": "How were the babies split into participant groups?",
+                            "answer": "The groups for the study were randomly assigned. "
+                        },
+                        "input_idx": [
+                            [
+                                526,
+                                543
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                494,
+                                524
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 129,
+                        "annotation": {
+                            "question": "How was the formula administered to the babies?",
+                            "answer": "The babies were given the formula by syringe. "
+                        },
+                        "input_idx": [
+                            [
+                                685,
+                                695
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                539,
+                                590
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-09-30T06:43:39.444Z"
+            }
+        ]
+    },
+    {
+        "id": 4555141,
+        "source": "Brain growth and development are critically dependent on several micronutrients. During early development cellular activity may be sensitive to micronutrient deficiencies, however the evidence from human studies is equivocal. The objective of this study was to examine the long-term cognitive and social-emotional effects of multiple micronutrient supplementation compared with iron supplementation alone, administered during infancy. This study was a follow-up to an initial randomized, double-blind controlled trial (RCT) in 2010 in which 902 infants, aged 6\u201317 months, from Lima, Peru, were given daily supplements of either iron (Fe) or multiple micronutrients (MMN) including zinc (451 in each group). The supplementation period for both groups was six months. In 2012, a subsample of 184 children from the original cohort (now aged 36\u201348 months) was randomly selected to participate in a follow-up trial and was assessed for intelligence, working memory, inhibition, and executive function. The tests showed no significant differences between the supplementation groups though there were some gender differences, with girls displaying higher scores than boys across both groups on the Wechsler Preschool and Primary Scale of Intelligence (WPPSI) Verbal IQ sentences subtest, the Day-Night cognitive test and on the Brief Infant-Toddler Social Emotional Assessment (BITSEA) social competency, and boys scoring higher than girls in problem behaviour. The results indicate that MMN supplementation had no long term additional effects on cognitive function compared with iron supplementation alone. The timing of supplement administration for maximum impact on a child's cognitive development requires further investigation.",
+        "target": "This study looked at how certain nutrients can affect the growth of a child's brain. The researchers wanted to find out how supplements of various nutrients given in early life might impact a child's long-term mental and emotional development. \n\nIn 2010, they gave daily supplements to 902 babies from Lima, Peru. Half of them got a supplement that was just iron, while the other half got a supplement that included iron plus some other nutrients, like zinc. They did this for six months.\n\nTwo years later, they got a random group of 184 kids from the original set to take part in another round of tests. They tested their intelligence, memory, and other brain functions, as well as their social-emotional skills. \n\nThe results showed that the type of supplement they had as babies didn't make a difference in these areas. However, there was a noticeable difference between boys and girls. For example, girls generally had higher scores in verbal intelligence and social skills, while boys had higher scores in problem behaviour. \n\nThese findings mean that giving extra nutrients beyond iron did not make a difference to these children's cognitive function in the long term. But the researchers reckon more research is needed to find the best time to give supplements for maximum benefit to a child's brain development.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 60,
+                        "annotation": {
+                            "question": "Why did the researchers feel the need to conduct a study on how nutrient supplementation affects children's brain development?",
+                            "answer": "Several micronutrients (nutrients that the body needs in only small amounts) are very important in brain development, and early development stages may be more sensitive to deficiencies. However, evidence on the subject from previous human studies is inconclusive. ",
+                            "comment": "These omitted sentences could be split up into two questions, but as a single question the answer is more cohesive. "
+                        },
+                        "input_idx": [
+                            [
+                                0,
+                                225
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 61,
+                        "annotation": {
+                            "question": "What kind of nutrient supplements are given in the study?",
+                            "answer": "The study is focused on giving several micronutrient supplements, or supplements of vitamins and minerals that are needed by your body in relatively small amounts. "
+                        },
+                        "input_idx": [
+                            [
+                                325,
+                                363
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                124,
+                                156
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 62,
+                        "annotation": {
+                            "question": "What is the control group in this study?",
+                            "answer": "The study compares the effects of giving several micronutrient supplements as opposed to giving only iron supplements. "
+                        },
+                        "input_idx": [
+                            [
+                                364,
+                                398
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 63,
+                        "annotation": {
+                            "question": "How did the 2010 study control for bias?",
+                            "answer": "The 2010 study was randomized, so the babies were randomly assigned to either group, as well as double-blind, meaning neither the researchers nor the participants knew which supplement a baby was given. "
+                        },
+                        "input_idx": [
+                            [
+                                476,
+                                517
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 64,
+                        "annotation": {
+                            "question": "What are the other brain functions that were tested?",
+                            "answer": "The researchers also tested the children's inhibition (the ability to exert self-control) and their executive function (high level cognitive skills that control your cognitive behaviors). "
+                        },
+                        "input_idx": [
+                            [
+                                961,
+                                996
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                649,
+                                671
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 65,
+                        "annotation": {
+                            "question": "How did the researchers measure verbal intelligence and social skills?",
+                            "answer": "Researchers tested the children using the Wechsler Preschool and Primary Scale of Intelligence Verbal IQ sentences subtest (an IQ test for children aged 3-7 years), the Day-Night cognitive test (a test that requires children to respond 'day' to a picture of a night sky and 'night' to a picture of the sun), and the Brief Infant-Toddler Social Emotional Assessment social competency (a questionnaire completed by the children's parents). "
+                        },
+                        "input_idx": [
+                            [
+                                1187,
+                                1397
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                903,
+                                978
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 66,
+                        "annotation": {
+                            "question": "How old were the babies in the 2010 study?",
+                            "answer": "The babies were aged 6-17 months. "
+                        },
+                        "input_idx": [
+                            [
+                                554,
+                                571
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                290,
+                                296
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T07:42:45.819Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 130,
+                        "annotation": {
+                            "question": "What is an essential part of brain growth and development?",
+                            "answer": "Brain growth and development are critically dependent on several micronutrients, also referred to as vitamins and minerals. "
+                        },
+                        "input_idx": [
+                            [
+                                0,
+                                80
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 131,
+                        "annotation": {
+                            "question": "Why are micronutrients essential to brain growth and development?",
+                            "answer": "In early development stages, developmental cellular activity is sensitive to a lack of micronutrient deficiencies. However, the evidence of this from human studies remains ambiguous. "
+                        },
+                        "input_idx": [
+                            [
+                                81,
+                                225
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 132,
+                        "annotation": {
+                            "question": "How are the micronutrient supplementation effects being analyzed?",
+                            "answer": "The researchers are comparing the effects of micronutrient supplementation to iron supplementation (iron salts or pills, which can be used to treat iron deficiency) alone. "
+                        },
+                        "input_idx": [
+                            [
+                                364,
+                                405
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 133,
+                        "feedback": "I found this question a bit confusing, because of the later question 'how old are the babies in the study'? It feels ok to just have it once?",
+                        "annotation": {
+                            "question": "How old are the children the researchers are studying?",
+                            "answer": "The researchers are studying the effects of micronutrients administered in a child's early life, specifically during infancy. "
+                        },
+                        "input_idx": [
+                            [
+                                406,
+                                434
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                166,
+                                176
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 134,
+                        "annotation": {
+                            "question": "How old were the babies in the study?",
+                            "answer": "The babies in the study were between 6-17 months old."
+                        },
+                        "input_idx": [
+                            [
+                                554,
+                                571
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                290,
+                                301
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 135,
+                        "annotation": {
+                            "question": "How was the study conducted to avoid bias?",
+                            "answer": "The study randomized the participants into each of the groups and was double-blind (neither the participants nor the experimenters know who is receiving a particular treatment) and controlled. "
+                        },
+                        "input_idx": [
+                            [
+                                476,
+                                517
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 136,
+                        "annotation": {
+                            "question": "How old were the participants in the second trial?",
+                            "answer": "In the later trial, the participants were between 36 and 48 months old. ",
+                            "comment": "the system glitched and would not let me highlight only \"kids\""
+                        },
+                        "input_idx": [
+                            [
+                                828,
+                                851
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                538,
+                                547
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 137,
+                        "annotation": {
+                            "question": "What brain functions did the follow-up trial test?",
+                            "answer": "The follow-up trial looked at working memory (the retention of a small amount of information in a readily accessible form), inhibition (the ability to inhibit or control impulsive or automatic responses), and executive function (the higher-level cognitive skills you use to control and coordinate your other cognitive abilities and behaviors). "
+                        },
+                        "input_idx": [
+                            [
+                                945,
+                                996
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                649,
+                                671
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 138,
+                        "annotation": {
+                            "question": "What tests did girls generally score higher on compared to boys in the study?",
+                            "answer": "The girls displayed higher scores on the Wechsler Preschool and Primary Scale of Intelligence (WPPSI) Verbal IQ sentences subtest (designed to assess a child's cognitive abilities), the Day-Night cognitive test (testing children's ability to distinguish between night and day), and the Brief Infant-Toddler Social Emotional Assessment (BITSEA) (analyzes social-emotional behavioral development). "
+                        },
+                        "input_idx": [
+                            [
+                                1191,
+                                1378
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                903,
+                                936
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T03:35:30.867Z"
+            }
+        ]
+    },
+    {
+        "id": 3926947,
+        "source": "Systematic evaluation of child and adolescent psychiatric outpatient treatment is important but time-consuming. The aim of this paper was to study whether Interactive Voice Response (IVR) is a more effective method than a questionnaire sent by post when following up outpatient treatment in child and adolescent psychiatry. Eighty patients were recruited from a child and adolescent psychiatric outpatient unit in Sweden. One parent of each of the patients was randomized to complete the BCFPI follow-up form, using either IVR (n = 40) or postal survey (n = 40) one month after discharge. The response rate for complete answers was 65% in the IVR group and 38% in the postal survey group (p = 0.014). There was less need for reminders in the IVR group (p = 0.000). IVR is a promising and cost-effective method for evaluating evidence-based treatment in child and adolescent psychiatric care.",
+        "target": "This paper looks at whether using automated phone calls (Interactive Voice Response, or IVR) works better than sending a questionnaire in the mail for keeping track of treatments in child and teen mental health care. The study was carried out in Sweden, with 80 patients from a mental health clinic for children and teenagers. One parent of each patient was asked to fill in a follow-up form about their child's treatment either over the phone or by mail.\n\nOut of these, 65% of those who were asked to use the phone gave complete answers, compared to 38% who got the questionnaire in the mail. Also, fewer reminders were needed for the group using the phone. This suggests that using automated phone calls could be a promising and cost-effective way to keep track of treatments in child and teen mental health care.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 4,
+                        "annotation": {
+                            "question": "What type of treatments are being kept track of?",
+                            "answer": "Outpatient treatment(s), which is when treatments/services don't require hospitalization or the patient leaves the hospital the same day of receiving care."
+                        },
+                        "input_idx": [
+                            [
+                                58,
+                                78
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                168,
+                                178
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 5,
+                        "annotation": {
+                            "question": "What type of mental health clinic was used in the study?",
+                            "answer": "An outpatient clinic, where patients do not stay overnight for treatment. "
+                        },
+                        "input_idx": [
+                            [
+                                372,
+                                410
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                278,
+                                302
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 6,
+                        "feedback": "Mh, yes this is tricky. I would try to be careful to give definitions of vague terms (other example above) where we do not know if the authors have the same definition in mind. But in general, I like this thinking!",
+                        "annotation": {
+                            "question": "What type of mental health care is being provided to the patients in the study?",
+                            "answer": "Psychiatric care, in which direct or consultative services are being provided by a licensed psychiatrist. Psychiatry is the branch of medicine focused on the diagnosis, treatment and prevention of mental, emotional and behavioral disorders.",
+                            "comment": "Not sure how important the distinction, but psychiatric  care includes \"direct or consultative services provided by a psychiatrist licensed in the state in which the psychiatrist practices.\" and mental health care could mean a wider variety of things."
+                        },
+                        "input_idx": [
+                            [
+                                874,
+                                891
+                            ],
+                            [
+                                46,
+                                57
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                197,
+                                216
+                            ],
+                            [
+                                796,
+                                815
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T22:28:12.119Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 139,
+                        "feedback": "Suggestion: 'What was the motivation for this study?'",
+                        "annotation": {
+                            "question": "What is an important aspect of psychiatric care for children and adolescents? ",
+                            "answer": "Systematic evaluation of children and adolescents is a time-consuming but important aspect of psychiatric outpatient treatment (allows patients to get treatment without staying in a hospital). ",
+                            "comment": "a few articles have opening sentences like these that were completely cut from the simplification; these are a bit hard to write questions for"
+                        },
+                        "input_idx": [
+                            [
+                                0,
+                                111
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 140,
+                        "annotation": {
+                            "question": "When was one parent of certain participants asked to fill out a follow-up form?",
+                            "answer": "The selected parents were asked to fill out a follow-up form one month after treatment."
+                        },
+                        "input_idx": [
+                            [
+                                562,
+                                588
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                367,
+                                391
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 141,
+                        "annotation": {
+                            "question": "How were parents selected to fill out the follow-up form? ",
+                            "answer": "One parent of each patient was selected to fill out the follow-up form in a randomized selection."
+                        },
+                        "input_idx": [
+                            [
+                                422,
+                                471
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                327,
+                                353
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 142,
+                        "annotation": {
+                            "question": "What form was used in the study?",
+                            "answer": "The BCFPI (brief child and family phone interview, used to follow up with mental health services) follow-up form was used in the study. ",
+                            "comment": "the better highlight here would be \"follow-up form\" on the simplified side, but it was already highlighted for another question"
+                        },
+                        "input_idx": [
+                            [
+                                484,
+                                509
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                392,
+                                421
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T03:45:19.383Z"
+            }
+        ]
+    },
+    {
+        "id": 5513842,
+        "source": "BACKGROUND.\nCholecystectomy can be associated with considerable postoperative pain. While the benefits of paravertebral block (PVB) on pain after thoracotomy and mastectomy have been demonstrated, not enough investigations on the effects of PVB on pain after open cholecystectomy have been conducted. We tested the hypothesis that a single-injection thoracic PVB reduces pain scores, decreases opioid consumption, and prolongs analgesic request time after cholecystectomy.\n\nMETHODS.\nOf 52 patients recruited, 50 completed the study. They were randomly allocated into two groups: the paravertebral group and the control group. The outcome measures were the severity of pain measured on numeric pain rating scale, total opioid consumption, and first analgesic request time during the first postoperative 24 hours.\n\nRESULT.\nThe main outcomes recorded during 24 hours after surgery were Numerical Rating Scale (NRS) pain scores (NRS, 0\u201310), cumulative opioid consumption, and the first analgesic request time. Twenty four hours after surgery, NRS at rest was 4 (3\u20136) vs 5 (5\u20137) and at movement 4 (4\u20137) vs 6 (5\u20137.5) for the PVB and control groups, respectively. The difference between the groups over the whole observation period was statistically significant (P\u227a0.05). Twenty-four hours after surgery, median (25th\u201375th percentile) cumulative morphine consumption was 0 (0\u20132) vs 2.5 (2\u20134) mg (P\u227a0.0001) and cumulative tramadol consumption was 200 (150\u2013250) mg vs 300 (200\u2013350) mg in the paravertebral and in the control group, respectively (P=0.003). After surgery, the median (25th\u201375th percentile) first analgesic requirement time was prolonged in the PVB group in statistically significant fashion (P\u227a0.0001).\n\nCONCLUSION AND RECOMMENDATIONS.\nSingle-shot thoracic PVB as a component of multi-modal analgesic regimen provided superior analgesia when compared with the control group up to 24 postoperative hours after cholecystectomy, and we recommend this block for post cholecystectomy pain relief.",
+        "target": "BACKGROUND.\nWhen people have their gallbladders removed (a surgery known as cholecystectomy), they often experience a lot of pain afterward. So, there's been a lot of focus on how to manage this pain. One method is known as a paravertebral block (PVB), which has been shown to help with pain from other types of surgeries, like thoracotomy and mastectomy. But we don't know as much about how PVB can reduce pain after gallbladder removal. Our goal here was to see if a one-time PVB injection could lessen the intensity of pain, reduce the need for strong pain medications (opioids), and extend the time before a patient needed more pain relief.\n\nMETHODS.\nWe studied 50 people who had their gallbladders removed in an open surgery. They were split into two groups: one group received the PVB, the other did not (they were our control group). We then looked at how bad their pain was, how much opioid medication they needed, and how long it took before they asked for more pain relief in the first 24 hours following surgery.\n\nRESULTS.\nWe found some promising results! The PVB group reported less pain 24 hours after their surgery than the control group did. They took less opioid medication and waited longer before asking for more pain relief. These differences were significant, meaning it wasn't just due to chance.\n\nCONCLUSION AND RECOMMENDATIONS.\nIn conclusion, using a single dose of PVB as part of a pain management strategy seems to provide better pain relief after gallbladder surgery compared to not using it. We believe that PVB should be used to ease the pain after gallbladder surgery.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 0,
+                    "feedback": "Good that you mention this in the comment! We might use this info later to filter Q/A.",
+                        "annotation": {
+                            "question": "What type of PVB is being administered?",
+                            "answer": "A thoracic PVB, which is a wedge-shaped space located on either side of the vertebral column (the spine near the collar bone).",
+                            "comment": "Still not sure what PVB is, did my best"
+                        },
+                        "input_idx": [
+                            [
+                                350,
+                                362
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                469,
+                                491
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 1,
+                        "feedback": "later on the numeric scale is also mentioned, but omitted in the simplification (see annotation Kathryn).",
+                        "annotation": {
+                            "question": "How was their pain rated?",
+                            "answer": "On a numeric scale."
+                        },
+                        "input_idx": [
+                            [
+                                682,
+                                711
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 2,
+                        "annotation": {
+                            "question": "How did they measure the patients' opioid medication needs? ",
+                            "answer": "They tracked their total consumption of opioids."
+                        },
+                        "input_idx": [
+                            [
+                                718,
+                                737
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                892,
+                                922
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 3,
+                        "annotation": {
+                            "question": "How long after surgery are the results of this study valid for?",
+                            "answer": "The results were determined for up to 24 hours after the surgery."
+                        },
+                        "input_idx": [
+                            [
+                                1880,
+                                1908
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1467,
+                                1492
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T22:48:14.939Z"
+            },
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 46,
+                        "annotation": {
+                            "question": "What kind of PVB injection was used?",
+                            "answer": "A thoracic PVB injection, or an injection along the thoracic vertebrae (the part of the spine from the base of the neck until the middle of the back), was used in the study. "
+                        },
+                        "input_idx": [
+                            [
+                                350,
+                                362
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                478,
+                                491
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 47,
+                        "annotation": {
+                            "question": "How many people completed the study?",
+                            "answer": "50 of the original 52 patients recruited completed the study. "
+                        },
+                        "input_idx": [
+                            [
+                                483,
+                                532
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                655,
+                                679
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 48,
+                        "annotation": {
+                            "question": "How were the patients divided into the two groups?",
+                            "answer": "Patients were randomly allocated into either the PVB group or the control group. "
+                        },
+                        "input_idx": [
+                            [
+                                543,
+                                561
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                741,
+                                763
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 49,
+                        "feedback": "Should probably also highlight the part in the result section 'Numerical Rating Scale (NRS) pain scores (NRS, 0–10)' to cover the 0 to 10 aspect.",
+                        "annotation": {
+                            "question": "How was pain measured in the study?",
+                            "answer": "Pain was measured according to a numeric pain rating scale ranging from 0 to 10. "
+                        },
+                        "input_idx": [
+                            [
+                                673,
+                                711
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 50,
+                        "annotation": {
+                            "question": "How much pain did the PVB group feel compared to the control group?",
+                            "answer": "The PVB group reported feeling an average of 4 on the pain scale when resting and when moving. Meanwhile, the control group reported feeling an average of 5 on the pain scale when resting and 6 when moving. "
+                        },
+                        "input_idx": [
+                            [
+                                1039,
+                                1156
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1071,
+                                1151
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 51,
+                        "annotation": {
+                            "question": "How did the PVB group's opioid consumption compare to the control group?",
+                            "answer": "For the PVB group, the median cumulative consumption of morphine was 0mg, and the cumulative consumption of tramadol was 200mg (morphine and tramadol are both narcotics used to treat pain). For the control group, the median cumulative consumption of morphine was 2.5mg, and consumption of tramadol was 300mg. "
+                        },
+                        "input_idx": [
+                            [
+                                1298,
+                                1522
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1157,
+                                1189
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 52,
+                        "annotation": {
+                            "question": "What kind of pain management strategy is recommended with a PVB?",
+                            "answer": "Thoracic PVB is recommended as a part of a multi-modal analgesic regimen, or using more than one type of analgesic (pain relief medication including opioids, anti-inflammatory drugs and local anesthetics). "
+                        },
+                        "input_idx": [
+                            [
+                                1785,
+                                1814
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1406,
+                                1436
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 53,
+                        "annotation": {
+                            "question": "How long does the pain relief last after surgery?",
+                            "answer": "The pain relief from a single-shot PVB lasts up to 24 hours after surgery. "
+                        },
+                        "input_idx": [
+                            [
+                                1880,
+                                1908
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1467,
+                                1492
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T04:52:01.434Z"
+            }
+        ]
+    },
+    {
+        "id": 5545112,
+        "source": "AIM.\nTo prospectively evaluate the effects of vitamin D3 on disease activity and quality of life in ulcerative colitis (UC) patients with hypovitaminosis D.\n\nMETHODS.\nThe study was a prospective double-blinded, randomized trial conducted at Community Regional Medical Center, Fresno, CA from 2012\u20132013. Patients with UC and a serum 25(OH)D level \u227a30 ng/ml were eligible for the study. Enrolled subjects were randomized to receive either 2,000 IU or 4,000 IU of oral vitamin D3 daily for a total of 90 days. The Short IBD Questionnaire (SIBDQ) for quality of life, the Partial Mayo Score for UC disease activity and serum lab tests were compared between the two treatment groups. Matched pair t-tests were computed to assess differences between the vitamin D levels, CRP, UC disease activity and SIBDQ scores before and after vitamin D3 therapy using SPSS version 21.\n\nRESULTS.\nEight UC patients received 2,000 IU/daily and ten UC patients received 4,000 IU/daily of vitamin D3 for 90 days. Vitamin D levels increased after 90 days of oral vitamin D3 in both dose groups. However, the increase in vitamin D levels after 90 days of oral vitamin D3, in the 4,000 IU group was significantly higher 16.80 \u00b1 9.15 (p \u227a 0.001) compared to the 2,000 IU group of vitamin D 5.00 \u00b1 3.12 (p = 0.008). Normal vitamin D levels (\u227b30 ng/dl) were achieved in four out of the ten UC patients (40%) in the 4,000 IU group and in one out of the eight UC patients (12%) in the 2,000 IU group. In the group receiving 4,000 IU/day of vitamin D3 the increase in quality life scores (SIBDQ) was significant 1.0 \u00b1 1.0 (p = 0.017) but not in the 2,000 IU vitamin D3 group 0.1 \u00b1 1.0 (p = 0.87). In the 2,000 IU of vitamin D3 group the mean decrease in the Partial Mayo UC Score was \u22120.5 \u00b1 1.5 (p = 0.38) compared to \u22121.3 \u00b1 2.9 (p = 0.19) in the 4,000 IU vitamin D3 group but this was not statistically significant. CRP levels decreased after 90 days of daily vitamin D3 in both the 2,000 IU group and 4,000 IU group by \u22123.0 \u00b1 9.4 (p = 0.4) and \u221210.8 \u00b1 35.0 (p = 0.36) respectively.\n\nCONCLUSION.\nVitamin D3 at 4,000 IU/day is more effective than 2,000 IU/day in increasing vitamin D to sufficient levels in UC patients with hypovitaminosis D, however higher doses or treatment beyond ninety days may be required. Vitamin D3 may improve the quality of life in UC patients but clinically significant improvement is not yet established. The effect of vitamin D3 on UC disease activity is still unclear. Further larger studies are needed to investigate the effects of vitamin D in ulcerative colitis.",
+        "target": "GOAL:\nThis study looks at whether taking vitamin D3 can affect a particular form of bowel disease (ulcerative colitis) and improve the lives of patients with low levels of vitamin D.\n\nMETHODS:\nThe study was carried out at a medical center in Fresno, California, between 2012 and 2013. Patients with this disease and low vitamin D levels were included. Participants were randomly given either 2,000 IU or 4,000 IU of vitamin D3 daily for 90 days. Researchers used surveys about participant\u2019s quality of life and a score system for disease severity. Lab tests were done and compared between the two groups. Researchers also checked if their vitamin D levels, inflammation, and scores changed before and after taking the vitamin D3.\n\nRESULTS:\nEight patients got 2,000 IU/daily and ten got 4,000 IU/daily of vitamin D3 for three months. Vitamin D levels went up in both groups, but more so in the group taking the higher dose. Healthy vitamin D levels were reached in four out of the ten patients (40%) in the high dose group and one out of eight patients (12%) in the low dose group. The quality of life score also improved significantly in the high dose group, but not in the low dose group. The severity scores of the disease didn\u2019t change significantly in either group. Taking vitamin D3 also seemed to lower inflammation in both groups.\n\nCONCLUSION:\nTaking 4,000 IU/day of vitamin D3 is more likely to increase vitamin D levels in patients with low levels of vitamin D. However, higher doses or longer time may be needed. Vitamin D3 might improve the quality of life in these patients, but it isn't proven yet. The effect on the severity of the disease is still not clear. More research is needed to better understand the impact of vitamin D in this bowel disease.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 15,
+                        "annotation": {
+                            "question": "What disease did patients in the study have?",
+                            "answer": "Ulcerative colitis (UC)- which is a form of bowel disease."
+                        },
+                        "input_idx": [
+                            [
+                                317,
+                                319
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                299,
+                                311
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 16,
+                        "annotation": {
+                            "question": "What else did researchers check before and after patients took vitamin D3?",
+                            "answer": "They checked ulcerative colitis (UC), a type of bowel disease, activity."
+                        },
+                        "input_idx": [
+                            [
+                                771,
+                                790
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 17,
+                        "annotation": {
+                            "question": "How many days were the patients given daily vitamin D3?",
+                            "answer": "90 days.",
+                            "comment": "Three months can have more than 90 days"
+                        },
+                        "input_idx": [
+                            [
+                                981,
+                                989
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                819,
+                                832
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-01T23:00:59.280Z"
+            },
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 94,
+                        "annotation": {
+                            "question": "How did the study control for bias?",
+                            "answer": "The study was a double-blinded trial, so neither the researchers nor the patients knew which treatment each patient received. "
+                        },
+                        "input_idx": [
+                            [
+                                195,
+                                227
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                193,
+                                202
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 95,
+                        "annotation": {
+                            "question": "How low were the vitamin D levels in patients that were included in the study?",
+                            "answer": "Participants in the study all had less than 30ng/ml of vitamin D, which is below the minimum recommendation of vitamin D levels in the body. "
+                        },
+                        "input_idx": [
+                            [
+                                324,
+                                355
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                316,
+                                336
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 96,
+                        "annotation": {
+                            "question": "What survey was used to measure participants' quality of life?",
+                            "answer": "Researchers used the Short IBD Questionnaire (a questionnaire on quality of life specific to inflammatory bowel disease) to measure quality of life of participants. "
+                        },
+                        "input_idx": [
+                            [
+                                507,
+                                563
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                463,
+                                506
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 97,
+                        "annotation": {
+                            "question": "What score system was used to measure disease severity?",
+                            "answer": "The Partial Mayo Score (a non-invasive assessment given on a 9-point scale using how often patients poop, bleeding from the anus, and a Physician Global Assessment, which is a clinician's overall judgement of the disease) was used in the study to judge disease severity. "
+                        },
+                        "input_idx": [
+                            [
+                                568,
+                                610
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                513,
+                                547
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 98,
+                        "annotation": {
+                            "question": "What kind of lab tests were done?",
+                            "answer": "Researchers conducted serum lab tests for serum 25(OH)D, the major circulating form of vitamin D, in order to measure vitamin D levels in patients. ",
+                            "comment": "I couldn't find a better definition of serum 25(OH)D."
+                        },
+                        "input_idx": [
+                            [
+                                615,
+                                630
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                548,
+                                557
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 99,
+                        "annotation": {
+                            "question": "How was inflammation measured?",
+                            "answer": "Inflammation was measured by measuring levels of c-reactive protein, which is made by your liver and released when your body detects inflammation. "
+                        },
+                        "input_idx": [
+                            [
+                                766,
+                                770
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                657,
+                                670
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 100,
+                        "annotation": {
+                            "question": "How did researchers calculate how the measurements changed from before taking vitamin D3 and after?",
+                            "answer": "Researchers used matched pair t-tests, which compares the distribution of two measurements using the mean and standard deviation, in order to calculate the difference between the measurements over time.  "
+                        },
+                        "input_idx": [
+                            [
+                                679,
+                                699
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                675,
+                                706
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 101,
+                        "annotation": {
+                            "question": "What is a healthy level of vitamin D?",
+                            "answer": "A healthy level of vitamin D in the body is over 30 ng/dl (nanograms per deciliter). "
+                        },
+                        "input_idx": [
+                            [
+                                1288,
+                                1323
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                923,
+                                947
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 102,
+                        "annotation": {
+                            "question": "How much did levels of vitamin D increase in the 4,000 IU/daily group compared to the 2,000IU/daily group?",
+                            "answer": "The 4,000 IU group saw an increase of an average of 16.80 ng/dl (nanograms per deciliter) of vitamin D, while the 2,000 IU group saw an increase of an average of 5.00 ng/dl. ",
+                            "comment": "I can't be sure about the measurements for the increase, since none were given in the original, and several measurement are used in relation to vitamin D. "
+                        },
+                        "input_idx": [
+                            [
+                                1173,
+                                1287
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                874,
+                                922
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 103,
+                        "annotation": {
+                            "question": "How did the quality of life improve in the high dose group compared to the low dose group?",
+                            "answer": "The quality of life scores increased on average by 1 for the 4,000 IU/day group, but the quality of life for the 2,000 IU/day only increased by an average of 0.1. "
+                        },
+                        "input_idx": [
+                            [
+                                1493,
+                                1664
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1081,
+                                1189
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 104,
+                        "annotation": {
+                            "question": "How did the severity scores of the high dose group change compared to the low dose group?",
+                            "answer": "The 4,000 IU/day group saw a decrease in the severity of the disease by an average score of 1.3, and the 2,000 IU/day group saw an average decrease of 0.5. "
+                        },
+                        "input_idx": [
+                            [
+                                1726,
+                                1840
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1194,
+                                1269
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 105,
+                        "annotation": {
+                            "question": "How did the change in inflammation in the high dose group compare to the low dose group?",
+                            "answer": "The 4,000 IU/day group saw an average decrease in CRP levels by 10.3mg/L, and the 2,000 IU/day group saw an average decrease of 3mg/L. ",
+                            "comment": "I'm not sure about the unit of measurement for CRP levels since it is not specified in the original article. "
+                        },
+                        "input_idx": [
+                            [
+                                1896,
+                                2051
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1288,
+                                1337
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T06:36:27.344Z"
+            }
+        ]
+    },
+    {
+        "id": 3608893,
+        "source": "OBJECTIVE.\nThis study examined the efficacy of a commercially available, portion-controlled diet (PCD) on body weight and HbA1c over 6 months in obese patients with type 2 diabetes.\n\nRESEARCH DESIGN AND METHODS.\nOne-hundred participants with a mean\u00b1s.d. age of 55.6\u00b110.6 year, body weight of 102.9\u00b118.4 kg and HbA1c of 7.7\u00b11.3% were randomly assigned to a 9-session group lifestyle intervention that included a PCD or to a 9-session group program of diabetes self-management education (DSME). Participants in the two groups were prescribed the same goals for energy intake (1250\u20131550 kcal per day) and physical activity (200 min per week).\n\nRESULTS.\nWhile both groups produced significant improvements in weight and HbA1c after 6 months of treatment, PCD participants lost 7.3 kg [95% confidence interval (CI): \u22125.8 to \u22128.8 kg], compared with 2.2 kg (95% CI: \u22120.7 to \u22123.7 kg) in the DSME group (P\u227a0.0001). Significantly more PCD than DSME participants lost \u2a7e5% of initial weight (54.0% vs 14.0%, P\u227a0.0001) and \u2a7e10% (26.0% vs 6.0%, P\u227a0.0001). HbA1c declined by 0.7% (95% CI: \u22120.4 to \u22121.0%) in the PCD group, compared with 0.4% (95% CI: \u22120.1 to \u22120.7%) in DSME (P\u227a0.026). Across both groups, larger weight losses were associated with greater reductions in HbA1c (r=0.52, P\u227a0.0001).\n\nCONCLUSIONS.\nThese findings demonstrate that a commercially available portion-controlled meal plan can induce clinically meaningful improvements in weight and glycemic control in obese individuals with type 2 diabetes. These data have implications for the management of obesity in primary care, as now provided by the Centers for Medicare and Medicaid Services.",
+        "target": "OBJECTIVE\nThe purpose of this study is to see how effective a ready-to-eat, portion-controlled diet is on weight and blood sugar levels over six months in overweight patients with Type 2 diabetes.\n\nRESEARCH DESIGN AND METHODS\nWe had 100 participants on average about 55 years old, weighing about 102.9 kilos, with a blood sugar level of 7.7%. They were placed randomly into two groups. One group used the portion-controlled diet as part of a nine-session lifestyle program, while the other group had a nine-session program focused on teaching them to manage Type-2 diabetes. Both groups had the same goals for daily calorie intake (1250-1550 calories) and weekly exercise (200 minutes).\n\nRESULTS\nOn the whole, both groups improved in weight and blood sugar levels after 6 months. However, those on the portion-controlled diet lost an average of 7.3 kilos compared to 2.2 kilos in the diabetes management group. More people in the portion-controlled diet group lost at least 5% of their starting weight and 10% of their starting weight. Blood sugar levels also decreased more in the portion-controlled group compared to the diabetes management group. Across both groups, the more weight lost, the better the decrease in blood sugar levels.\n\nCONCLUSION\nThe findings show that ready-to-eat, portion-controlled meals can significantly improve weight and blood sugar control in overweight people with Type 2 diabetes. These results matter to doctors and health services who want to help patients deal with being overweight.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 77,
+                        "annotation": {
+                            "question": "How many people in the portion-controlled diet group lost 5% or 10% of their starting weight compared to the diabetes management group?",
+                            "answer": "54% of the PCD group lost 5% of their starting weight, and 26% of the PCD group lost 10% of their starting weight. However, only 14% of the diabetes management group lost 5% of their starting weight, and 6% of the group lost 10% of their starting weight. "
+                        },
+                        "input_idx": [
+                            [
+                                906,
+                                1041
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                911,
+                                1035
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 78,
+                        "annotation": {
+                            "question": "How much did blood sugar levels decrease in the portion-controlled diet group compared to the diabetes management group?",
+                            "answer": "In the portion-controlled diet group, blood sugar levels decreased by an average of 0.7%, while in the diabetes management group, blood sugar levels only decreased by an average of 0.4%. "
+                        },
+                        "input_idx": [
+                            [
+                                1042,
+                                1168
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1036,
+                                1149
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T18:07:32.693Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 148,
+                        "annotation": {
+                            "question": "By how much did blood sugar levels decrease in the portion-controlled diet group compared to the diabetes management group?",
+                            "answer": "Blood sugar levels decreased by about 0.7% in the portion-controlled diet group compared to about 0.4% in the diabetes management group. ",
+                            "comment": "I'm not sure if this is an example of a statistic we would ignore; other parts of the simplification included the weight loss percentages so it felt relevant"
+                        },
+                        "input_idx": [
+                            [
+                                1042,
+                                1168
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1036,
+                                1149
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 149,
+                        "annotation": {
+                            "question": "What health services provide care for overweight individuals who want to manage their obesity?",
+                            "answer": "The Centers for Medicare and Medicaid provide care for overweight individuals who want to manage their obesity. "
+                        },
+                        "input_idx": [
+                            [
+                                1598,
+                                1641
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1449,
+                                1464
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T06:53:08.833Z"
+            }
+        ]
+    },
+    {
+        "id": 3893439,
+        "source": "BACKGROUND.\nPersistent neuroinflammation and disruptions in brain energy metabolism is commonly seen in traumatic brain injury (TBI). Because of the lack of success of most TBI interventions and the documented benefits of environmental enrichment (EE) in enhancing brain plasticity, here we focused our study on use of EE in regulating injury-induced neuroinflammation and disruptions in energy metabolism in the prefrontal cortex and hippocampus. Adult male Wistar rats were used in the study and randomly assigned to receive either: mild TBI (mTBI) using the controlled cortical injury model or sham surgery. Following surgery, rats from each group were further randomized to either: EE housing or standard laboratory housing (CON). After 4 weeks of recovery, cognitive testing was performed using the non-matching-to-sample and delayed non-matching-to-sample tasks. After completion of behavioral testing, levels of the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and the anti-inflammatory cytokine IL-10 were measured. In addition, levels of AMPK (adenosine monophosphate-activated protein kinase), phosphorylated AMPK and uMtCK (ubiquitous mitochondrial creatine kinase) were assessed as measures of brain energy homeostasis.\n\nRESULTS.\nOur results showed that EE: (1) decreased the pro-inflammatory cytokines IL-1\u03b2 and TNF-\u03b1 and enhanced levels of the anti-inflammatory cytokine IL-10 after mTBI; (2) mitigated mTBI-induced cognitive impairment; and (3) attenuated mTBI-induced downregulation in pAMPK/AMPK ratio and uMtCK levels.\n\nCONCLUSIONS.\nOur data demonstrated the potential of EE to modulate the persistent: (1) neuroinflammatory response seen following mTBI, and (2) persistent disturbance in brain energy homeostasis. It is possible that through the mechanism of modulating neuroinflammation, EE housing was able to restore the disruption in energy metabolism and enhanced functional recovery after mTBI.",
+        "target": "BACKGROUND.\nBrain injuries often lead to long-lasting inflammation and energy disruptions in brain activities. Despite several medical treatments, their effectiveness has been limited. However, it is known that environment enrichment (EE) - an uplifting environment - can help in boosting brain recovery. This study therefore looked into how EE can help in reducing inflammation and restoring energy balance in the brain after a minor brain injury. We conducted our study on adult male rats, which either had a minor brain injury or a fake surgery. These rats were then placed in either an EE or normal living conditions. After four weeks, we tested their cognitive abilities and measured the levels of inflammatory proteins in their brain. We also checked for levels of certain proteins that regulate brain energy balance.\n\nRESULTS.\nOur findings showed that EE: (1) reduced the inflammation-causing proteins and increased healing proteins following a minor brain injury; (2) lessened the cognitive problems caused by the minor brain injury; and (3) diminished the decline in energy regulating proteins from the minor brain injury.\n\nCONCLUSIONS.\nOur study suggests that EE can help to control persistent: (1) inflammation in the brain after a minor brain injury, and (2) the ongoing disruption in brain energy balance. Through these effects, EE could help to fix the energy imbalance and improve brain recovery after a minor injury.",
+        "annotations": [
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 85,
+                        "annotation": {
+                            "question": "What kind of brain injuries cause these symptoms?",
+                            "answer": "These symptoms are common in traumatic brain injuries, or brain injuries caused by an outside (often violent) force. "
+                        },
+                        "input_idx": [
+                            [
+                                104,
+                                133
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                12,
+                                26
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 86,
+                        "annotation": {
+                            "question": "How does environment enrichment help boost brain recovery?",
+                            "answer": "Environment enrichment is documented to enhance brain plasticity, or the adaptability of the brain to internal or external stimuli. "
+                        },
+                        "input_idx": [
+                            [
+                                199,
+                                282
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                268,
+                                304
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 87,
+                        "annotation": {
+                            "question": "Where in the brain is this study focused on?",
+                            "answer": "The study is focused on inflammation and energy disruptions in the prefrontal cortex (responsible for complex cognitive behavior like thoughts, actions and emotions) and the hippocampus (responsible for storing long-term memories). "
+                        },
+                        "input_idx": [
+                            [
+                                406,
+                                447
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                408,
+                                426
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 88,
+                        "annotation": {
+                            "question": "What breed of rat was used in the study?",
+                            "answer": "The study used adult male Wistar rats, a breed of rats developed at the Wistar institute that is commonly used in medical research. "
+                        },
+                        "input_idx": [
+                            [
+                                448,
+                                470
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                475,
+                                491
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 89,
+                        "annotation": {
+                            "question": "How were the rats assigned to receive either a minor brain injury or a fake surgery?",
+                            "answer": "The rats were randomly assigned to receive either a minor brain injury or a fake surgery. "
+                        },
+                        "input_idx": [
+                            [
+                                498,
+                                526
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                492,
+                                508
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 90,
+                        "annotation": {
+                            "question": "How was the mild brain injury induced in the rats?",
+                            "answer": "Mild traumatic brain injury was induced using the controlled cortical injury model, which is a piston controlled either through electromagnetism or air pressure to induce reliable and replicable brain injuries. "
+                        },
+                        "input_idx": [
+                            [
+                                551,
+                                593
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 91,
+                        "annotation": {
+                            "question": "How were the rats placed in their living conditions?",
+                            "answer": "The rats were randomly assigned to either environment enrichment conditions or standard laboratory housing conditions."
+                        },
+                        "input_idx": [
+                            [
+                                651,
+                                685
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                560,
+                                579
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 92,
+                        "annotation": {
+                            "question": "What are normal living conditions for the rats?",
+                            "answer": "Normal conditions consist of standard laboratory housing, which is normally a simple cage of a single open space. "
+                        },
+                        "input_idx": [
+                            [
+                                700,
+                                734
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                596,
+                                621
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 93,
+                        "annotation": {
+                            "question": "How were their cognitive abilities tested?",
+                            "answer": "The rats' cognitive abilities were tested using non-matching-to-sample tasks (tests the rats' memory by presenting a stimulus then presenting a mix of known stimuli and unknown stimuli and rewarded for choosing the unknown stimuli) and delayed non-matching-to-sample tasks (which is the same with more time between presenting the original stimulus and the test stimuli). "
+                        },
+                        "input_idx": [
+                            [
+                                762,
+                                868
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                643,
+                                675
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T18:58:45.820Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 150,
+                        "annotation": {
+                            "question": "What severity of brain injuries usually have long-lasting inflammation and energy disruptions in brain activities? ",
+                            "answer": "Traumatic brain injury (TBI), a brain injury caused by an outside force, like a violent blow to the head, often leads to long-lasting inflammation and energy disruptions in brain activities. "
+                        },
+                        "input_idx": [
+                            [
+                                104,
+                                133
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                12,
+                                26
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 151,
+                        "annotation": {
+                            "question": "How does environment enrichment (EE) help boost brain recovery?",
+                            "answer": "Environment enrichment (EE) helps boost brain recovery by enhancing brain plasticity, which is the ability of the brain to change its activity in response to intrinsic or extrinsic stimuli by reorganizing its structure, functions, or connections. "
+                        },
+                        "input_idx": [
+                            [
+                                252,
+                                282
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                268,
+                                304
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 152,
+                        "annotation": {
+                            "question": "What part(s) of the brain is being observed in this study?",
+                            "answer": "The study is focusing on how environmental enrichment (EE) affects the prefrontal cortex (regulates thoughts, actions and emotions) and the hippocampus (involved in learning and memory). "
+                        },
+                        "input_idx": [
+                            [
+                                406,
+                                447
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                408,
+                                420
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 153,
+                        "annotation": {
+                            "question": "Where were the \"normal\" living conditions for rats in the study?",
+                            "answer": "The \"normal\" living conditions for the rats were in standard laboratory housing (CON), a controlled laboratory environment. "
+                        },
+                        "input_idx": [
+                            [
+                                700,
+                                734
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                596,
+                                621
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 154,
+                        "annotation": {
+                            "question": "How were the rats' cognitive abilities tested?",
+                            "answer": "The rats' cognitive abilities were tested using the non-matching-to-sample and delayed non-matching-to-sample tasks, in which the subject must choose the stimulus that does not match the test (sample) stimulus that was presented before the recall delay. "
+                        },
+                        "input_idx": [
+                            [
+                                794,
+                                868
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                643,
+                                675
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 155,
+                        "annotation": {
+                            "question": "What proteins did the researchers check for when conducting observations on the rats? ",
+                            "answer": "The researchers checked for pro-inflammatory cytokines IL-1\u03b2 (controls inflammatory responses), TNF-\u03b1 (regulates the macrophages, which are found at infection sites or as mobile white blood cells to combat infections), and anti-inflammatory cytokine IL-10 (prevents inflammatory and autoimmune diseases). The researchers also checked for AMPK (adenosine monophosphate-activated protein kinase), which regulates cellular metabolism, phosphorylated AMPK (regulates balanced cellular functions), and uMtCK (ubiquitous mitochondrial creatine kinase), which is responsible for the transfer of high energy between the mitochondria to energy recovering and producing cells. "
+                        },
+                        "input_idx": [
+                            [
+                                923,
+                                1174
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                771,
+                                787
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T07:09:07.057Z"
+            }
+        ]
+    },
+    {
+        "id": 5771057,
+        "source": "PURPOSE.\nThis study examines whether cognitive function, as measured by the subtests of the Woodcock\u2013Johnson III (WCJ-III) assessment, predicts listening-effort performance during dual tasks across the adults of varying ages.\n\nMATERIALS AND METHODS.\nParticipants were divided into two groups. Group 1 consisted of 14 listeners (number of females = 11) who were 41\u201361 years old [mean = 53.18; standard deviation (SD) = 5.97]. Group 2 consisted of 15 listeners (number of females = 9) who were 63\u201381 years old (mean = 72.07; SD = 5.11). Participants were administered the WCJ-III Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests. All participants were tested in each of the following three dual-task experimental conditions, which were varying in complexity: (1) auditory word recognition + visual processing, (2) auditory working memory (word) + visual processing, and (3) auditory working memory (sentence) + visual processing in noise.\n\nRESULTS.\nA repeated measures analysis of variance revealed that task complexity significantly affected the performance measures of auditory accuracy, visual accuracy, and processing speed. Linear regression revealed that the cognitive subtests of the WCJ-III test significantly predicted performance across dependent variable measures.\n\nCONCLUSION.\nListening effort is significantly affected by task complexity, regardless of age. Performance on the WCJ-III test may predict listening effort in adults and may assist speech-language pathologist (SLPs) to understand challenges faced by participants when subjected to noise.",
+        "target": "PURPOSE.\nThis study aims to establish if a test we often use to assess thinking skills can also help us understand how hard adults of different ages find it to listen and do something else at the same time.\n\nMATERIALS AND METHODS.\nWe had two groups of volunteers. The first group, made up of 14 people mostly women (11 out of 14), were aged between 41 and 61 years. The second group had 15 people, only nine women, aged between 63 and 81. We asked these people to do a few tests from the Woodcock\u2013Johnson III. This is an assessment tool we typically use to evaluate how the brain processes information. Then our volunteers had to do two tasks at the same time. These tasks were a bit different for each round, but the idea was always the same: listen to something while also watching something.\n\nRESULTS.\nLooking at the results, it became clear that the difficulty of the task influences how well people did in terms of hearing accurately, seeing accurately, and how quickly they processed information. Additionally, the certain thinking-related subtests from the taken test could potentially help predict how well people performed in complex tests.\n\nCONCLUSION.\nIt turns out that the more difficult the task, the harder it can be for anyone, regardless of their age, to listen and do another task at the same time. Also, the better someone does on the specific Woodcock\u2013Johnson III test, the easier they might find doing two things at once. This information may help speech-language experts understand the problems individuals might run into when there's background noise.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 21,
+                        "annotation": {
+                            "question": "What test is used to asses thinking skills?",
+                            "answer": "The Woodcock Johnson III (WCJ-III) assessment, which is individually administered test covering a wide variety of cognitive skills, like numerical reasoning."
+                        },
+                        "input_idx": [
+                            [
+                                72,
+                                134
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                38,
+                                86
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 22,
+                        "annotation": {
+                            "question": "What tests from Woodcock-Johnson III were done by the participants?",
+                            "answer": "Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests."
+                        },
+                        "input_idx": [
+                            [
+                                578,
+                                666
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                467,
+                                509
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T20:49:00.597Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 164,
+                        "annotation": {
+                            "question": "What tests from the Woodcock-Johnson III test did participants complete?",
+                            "answer": "The participants did the Memory for Words, Auditory Working Memory, Visual Matching, and Decision Speed subtests from the Woodcock-Johnson III test. "
+                        },
+                        "input_idx": [
+                            [
+                                578,
+                                666
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                467,
+                                509
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 165,
+                        "annotation": {
+                            "question": "How were the dual tasks paired for the participants?",
+                            "answer": "The dual tasks were paired as follows:  (1) auditory word recognition + visual processing, (2) auditory working memory (word) + visual processing, and (3) auditory working memory (sentence) + visual processing in noise."
+                        },
+                        "input_idx": [
+                            [
+                                796,
+                                975
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                633,
+                                660
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 166,
+                        "annotation": {
+                            "question": "How were the results analyzed?",
+                            "answer": "The results of the study were analyzed through a repeated measure of variance observation method, which compares means (averages) across one or more variables that are based on repeated observations. "
+                        },
+                        "input_idx": [
+                            [
+                                997,
+                                1026
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T17:50:58.916Z"
+            }
+        ]
+    },
+    {
+        "id": 5448649,
+        "source": "Since the prognosis of advanced biliary tract cancer (aBTC) still remains very poor, new therapeutic approaches, including immunotherapies, need to be developed. In the current study, we conducted an open\u2010label randomized phase II study to test whether low dose cyclophosphamide (CPA) could improve antigen\u2010specific immune responses and clinical efficacy of personalized peptide vaccination (PPV) in 49 previously treated aBTC patients. Patients with aBTC refractory to at least one regimen of chemotherapies were randomly assigned to receive PPV with low dose CPA (100 mg/day for 7 days before vaccination) (PPV/CPA, n = 24) or PPV alone (n = 25). A maximum of four HLA\u2010matched peptides were selected based on the pre\u2010existing peptide\u2010specific IgG responses, followed by subcutaneous administration. T cell responses to the vaccinated peptides in the PPV/CPA arm tended to be greater than those in the PPV alone arm. The PPV/CPA arm showed significantly better progression\u2010free survival (median time: 6.1 vs 2.9 months; hazard ratio (HR): 0.427; P = 0.008) and overall survival (median time: 12.1 vs 5.9 months; HR: 0.376; P = 0.004), compared to the PPV alone arm. The PPV alone arm, but not the PPV/CPA arm, showed significant increase in plasma IL\u20106 after vaccinations, which might be associated with inhibition of antigen\u2010specific T cell responses. These results suggested that combined treatment with low dose CPA could provide clinical benefits in aBTC patients under PPV, possibly through prevention of IL\u20106\u2010mediated immune suppression. Further clinical studies would be recommended to clarify the clinical efficacy of PPV/CPA in aBTC patients.",
+        "target": "Biliary tract cancer (aBTC), a type of liver cancer, has a very poor survival rate. To help improve this, we're researching new treatments, one of which includes therapies that strengthen the body's immune system. \n\nIn a recent study, we tested a treatment using low-dose cyclophosphamide (CPA), a type of drug often used in chemotherapy, combined with a personalised peptide vaccination (PPV). The PPV is tailored specifically to each patient's immune response. To test this combined treatment, we gave it to 24 patients and compared them to a group of 25 patients who received only the PPV. \n\nResults showed that those who received the combination of CPA and PPV had a stronger immune response and displayed slower cancer progression, living longer than those who received only PPV. We noticed that the combo treatment worked better because it prevented the release of IL-6 protein, a substance which can suppress the immune system. \n\nIn conclusion, the addition of low-dose CPA to PPV shows promise as a potential treatment for advanced biliary tract cancer patients. Further research is needed to confirm these findings.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 18,
+                        "annotation": {
+                            "question": "What about biliary tract cancer (aBTC) caused this study to take place?",
+                            "answer": "The poor prognosis, which is how likely a patient is to recover from a condition. ",
+                            "comment": "Not sure on wording"
+                        },
+                        "input_idx": [
+                            [
+                                10,
+                                19
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                59,
+                                83
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 19,
+                        "annotation": {
+                            "question": "What aspect of combining low-dose CPA and PPV is being tested?",
+                            "answer": "The study wants to see if this combination could improve immune responses to specific triggers. "
+                        },
+                        "input_idx": [
+                            [
+                                285,
+                                332
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                238,
+                                246
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 20,
+                        "annotation": {
+                            "question": "Who was the personalised PPV tailored to?",
+                            "answer": "49 previously treated aBTC patients."
+                        },
+                        "input_idx": [
+                            [
+                                400,
+                                436
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                355,
+                                367
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T21:11:18.502Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 158,
+                        "annotation": {
+                            "question": "What kind of study was used to test the treatment?",
+                            "answer": "The study utilized an open-label randomized phase II study, a trial that is not completely blinded, typically in that subjects and physicians have knowledge of the assigned treatment, to test the treatment. "
+                        },
+                        "input_idx": [
+                            [
+                                197,
+                                236
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                238,
+                                256
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 159,
+                        "annotation": {
+                            "question": "Why is the study using a combination of low-dose cyclophosphamide (CPA) and personalized peptide vaccination (PPV)? ",
+                            "answer": "The study is using a combination of low-dose cyclophosphamide (CPA) and personalized peptide vaccination (PPV) to see if it could improve antigen-specific immune responses (the ability of the host cells to recognize an antigen). "
+                        },
+                        "input_idx": [
+                            [
+                                285,
+                                332
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 160,
+                        "annotation": {
+                            "question": "How was the treatment administered? ",
+                            "answer": "The treatment was administered through subcutaneous administration (injection or infusion beneath the skin). "
+                        },
+                        "input_idx": [
+                            [
+                                772,
+                                800
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                499,
+                                521
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 161,
+                        "annotation": {
+                            "question": "How could lose does CPA provide clinical benefits to aBTC patients under PPV?",
+                            "answer": "The treatment could provide clinical benefits by preventing IL-6 immune responses (produces albumin, which is a protein that circulates in blood plasma) from suppressing the immune system."
+                        },
+                        "input_idx": [
+                            [
+                                1480,
+                                1544
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T19:20:14.240Z"
+            }
+        ]
+    },
+    {
+        "id": 4065461,
+        "source": "BACKGROUND.\nThis study investigated the effect of combining oral dexamethasone with either nebulized racemic epinephrine or salbutamol compared to bronchodilators alone for the treatment of infants with bronchiolitis.\n\nMATERIALS AND METHODS.\nThis was a double-blind, randomized controlled trial on infants (1 to 12 months) who were diagnosed in the emergency department with moderate-to-severe bronchiolitis. The primary outcome was the rate of hospital admission within 7 days of the first dose of treatment, and the secondary outcomes were changes in respiratory distress assessment instrument score, heart rate, respiratory rate, and oxygen saturation (O2 Sat) over a 4-hour observation period. Infants (n = 162) were randomly assigned to four groups: A (dexamethasone + racemic epinephrine) = 45, B (placebo and racemic epinephrine) =39, C (dexamethasone and salbutamol) = 40, or D (placebo and salbutamol) = 38.\n\nRESULTS.\nPatients who had received dexamethasone + epinephrine exhibited similar admission rates compared to placebo + epinephrine or salbutamol (P = 0.64). Similarly, no statistically significant difference was observed in the rate of hospitalization for patients who received dexamethasone + salbutamol compared to those who received placebo + epinephrine or salbutamol (P = 0.51). Clinical parameters were improved at the end of the 4-hour observation period for all treatment groups. Treatment with dexamethasone + epinephrine resulted in a statistically significant change in HR over time (P \u227a 0.005) compared to the other groups.\n\nCONCLUSIONS.\nThis study adds to a body of evidence suggesting that corticosteroids have no role in the management of bronchiolitis for young infants who are first time wheezers with no risk of atopy.",
+        "target": "BACKGROUND.\nThis research looked at how well infants with a common lung infection called bronchiolitis responded to different combinations of medicines. \n\nMATERIALS AND METHODS.\nThe study investigated the effects on babies between 1 to 12 months old. The babies were divided into four groups and were given different combinations of drugs. The major goal was to see if combining these drugs could reduce the need for hospital stays. \n\nRESULTS.\nThe study showed that the combination of dexamethasone and epinephrine resulted in the same number of hospital admissions as the other combinations. This was also the case for the combination of dexamethasone and salbutamol. However, the babies receiving these combinations showed improvements in their breathing and heart rates. \n\nCONCLUSIONS.\nThe study concluded that this does not support the use of corticosteroids (like dexamethasone) in managing bronchiolitis in young first-time wheezing infants.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 7,
+                        "annotation": {
+                            "question": "What are the different combinations of medicines being compare to?",
+                            "answer": " The study is comparing them to using just bronchodilators alone, which are a type of medication that makes breathing easier by relaxing the muscles in the lungs and widening the airways."
+                        },
+                        "input_idx": [
+                            [
+                                147,
+                                168
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 8,
+                        "annotation": {
+                            "question": "What combinations of medicine were being tested?",
+                            "answer": "Oral dexamethasone, which is an orally taken medicine that provides relief for inflamed areas of the body, combined with either nebulized racemic epinephrine, which decreases airway obstruction or with salbutamol, a medication that opens up the medium and large airways in the lungs."
+                        },
+                        "input_idx": [
+                            [
+                                50,
+                                134
+                            ],
+                            [
+                                60,
+                                78
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                116,
+                                152
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 9,
+                        "annotation": {
+                            "question": "What condition did the babies in the study have?",
+                            "answer": "The babies in the study were diagnosed with moderate-to-severe bronchiolitis. "
+                        },
+                        "input_idx": [
+                            [
+                                349,
+                                408
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                216,
+                                230
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 10,
+                        "annotation": {
+                            "question": "What combinations  of drugs were the babies given? ",
+                            "answer": "Group A was given dexamethasone (the oral medicine that provides relief for inflamed areas in the body) and racemic epinephrine (which decreases airway obstruction). Group B was given a placebo and racemic epinephrine. Group C was given dexamethasone and salbutamol (a medication that opens up medium and large airways in the lungs). Group D was given a placebo and salbutamol. "
+                        },
+                        "input_idx": [
+                            [
+                                812,
+                                916
+                            ],
+                            [
+                                755,
+                                794
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                301,
+                                339
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 11,
+                        "annotation": {
+                            "question": "What was the other goal of the study?",
+                            "answer": "To see how the medicine affected respiration measurements, heart rate, respiratory issues, and oxygen saturation (how many blood particles are bound to oxygen) over 4 hours."
+                        },
+                        "input_idx": [
+                            [
+                                473,
+                                697
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 12,
+                        "annotation": {
+                            "question": "What did group A demonstrate compared to the other groups?",
+                            "answer": "A significant change in heart rate."
+                        },
+                        "input_idx": [
+                            [
+                                1477,
+                                1553
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 13,
+                        "annotation": {
+                            "question": "What other characteristic do the wheezing infants with bronchiolitis have?",
+                            "answer": "No risk of atopy.",
+                            "comment": "wording Q "
+                        },
+                        "input_idx": [
+                            [
+                                1737,
+                                1754
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T21:48:29.445Z"
+            },
+            {
+                "annotator": "Keziah",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 143,
+                        "annotation": {
+                            "question": "How are the effects of the medicine combinations being compared?",
+                            "answer": "The effects of the medicine combinations are being compared to the effects of only using bronchodilators (a type of medication that make breathing easier) for infants with bronchiolitis alone."
+                        },
+                        "input_idx": [
+                            [
+                                135,
+                                217
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 144,
+                        "annotation": {
+                            "question": "What type of study was conducted to avoid bias?",
+                            "answer": "A double-blind (neither the participants nor the experimenters know who is receiving a particular treatment), randomized controlled trial was conducted to avoid bias in the study."
+                        },
+                        "input_idx": [
+                            [
+                                251,
+                                294
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                182,
+                                187
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 145,
+                        "annotation": {
+                            "question": "What levels of bronchiolitis were studied in the participants?",
+                            "answer": "The infant participants were diagnosed in the emergency department with moderate-to-severe bronchiolitis. "
+                        },
+                        "input_idx": [
+                            [
+                                342,
+                                408
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 146,
+                        "annotation": {
+                            "question": "What other parts of infant health will be monitored to assess the impact of the medicine combinations? ",
+                            "answer": "Changes in the infants' respiratory distress assessment (includes interpretation of vital signs; inspection of the patient's breathing pattern, skin color, and respiratory status) scores, heart rate, respiratory rate, and oxygen saturation levels will be monitored as secondary outcomes of the study. "
+                        },
+                        "input_idx": [
+                            [
+                                542,
+                                654
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 147,
+                        "annotation": {
+                            "question": "How long were the infants observed?",
+                            "answer": "The infants were observed over a 4-hour period."
+                        },
+                        "input_idx": [
+                            [
+                                664,
+                                697
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T19:45:42.244Z"
+            }
+        ]
+    },
+    {
+        "id": 5827507,
+        "source": "CONTEXT.\nDentinal hypersensitivity (DH) is a chronic disorder in which patients report sharp and acute pain to a variety of stimuli. Till date, a standardized procedure to treat DH is missing, though several alternative treatment strategies have been designed, including laser therapies.\n\nAIM.\nThe aim of the study was to treat DH with minimum chemical concentration and least laser energy level with longer follow-up period.\n\nMATERIALS AND METHODS.\nOne hundred and twenty patients were randomly divided into four groups: (i) Group 1-5% potassium nitrate (KNO3); (ii) Group 2 - gallium-aluminum-arsenide diode laser (62.2 J/cm2, wavelength - 980 nm, noncontact pulse mode, and power wattage - 0.5 W); (iii) Group 3 - combined 5% KNO3 and the diode laser; and (iv) Group 4 - placebo (control). The visual analog scale (VAS) scores were recorded, analyzed, and compared to tactile stimuli, cold water, and air blast tests at different intervals for 6 weeks.\n\nRESULTS.\nSynergistic use of 5% KNO3 and diode laser (Group 3) significantly reduced the DH pain, which was almost negligible after 6th week (97%\u201399% of the pain was reported to be relieved) and showed promising results than any other studied groups. Further, the diode laser (Group 2) showed better results than 5% KNO3 (Group 1). One-way ANOVA and Bonferroni correction post hoc test revealed the combination of groups with significant differences in the mean VAS scores at the different interval of time (P \u227a 0.01).\n\nCONCLUSIONS.\nConvincingly, the combined application of 5% KNO3 with the diode laser can be recommended for treating DH patients.",
+        "target": "CONTEXT.\nPeople who experience sensitivity in their teeth (also known as dentinal hypersensitivity or DH) often feel a sharp pain when they eat certain foods or drink certain liquids. Up to now, there hasn't been a universal treatment for this type of tooth sensitivity, though some doctors have been using various methods, including laser treatments.\n\nAIM.\nThe goal of this study was to find a way to treat tooth sensitivity using the smallest amount possible of a particular chemical and a low level of laser energy, and then keep track of those patients for a long period of time. \n\nMATERIALS AND METHODS.\nOne hundred and twenty patients were randomly split into four groups: one group was treated with potassium nitrate; a second group had a procedure done with a specific type of laser; a third group both received the chemical and the laser treatment; the fourth group received a placebo or fake treatment. They measured the levels of the patients' tooth sensitivity by asking them to describe their pain before and after the treatment. This was done using tests with different materials and temperatures over a period of 6 weeks. \n\nRESULTS.\nThe group where we combined the chemical and laser treatment (Group 3) reported a significant decrease in their tooth sensitivity. In fact, by the 6th week, almost all of the patients in that group no longer felt the pain (97%-99% of them reported relief). This group performed better than the other treatment groups. \n\nCONCLUSIONS.\nConsidering these results, using a combination of low-dose potassium nitrate and laser treatment seems to be an effective way to treat tooth sensitivity.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [
+                    {
+                        "category": "omission",
+                        "id": 14,
+                        "annotation": {
+                            "question": "What other significant result did the study show?",
+                            "answer": "Group 2, using just a specific type of laser, had better results than group 1, which used just potassium nitrate, a chemical compound, to treat the sensitivity. "
+                        },
+                        "input_idx": [
+                            [
+                                1207,
+                                1287
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-02T21:58:07.839Z"
+            },
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 79,
+                        "annotation": {
+                            "question": "How much potassium nitrate was used?",
+                            "answer": "Group 1 was given 5% potassium nitrate."
+                        },
+                        "input_idx": [
+                            [
+                                532,
+                                554
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                689,
+                                724
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 80,
+                        "annotation": {
+                            "question": "What type of laser was used?",
+                            "answer": "This study used a gallium-aluminum-arsenide diode laser, which is often used to perform surgery on the soft tissue in the mouth. ",
+                            "comment": "I couldn't find a lot of information about this laser. "
+                        },
+                        "input_idx": [
+                            [
+                                578,
+                                615
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                768,
+                                791
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 81,
+                        "annotation": {
+                            "question": "What kind of tests were done to check sensitivity?",
+                            "answer": "Researchers tested sensitivity to tactile stimuli such as cold water and air blast tests. "
+                        },
+                        "input_idx": [
+                            [
+                                871,
+                                919
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1043,
+                                1110
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 82,
+                        "annotation": {
+                            "question": "How did the participants describe their pain levels to the researchers?",
+                            "answer": "This study used a visual analog scale to measure pain, where patients are given a numeric range to decide their level of pain. "
+                        },
+                        "input_idx": [
+                            [
+                                793,
+                                829
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                991,
+                                1017
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 83,
+                        "annotation": {
+                            "question": "How did the other treatments perform in comparison to each other?",
+                            "answer": "The results showed that Group 2 that received only the laser treatment showed better results than Group 1 who received only a low-dose of potassium nitrate. "
+                        },
+                        "input_idx": [
+                            [
+                                1207,
+                                1287
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 84,
+                        "annotation": {
+                            "question": "How did the researchers calculate how the different groups performed comparatively?",
+                            "answer": "Using the mean pain visual analog scores for each group, the researchers conducted a one-way ANOVA (used to determine if there is a significant difference between the means of 3 or more groups) and Bonferroni correction (adjusts probability to correct for falsely rejecting the null hypothesis) post hoc test (a multiple comparison test). "
+                        },
+                        "input_idx": [
+                            [
+                                1288,
+                                1474
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                1405,
+                                1465
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-04T04:01:18.488Z"
+            }
+        ]
+    },
+    {
+        "id": 5588713,
+        "source": "BACKGROUND.\nInhalation of particulate matter, as part of air pollution, is associated with increased morbidity and mortality. Nanoparticles (\u227a 100 nm) are likely candidates for triggering inflammatory responses and activation of coagulation pathways because of their ability to enter lung cells and pass bronchial mucosa. We tested the hypothesis that bronchial segmental instillation of carbon nanoparticles causes inflammation and activation of coagulation pathways in healthy humans in vivo.\n\nMETHODS.\nThis was an investigator-initiated, randomized controlled, dose-escalation study in 26 healthy males. Participants received saline (control) in one lung segment and saline (placebo) or carbon nanoparticles 10 \u03bcg, 50 \u03bcg, or 100 \u03bcg in the contra-lateral lung. Six hours later, blood and bronchoalveolar lavage fluid (BALF) was collected for inflammation and coagulation parameters.\n\nRESULTS.\nThere was a significant dose-dependent increase in blood neutrophils (p = 0.046) after challenge with carbon nanoparticles. The individual top-dose of 100 \u03bcg showed a significant (p = 0.05) increase in terms of percentage neutrophils in blood as compared to placebo.\n\nCONCLUSIONS.\nThis study shows a dose-dependent effect of bronchial segmental challenge with carbon nanoparticles on circulating neutrophils of healthy volunteers. This suggests that nanoparticles in the respiratory tract induce systemic inflammation.\n\nTRIAL REGISTRATION.\nDutch Trial Register no. 2976. 11 July 2011. http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=2976\n\nELECTRONIC SUPPLEMENTARY MATERIAL.\nThe online version of this article (10.1186/s12890-017-0463-x) contains supplementary material, which is available to authorized users.",
+        "target": "BACKGROUND.\nBreathing in tiny pieces of dust in the air, or air pollution, is linked with greater risks of illness and death. Extra-small particles, termed nanoparticles, may cause health problems like inflammation and blood clotting because they can enter lung cells and pass through lung mucus. We tested the idea that purposely putting carbon nanoparticles in certain areas of the lungs can cause inflammation and trigger blood clotting in healthy people.\n\nMETHODS.\nWe ran a study where we controlled the amount of carbon nanoparticles we gave to 26 healthy men. These participants had saltwater (a control substance) put in one part of their lungs and either more saltwater (a placebo) or different amounts of carbon nanoparticles in the other part. After 6 hours, we collected samples of their blood and washings from lung fluid to test for signs of inflammation and blood clotting.\n\nRESULTS.\nWe found that the more carbon nanoparticles we used, the more white blood cells (cells that fight infection) appeared in the blood samples. Additionally, using the highest amount of nanoparticles caused a significant increase in these cells compared to using the placebo.\n\nCONCLUSIONS.\nThis study shows that purposely sending carbon nanoparticles into certain parts of the lungs of healthy people can increase the number of infection-fighting cells in their blood. This suggests that small particles in the lungs can cause body-wide inflammation.\n\nTRIAL REGISTRATION.\nThis study was registered with the Dutch Trial Register on July 11, 2011. The registration number is 2976. Further information can be found online.\n\nADDITIONAL MATERIAL.\nThe online article of this study (10.1186/s12890-017-0463-x) has additional content, which can be accessed by authorized users.",
+        "annotations": [
+            {
+                "annotator": "Karim",
+                "edits": [],
+                "_completed": "2023-10-03T17:39:15.451Z"
+            },
+            {
+                "annotator": "Kathryn",
+                "edits": [
+                    {
+                        "category": "concept",
+                        "id": 32,
+                        "annotation": {
+                            "question": "What is the exact condition of the human participants?",
+                            "answer": "This study was done on healthy, living, human participants. "
+                        },
+                        "input_idx": [
+                            [
+                                471,
+                                494
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                440,
+                                458
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 33,
+                        "annotation": {
+                            "question": "How did the study control for bias?",
+                            "answer": "This study was an investigator-intiated, randomized controlled trial, meaning the study was developed and sponsored by an independent investigator, and patients were randomly assigned a treatment. "
+                        },
+                        "input_idx": [
+                            [
+                                517,
+                                563
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 34,
+                        "annotation": {
+                            "question": "How were the carbon nanoparticles administered to the participants?",
+                            "answer": "This study was a dose-escalation study, meaning that the carbon nanoparticles were administered in increasing doses sequentially to different groups of participants. "
+                        },
+                        "input_idx": [
+                            [
+                                564,
+                                585
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                493,
+                                546
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 35,
+                        "annotation": {
+                            "question": "How much were the different doses of carbon nanoparticles?",
+                            "answer": "The carbon nanoparticles were given in doses of 10 \u00b5g (micrograms), 50 \u00b5g, and 100 \u00b5g. "
+                        },
+                        "input_idx": [
+                            [
+                                690,
+                                734
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                693,
+                                737
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "concept",
+                        "id": 36,
+                        "annotation": {
+                            "question": "What other part of the lung was the second treatment placed?",
+                            "answer": "The second dose in the study was placed in the contralateral (the opposite) lung. "
+                        },
+                        "input_idx": [
+                            [
+                                742,
+                                762
+                            ]
+                        ],
+                        "output_idx": [
+                            [
+                                742,
+                                753
+                            ]
+                        ]
+                    },
+                    {
+                        "category": "omission",
+                        "id": 37,
+                        "annotation": {
+                            "question": "Is the increase in white blood cells based on the number of carbon nanoparticles a reliable result?",
+                            "answer": "The increase in white blood cells based on the dose of carbon nanoparticles was significant, meaning it was unlikely to happen by chance. "
+                        },
+                        "input_idx": [
+                            [
+                                907,
+                                918
+                            ]
+                        ]
+                    }
+                ],
+                "_completed": "2023-10-04T04:32:05.811Z"
+            }
+        ]
+    }
+]

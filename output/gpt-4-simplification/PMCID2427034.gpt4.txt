@@ -1,0 +1,8 @@
+BACKGROUND.
+This study looked at how a specific genetic change (known as an A2143G mutation) in the bacteria H. pylori, which causes stomach ulcers, can make it resistant to the antibiotic clarithromycin (CLR). To find out how common this resistant change is in China, the researchers tested 617 people who had received treatments in 1995. Half had been given amoxicillin and omeprazole (OA), drugs that can treat the bacteria, while the other half got a placebo – a harmless substance with no medical effect. In 2000, the team gave 153 more people a three-drug treatment featuring OA and CLR. Then, in 2003 they examined DNA from the subjects' stomach juice to see if they still had the bacteria and if it had developed resistance.
+
+RESULTS.
+Three years after the triple-drug treatment, the research found that about 27% of those people still had H. pylori in their system. Among these, about 32% had the resistant A2143G mutation. This was a higher rate than both those who got the two-drug treatment (about 10%) and those who got the placebo (around 14%). The three-drug treatment group also had higher rates of other DNA sequence changes.
+
+CONCLUSION.
+The results showed that about 10-14% of Chinese people without treatment history had the antibiotic-resistant mutation. When they used CLR to get rid of the bacteria, the rate of the resistant mutation rose significantly to 32%.

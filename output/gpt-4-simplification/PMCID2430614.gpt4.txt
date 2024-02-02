@@ -1,0 +1,14 @@
+BACKGROUND.
+This study is about comparing three different drug combinations used to treat uncomplicated malaria. These combinations are Artesunate+amodiaquine (AS+AQ), artemether-lumefantrine (AL), and Artesunate+chlorproguanil-dapsone (AS+CD). Comparing the effectiveness and safety of these treatments will help make decisions about which medication to recommend for treating malaria.
+
+METHODS.
+We tested these three combinations on 534 children who were otherwise healthy. The children were divided into three groups, each receiving one of the drug combinations. They were watched closely by our project staff who delivered the medicines. We checked on them several times after the treatment - 1, 2, 3, 7, 14, and 28 days later. We were looking for whether the medication failed to get rid of the malaria, and if any child had negative side effects from the medication.
+
+MAIN FINDINGS.
+When comparing the results, less children in the AS+AQ group had failed treatments and signs of malaria compared to the other two groups. However, many children in all three groups threw up after taking the medication. It should be noted that the AS+AQ group's treatment failure rate was lower, though not significantly. It also helps to know, the overall rate of side effects was similar in all groups.
+
+CONCLUSIONS.
+Based on our findings, AS+AQ seems to be a suitable first choice for treating uncomplicated malaria in Ghana or in West African countries. The effectiveness of the AL combination needs to be further studied in this region.
+
+TRIAL REGISTRATION.
+The trial is registered at ClinicalTrials.gov with the registration number NCT00119145.

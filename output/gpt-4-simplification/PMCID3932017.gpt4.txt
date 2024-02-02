@@ -1,0 +1,11 @@
+BACKGROUND.
+People with type 2 diabetes are more likely to suffer from heart diseases because diabetes can cause the arteries to become stiff. This particular study attempts to study these arterial changes in detail by using two different techniques that use sound waves.
+
+METHODS.
+The test involved 91 individuals who were divided into two groups: one with diabetes and one without (the control group). By using a device that transmitted sound waves, we studied changes in the wall of an artery in the neck known as the carotid artery. We then compared the findings of the two groups.
+
+RESULTS.
+The thickness of the wall of the carotid artery was pretty similar in both groups. However, the speed at which the pulse travelled and the stiffness of the artery were notably higher in the group with diabetes, whereas the artery's flexibility was significantly lower. The differences in how the arteries moved and adjusted were also significant between the two groups. Additionally, the time taken for certain changes to happen in the arteries were significantly different between the two groups. These time measures were also found to be linked positively with the flexibility of the arteries, whereas the pulse speed was linked negatively.
+
+CONCLUSIONS.
+In people with type 2 diabetes, we can identify functional changes in the carotid artery earlier than structural changes by using the methods described in this study. This suggests the degree of stiffness and elasticity of the artery can serve as indicators of functional issues in patients with type 2 diabetes.

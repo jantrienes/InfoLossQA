@@ -1,0 +1,9 @@
+This is a study comparing two ways of handling patients who might have Obstructive Sleep Apnoea Syndrome (OSAS), which is a sleep disorder that causes your throat muscles to relax and block your airway during sleep. 
+
+The study had two groups. Group A patients were looked after at home. Group B patients were treated in a hospital. Both groups of patients were given CPAP, a machine used for treating sleep apnea, for three months. 
+
+The goal of the study was to see if there was a difference in the patients' sleepiness score but the study found no difference between the two groups. However, those treated at home reported a better improvement in their sleep quality and life quality.
+
+In terms of cost and waiting time, the home-based approach was significantly better. It was cheaper by about USD 1770 per patient and also reduced waiting times by about 5-6 months from their first doctor visit to getting the CPAP machine.
+
+Therefore, this study suggests that treating patients with suspected OSAS at home can be as effective as treating them in the hospital. Plus it saves money and time.

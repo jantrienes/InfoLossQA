@@ -1,0 +1,11 @@
+BACKGROUND AND PURPOSE
+The drug Propofol, often used to put people to sleep before surgeries, can sometimes cause mild to severe pain when injected. In our study, we wanted to see if adding two different drugs, methylprednisolone and lignocaine, could reduce this pain. We tested this on patients about to undergo heart surgery.
+
+WHAT WE DID
+We had 165 adult patients who were going to have non-emergency heart surgery. We split them into three groups: one group was given a harmless saline solution (55 people), one was given 20 mg of lignocaine (55 people), and the last was given 125 mg of methylprednisolone (also 55 people). We administered the drugs after applying a tourniquet and let it stay for 1 min before giving 1/4th of the typical Propofol dose. We then asked the patients to rate their pain when the Propofol was injected.
+
+RESULTS
+About 71% of the patients given only the saline solution experienced pain. For the group given lignocaine, the pain was reduced to about 31%. And for those given methylprednisolone, the pain was further lowered to about 36%. The added drugs significantly reduced the pain when compared to just the saline solution (we used statistical tests to confirm this).
+
+WHAT WE CONCLUDED
+Adding the drug methylprednisolone to Propofol before surgery was as effective as adding lignocaine in reducing the pain of the injection.

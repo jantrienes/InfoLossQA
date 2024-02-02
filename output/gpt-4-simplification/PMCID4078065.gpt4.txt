@@ -1,0 +1,11 @@
+The process of moving cholesterol from the body's tissues back to the liver, known as reverse cholesterol transport (RCT), is important for preventing heart disease. This study looks at how an amino acid, citrulline, might affect RCT.
+
+Citrulline is known to help reduce the risk of heart disease by supporting the production of a molecule, nitric oxide, which helps keep blood vessels healthy. However, we didn't know if citrulline could impact RCT. 
+
+In this study, we investigated if citrulline could influence some transport mechanisms related to RCT, specifically two proteins (ABCA1 and ABCG1) which help in the process. Also, we examined if citrulline had any effect on how well cholesterol is removed from immune cells (called macrophages) by a protein, apolipoprotein A-I, or by HDL (good cholesterol), both in the lab and in the human body. 
+
+We found that adding citrulline did increase the level of the two important proteins, ABCA1 and ABCG1, in the macrophages. This led to better removal of cholesterol by apolipoprotein A-I and HDL. 
+
+Next, we looked at people's response to citrulline. Eight healthy men, aged 30-49, were given either citrulline or a placebo (a substance with no effect) for a week. After consuming citrulline, their blood levels of citrulline and another amino acid, arginine, went up significantly. Checking their immune cells again, we saw that the cells were now better at releasing cholesterol, thanks to higher levels of those two proteins, ABCA1 and ABCG1. No such changes were observed with the placebo.
+
+Our results suggest that, apart from helping blood vessels stay healthy, citrulline could also reduce the risk of heart disease by boosting the RCT process.

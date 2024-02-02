@@ -1,0 +1,11 @@
+OBJECTIVE.
+This study looked at if eating a protein-rich diet before surgery could help lung cancer patients recover more quickly after surgery.
+
+METHODS.
+We got permission to conduct an experiment on 58 lung cancer patients who were about to have surgery at our hospital between January and December 2014. We divided these patients randomly into two groups. The first group, 31 patients, followed a special diet for ten days before their surgery. This diet included specific nutrients known to boost the immune system. The second group, 27 patients, ate their regular meals. We didn’t include patients who were already not eating well, had diabetes, or had received other treatments for their lung cancer. We measured levels of a protein in their blood before they started the special diet and again three days after their surgery. We also recorded other data, like if they had any problems after the surgery and how long a chest drain needed to stay in after the surgery.
+
+RESULTS.
+We did the surgery in two different ways in both groups, either opening up the chest or using a video camera to guide the surgery. The patients who didn't have the special diet saw a larger drop in their blood protein levels three days after the surgery. In this group, about 44% of patients had problems after their surgery compared to 19% in the special diet group. Also, the patients in the special diet group had their chest drain removed quicker after the surgery.
+
+CONCLUSIONS.
+Our study showed that eating a special diet before surgery can help lung cancer patients recover faster and have fewer problems after surgery. It also helps to maintain their blood protein levels, which is good for recovery.

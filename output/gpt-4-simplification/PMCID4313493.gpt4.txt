@@ -1,0 +1,14 @@
+GOAL:
+We wanted to see if two particular eye drops, bimatoprost 0.03% and brimonidine 0.2%, work well and are good value for money for people with a specific eye condition causing increased eye pressure (called primary open-angle glaucoma) or high eye pressure (ocular hypertension).
+
+HOW WE DID IT:
+We carried out a study involving 40 volunteers who had these conditions but only mild eye pressure. We randomly divided them into two different groups. Half of them were given bimatoprost drops once a day, while the other half used brimonidine drops twice a day, for a month. After resting for a month, we switched the groups: the first group started using brimonidine, and the second group used bimatoprost. We recorded the drop in eye pressure after a month for both groups. We then calculated the cost per day of both treatments, and how much it cost per unit of pressure dropped (cost-effectiveness).
+
+HOW WE FIGURED OUT THE RESULTS:
+We used a common statistical method to compare how effective both drugs were.
+
+RESULTS:
+We found that bimatoprost was significantly more effective, reducing eye pressure more than brimonidine. However, bimatoprost was also more expensive on a per drop basis than brimonidine. Despite the higher price, when looking at the cost in relation to how much it lowers eye pressure, bimatoprost ended up being a more cost-effective option than brimonidine.
+
+CONCLUSION:
+Although it's a bit more expensive, bimatoprost is more effective and gives you more bang for your buck than brimonidine when it comes to treating these eye conditions.

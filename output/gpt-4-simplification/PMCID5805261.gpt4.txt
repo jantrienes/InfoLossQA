@@ -1,0 +1,11 @@
+GOAL:
+We ran a study to compare two methods of a treatment called radiofrequency ablation (RFA) for people with liver cancer. One method uses something called switching bipolar (SB) RFA with cooled-wet electrodes, the other uses switching monopolar (SM) RFA with separable clustered electrodes.
+
+HOW WE DID IT:
+We got the go-ahead from our ethics board for this study. From April 2014 to January 2015, we randomly selected 69 patients with liver cancer to undergo one of the two RFA methods we're comparing. Parameters like how many treatments were needed, how long each treatment lasted, energy used, side-effects and the benefits of the treatment were tracked for each patient. We then compared how many patients remained without cancer after 1 and 2 years between the two groups.
+
+WHAT WE FOUND:
+The group who underwent SB-RFA needed fewer treatments, each treatment went quicker, and required less energy compared to the SM-RFA group. There was no significant difference in overall treatment volume between the two groups. There was one technical issue with the SM-RFA method, and there was one major side effect in each group. Yet, the two-year cancer-free rates were nearly the same for both groups (about 84-88% remained cancer-free).
+
+CONCLUSION:
+Both methods had similar cancer-free rates after 2 years, however, the SB-RFA treatment method was quicker and needed fewer sessions.

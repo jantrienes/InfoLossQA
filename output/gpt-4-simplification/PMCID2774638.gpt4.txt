@@ -1,0 +1,11 @@
+INTRODUCTION:
+More and more foods are being boosted with extra calcium. Because of this, it might be hard for traditional methods that measure how much calcium a person gets from their food to accurately work out how much they're really getting, especially if these methods are using off-the-shelf software. We wanted to create and test a special questionnaire that focused on calcium intake, which would also take into account foods naturally full of calcium and those that have extra calcium added to them. We also wanted to take a closer look at where black and white women going through menopause, in particular, get their calcium from and whether or not they're getting enough.
+
+METHODS:
+We worked with a mixed group of 185 black and white women going through menopause, whose ages averaged around 70 years. They were asked to recall everything they've eaten in the last 24 hours and then answer our 46-item special calcium questionnaire. 
+
+RESULTS:
+We found that the daily calcium intake measured by our questionnaire strongly matched with the 24-hour food recall. Interestingly, our questionnaire showed a higher total daily calcium intake compared to the 24-hour recall. As daily calcium intake increased, the 24-hour recall underestimated the amount of calcium intake compared to our questionnaire. Our results also showed that dairy was the main source of calcium for both black and white women. Though our questionnaire estimated a higher amount of calcium intake compared to the 24-hour recall, it was more accurate in identifying low calcium intakes.
+
+CONCLUSION:
+Our special questionnaire can be used to find out if women going through menopause are not getting enough calcium in their diet (less than 800 milligrams per day). Additionally, it can shed light on the main sources of dietary calcium. We also found that older black women tend to consume less daily calcium than older white women.

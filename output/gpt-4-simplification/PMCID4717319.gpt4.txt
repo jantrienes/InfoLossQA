@@ -1,0 +1,11 @@
+GOAL:
+We wanted to see how well lurasidone works as a long-term treatment for schizophrenia.
+
+METHOD:
+We first gave adults with a severe episode of schizophrenia a 12-24 week treatment with lurasidone. After 12 weeks, those who showed improvement were then divided into two groups. One group continued using lurasidone and the other group was given a placebo (a substance with no medical effect) for an additional 28 weeks. We then checked the time it took before their symptoms came back.
+
+RESULTS:
+We had 676 patients in the first phase and 285 showed improvement. These were then divided into the lurasidone (144 patients) and placebo (141 patients) groups. During the first phase, there was a decrease in the severity of symptoms in those who showed improvement. In the next phase, patients using lurasidone took longer before their symptoms came back compared to the placebo group. This was a 33.7% reduction in the risk of symptoms coming back. At the end of the 28 weeks, 42.2% of the lurasidone group and 51.2% of the placebo group had their symptoms return. During the study, the patients only had minor changes in weight, fat levels, sugar levels, and hormone levels.
+
+CONCLUSIONS:
+This study, which involved multiple treatment centers and used a placebo control group, showed that lurasidone works well in keeping schizophrenia symptoms from returning.

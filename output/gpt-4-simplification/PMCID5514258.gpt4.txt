@@ -1,0 +1,11 @@
+GOAL.
+This study looked at the overall outcomes of people who have cancer in their salivary glands (the part of the mouth that produces saliva) after surgery. The researchers wanted to see if getting additional radiation therapy after surgery would affect how long these patients lived. 
+
+METHODS.
+They gathered information about 8243 patients who had surgery for this type of cancer. Each patient was categorized into a risk level (high, medium, or low) based on certain features of their disease (how far it had spread, cancer type, and so on). Then, the researchers tracked how long each patient lived after the operation. They used certain statistical methods to analyze the data.
+
+RESULTS.
+The average time the researchers were able to follow up with patients was just over 42 months, and the average age was 58. The study found that patients at high risk of the disease spreading lived longer if they got radiation therapy after surgery. But, this was not the case for people at medium and low risk. 
+
+CONCLUSIONS.
+This study suggests that for patients at high risk, additional radiation therapy after surgery for salivary gland cancer might help them live longer. However, it did not seem to change the survival rates for patients with medium or low risk. However, the study did not look at whether this additional treatment helped control the disease locally, which is one of the areas the researchers were unsure about, due to limitations in the original information they gathered about patients.

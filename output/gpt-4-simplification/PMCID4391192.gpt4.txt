@@ -1,0 +1,14 @@
+INTRODUCTION.
+Sound and light in the intensive care unit (ICU) can disrupt the sleep of seriously ill patients. Previous research suggested that earplugs and eye masks can improve sleep in both healthy individuals and ICU patients. Our goal was to see the effects of earplugs, eye masks, and peaceful background music on sleep and certain hormone levels in ICU patients.
+
+METHODS.
+We included fifty heart surgery patients who were expected to spend at least two nights in the cardiac ICU. We randomly chose some patients to sleep with earplugs, eye masks, and 30 minutes of soothing music. We measured sleep quality and hormone levels in their urine.
+
+RESULTS.
+We used data from 45 patients. The patients who used the earplugs and eye masks with music reported deeper sleep, less trouble falling asleep, and less waking up during the night. Despite this noticeable improvement in sleep quality, the hormone levels didn't have any significant differences between both groups before or after the surgery. We noticed a drop in melatonin (a hormone that helps control sleep) levels on post-surgery nights compared to before surgery. Conversely, cortisol (a hormone linked to stress) levels were higher after surgery.
+
+CONCLUSION:
+Combining earplugs, eye masks, and calming music can effectively help ICU patients sleep better. However, factors like surgery timings, medication, and individual differences might have hidden any impacts on hormone levels. Further extensive studies are needed to explore the potential influences of these factors on hormone levels and the effectiveness of this sleep promoting technique.
+
+TRIAL REGISTRATION.
+This trial was registered in the Chinese Clinical Trial Registry on November 21, 2014.

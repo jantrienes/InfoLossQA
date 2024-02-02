@@ -1,0 +1,11 @@
+BACKGROUND.
+This study was done to see how two approved devices, MR850 and PMH7000, worked in providing oxygen therapy to newborn babies through a nasal tube. These systems were monitored to see how well they warmed and moistened (humidified) the oxygen before it was given to the babies to breathe in.
+
+MATERIALS AND METHODS.
+The study was performed on babies that weighed between 1,000 and 1,500 grams and were recovering from breathing difficulties. These babies had been given a certain type of breathing support through a nose mask, and were then switched over to one of the two tested systems. The researchers kept track of how long the babies were on these systems, whether the babies went back to the nose mask treatment, whether they needed more invasive breathing support, if they had breath pauses (apnea), lung disease, and nose injuries. They also measured temperature and moisture levels of the oxygen given to the babies.
+
+RESULTS.
+There was no major difference in how long the babies were kept on the systems. Also, there were no significant differences in the need to go back to the nose mask treatment, need for more invasive breathing support, breath pauses, nose injuries, or lung disease. However, there were notable differences in the temperature and moisture levels between the two systems.
+
+CONCLUSION.
+Even though the PMH7000 system didn't warm and moisten the oxygen quite as well as the MR850 system, both systems were about equally good in supporting the babies' breathing.

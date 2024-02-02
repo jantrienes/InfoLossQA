@@ -1,0 +1,11 @@
+INTRODUCTION.
+Working memory is essential for how we learn, remember, and interact with the world. One area of the brain, the dorsolateral prefrontal cortex (DLFPC), is particularly important for working memory. Our goal in this study was to see if we could change how the DLPFC works to improve memory using a safe, non-invasive method called transcranial direct current stimulation (tDCS).
+
+METHODS.
+We had 60 people (half men, half women) take part in our study. We split them into two groups and used tDCS to stimulate different sides of their DLPFC. All participants were given tasks to test their working memory while we measured their speed and accuracy.
+
+RESULTS.
+Our analysis indicated that the type of stimulation mattered. When we stimulated the left side of the DLPFC and reduced activity on the right side, it clearly messed with participants' memory accuracy. However, doing the opposite didn't have any noticeable effect. No changes in speed were seen either way.
+
+DISCUSSION.
+Our results suggest that how we use tDCS on working memory matters, and that stimulating the left side of the DLPFC while reducing activity on the right could disrupt memory. This means that using tDCS on both sides of this part of the brain may not be helpful for improving memory. We need more research to understand better how different uses of tDCS can affect working memory.

@@ -1,0 +1,9 @@
+We wanted to understand how long-term alcohol intake relates to a specific stomach infection caused by a bacteria called H. pylori. We studied various body responses and inflammation markers in three groups of people, totaling 142 subjects in all. Group A consisted of 59 people who drink alcohol regularly and have the H. pylori infection. Group B had 53 subjects who drink alcohol regularly but do not have the infection. Finally, Group C was the control group of 30 people who neither drink alcohol regularly nor are infected.
+
+Body mass index (BMI), a measure of body size based on height and weight, was generally higher in those who drank alcohol frequently whether infected with H. pylori or not. However, the difference in BMI wasn't significant between those who were infected and those who weren't.
+
+Generally, certain substances that signify inflammation were different between the groups. For example, lower levels of two inflammation markers, IL-10 and E-selectin, were found in those who drank alcohol and were infected with H. pylori compared to those that weren't infected. Those who drank alcohol but weren't infected showed higher levels of these markers than the control group.
+
+However, the levels of another inflammation marker, TNF-α, were not very different among the groups. Levels of substances that signify cell damage were also not significantly different among the groups.
+
+To sum it all up, we think that the H. pylori infection might weaken certain inflammation responses in those who drink alcohol regularly. Also, regular alcohol drinking might adjust inflammation levels. However, we found no relationship between the infection or regular alcohol drinking and cell damage.

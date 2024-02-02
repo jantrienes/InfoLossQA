@@ -1,0 +1,11 @@
+BACKGROUND:
+We wanted to see if using a small dose of either ketamine or fentanyl could lower the amount of propofol needed when putting people to sleep for a certain type of ultrasound scan. We also wanted to make sure this wouldn't affect the safety of the patients or how long it took them to wake up from the anaesthesia.
+
+METHODS: 
+We ran a test with 210 adults who were going to have this ultrasound scan where you have to be sedated. We divided them into three groups. Group 1 received only a harmless saltwater solution as a control, Group 2 received a small dose of fentanyl, and Group 3 got a small amount of ketamine. Everybody also got the usual sedative, propofol. We measured how much of this sedative each group required. We also noted if they had any reactions like low blood pressure, slow heart rate, trouble breathing, or coughing, and how long it took for them to be lucid enough to be sent home.
+
+RESULTS:
+Group 1 had 68 patients, Group 2 had 70, and Group 3 had 72. The first group needed more of the propofol than the other two groups. Regardless of which treatment they received, everyone's blood flow and oxygen levels were fine. However, the patients who'd received the ketamine took longer to be awake and alert enough to leave.
+
+CONCLUSIONS:
+Using a little bit of either fentanyl or ketamine when this type of ultrasound is happening can lower the amount of the usual sedative needed. But, if we use ketamine, it took the patients longer to wake up enough to go home. We found that a small dose of fentanyl could be a good add-on to the propofol sedative during this procedure. This can lower the amount propofol we need to use, but it doesn't make it take any longer for patients to be ready to go home.

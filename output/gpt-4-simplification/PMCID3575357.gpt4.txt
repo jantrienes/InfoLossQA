@@ -1,0 +1,14 @@
+BACKGROUND.
+We're looking into how an exercise program, the Physical Activity Promotion Programme (PAPP), affects heart health and quality of life in inactive individuals over 55 years old. We're comparing the results to a group of people who did not do the program.
+
+METHOD.
+We studied 100 people, men and women, from Torremolinos, Spain. Half of them did the PAPP for an hour twice a week for three months, the rest were given health education. We used questionnaires and health tests to measure how well their hearts and lungs were working, and how much their quality of life improved.
+
+RESULTS.
+Overall, the program improved the quality of life in men, but not women. There wasn't a notable change in the heart and lung function for either group.
+
+CONCLUSIONS.
+The PAPP program was found to help improve quality of life for men but didn't show significant improvements in heart and lung function for anyone. Interestingly, men in the exercise group did see some improvements in lung outcomes.
+
+TRIAL REGISTRATION.
+The study was conducted by the University of Málaga and you can find more details about it under the ClinicalTrials.gov ID: NCT01172483.

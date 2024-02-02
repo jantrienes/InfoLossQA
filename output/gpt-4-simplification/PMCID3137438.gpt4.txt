@@ -1,0 +1,11 @@
+GOAL
+The goal of this experiment was to figure out if using a specific medicine called calcium hydroxide affected the quality of a dental seal made with New Endodontic Cement (NEC) in both the short and long term.
+
+HOW WE DID IT
+We took 50 extracted teeth and treated them with acid for four days to imitate decay. After that, we separated them randomly into 2 test groups and 2 control groups. In the first test group, we applied calcium hydroxide to all teeth for a week. In the second test group, we didn't use any medicine. In both groups, we sealed the roots with a 4 mm NEC plug and filled the rest of the root with a common filling material. We measured the leakage in all samples after one week and after three months. We then analyzed the results statistically to understand if there were any significant differences.
+
+WHAT WE FOUND
+There wasn't any notable difference between the two groups at either time interval. In both groups, leakage increased after three months but this increase was not substantial enough to be statistically meaningful.
+
+WHAT IT MEANS
+Based on our findings, using calcium hydroxide medicine doesn't harm the short or long term quality of a seal made with NEC.

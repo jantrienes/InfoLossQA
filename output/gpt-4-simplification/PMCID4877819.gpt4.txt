@@ -1,0 +1,14 @@
+BACKGROUND.
+Andrographis paniculata (A. paniculata), a medicinal plant, has shown potential benefits in treating inflammation, nerve damage, and scarring in experiments involving animals. It is also known to be effective in reducing fatigue in autoimmune diseases such as rheumatoid arthritis. Fatigue is a common symptom in Multiple Sclerosis (MS) patients. We conducted a study to see if A. paniculata could help reduce fatigue and the recurrence of symptoms in MS patients who are already taking a drug called interferon beta.
+
+METHODS.
+We conducted a blind study—meaning neither the patients nor the researchers knew who was receiving what treatment—where we gave MS patients who were already taking a drug called interferon beta either a 170 mg tablet of A. paniculata extract or a sugar pill twice a day for a year. We then monitored them for instances where their symptoms came back and gauged their fatigue levels. We also performed tests to measure disability, inflammation, and to check for changes in the brain. We initially selected 25 patients, but 3 dropped out, so we ended with information on 22 patients.
+
+RESULTS.
+Patients who were given the A. paniculata extract experienced a significant decrease in fatigue when compared to those who received the sugar pill. This reduction was by almost half over the course of a year. There were no significant changes in the recurrence of symptoms, disability, or inflammation in either group. The group that took A. paniculata showed signs of having fewer new brain lesions. One patient taking A. paniculata did develop a mild, temporary skin rash, but this went away after three weeks of taking an allergy medication.
+
+CONCLUSION.
+The A. paniculata extract was well received by patients and caused no noticeable changes in their clinical examinations. The extract notably reduced fatigue in MS patients who are already taking interferon beta compared to those who took only the sugar pill and the drug.
+
+TRIAL REGISTRATION.
+This clinical trial was registered under the identifier NCT02280876 on October 20, 2014.

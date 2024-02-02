@@ -1,0 +1,11 @@
+BACKGROUND.
+Getting the right level of anesthesia for a surgery is very important. For children, the most common method is to have them breathe in the anesthetic. A tube may need to be put down the throat once the child is deeply asleep. It can be hard to tell exactly how deep the sleep is. One way to measure this is using something called a Bispectral index (BIS). In this study, we wanted to see how well the BIS can tell us when a child is asleep enough for the tube to be safely put in.
+
+METHODS.
+We did a test with ninety children who were aged 1 to 6 years and were about to have surgery. We started to monitor their BIS and separated them randomly into three groups. The anesthesia was started by gradually increasing the amount of anesthetic in a mix of oxygen and nitrous oxide. We kept increasing until the BIS reached certain target levels. After the tube was put in, we noted how long the process took, whether there were any complications like trouble breathing, if the child moved, and how long they stayed asleep. 
+
+RESULTS.
+The BIS didn't help us to know the best level of anesthesia for putting the tube in. There was no difference in how long it took, whether there were any problems, or how long the children stayed asleep between the three groups. 
+
+CONCLUSIONS.
+Our results showed that there wasn't a significant difference in problems related to putting in the tube at different BIS levels. To make sure the level of anesthesia is deep enough, we might need to aim for lower BIS values.

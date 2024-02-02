@@ -1,0 +1,14 @@
+BACKGROUND.
+Omega-3 fatty acids, such as Eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), are very important for our body. When we take these acids orally, their levels increase in our blood and cell walls, which reduces inflammation. This study examined whether giving omega-3 fatty acids directly into a patient's veins could change the amounts of EPA, DHA, and other fatty acids in the blood of patients with liver cancer that originated from the colon or rectum.
+
+METHODS.
+Twenty patients were chosen at random to receive a 3-day intravenous nutrition treatment, either with or without (control group) omega-3 fatty acids. The fatty acids EPA, DHA, and others were measured in the blood plasma and red blood cells several times during and after the treatment.
+
+RESULTS.
+The group of patients who received omega-3 fatty acids showed increases in EPA and DHA levels and decreases in other fatty acid levels. These changes were have been found to be most significant late in the treatment period. Except for DHA levels, all others returned to normal 5-12 days after stopping the treatment. 
+
+CONCLUSIONS.
+Giving omega-3 fatty acids directly into a patient's veins leads to a quick increase in some fatty acids, which suggests that this method could be used to quickly target inflammation especially.
+
+TRIAL REGISTRATION.
+This trial was officially registered with the identifier NCT00942292 at www.clinicaltrials.gov.

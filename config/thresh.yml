@@ -1,0 +1,91 @@
+template_name: info-loss
+template_label: Information Loss
+template_description: Annotating information loss in text simplification.
+
+instructions: |
+  1. Read both the original and simplified text
+  2. Compare the two texts and highlight
+     - Omissions from the original, and
+     - Imprecise/fuzzy concepts in the simplification
+  3. For each highlight, write a Q/A pair that re-introduces the information in lay language.
+
+  Please refer to the full guidelines for examples.
+
+
+font_size:
+  source: 14
+  target: 14
+
+interface_text:
+  typology:
+    source_label: "Original"
+    target_label: "Simplification"
+
+display:
+- side-by-side
+- text-side-by-side
+- disable-lines
+
+# "Edits" are our units of annotations. First, edits are selected, then annotated.
+edits:
+  - name: omission
+    label: "Omission"
+    enable_input: true
+    enable_output: false
+    type: multi_span
+    color: red
+    icon: fa-circle-minus
+
+    annotation:
+      - name: question
+        label: "Question"
+        question: "A question that would elicit the omitted information."
+        options: textarea
+        required: true
+      - name: answer
+        label: "Answer"
+        question: "The answer to the question"
+        options: textarea
+        required: true
+      - name: comment
+        label: "Comment"
+        question: "Comment (optional)"
+        options: textbox
+        required: false
+
+  - name: concept
+    label: "Fuzzy Concept"
+    enable_input: true
+    enable_output: true
+    type: multi_span
+    color: orange
+    icon: fa-flask
+
+    annotation:
+      - name: question
+        label: "Question"
+        question: "A question that would make the concept more concrete."
+        options: textarea
+        required: true
+      - name: answer
+        label: "Answer"
+        question: "The answer to the question."
+        options: textarea
+        required: true
+      - name: comment
+        label: "Comment"
+        question: "Comment (optional)"
+        options: textbox
+        required: false
+
+  - name: comment
+    label: "Comment"
+    color: gray
+    icon: fa-ellipsis
+
+    annotation:
+      - name: comment_text
+        label: "Comment"
+        question: "Any remarks regarding the annotation of this sample?"
+        options: textarea
+        required: true

@@ -1,0 +1,11 @@
+BACKGROUND
+Clinical trials are part of regular medical care. These trials, though, can cost more than standard treatments. We looked at cancer clinical trials over two years to figure out how much extra they cost.
+
+METHODS
+We found and studied all patients who took part in drug-based cancer clinical trials in 2009 and 2010 at one hospital in the UK. We compared the cost of the treatments in the trials and the usual treatments the patients could have received. We figured out the difference in cost between these two. For studies that compared treatments, we estimated the average treatment cost. We also estimated the yearly costs.
+
+RESULTS
+During those two years, 357 adult cancer patients took part in 53 different research studies. Some of these were designed by universities and other non-profit groups, while others were sponsored by drug companies. On average, the university trials cost an extra £431 per patient. The drug company trials, on the other hand, saved an average of £9294 per patient. This is largely because these companies supplied the drugs for free. In total, these trials saved about £885,275 over the two years.
+
+CONCLUSION
+In general, trials designed by universities cost a little more per patient. Drug company trials, though, saved much more money. Given the large number of patients that take part in these trials every year, they can lead to big savings, regardless of who runs them.

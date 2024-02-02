@@ -1,0 +1,14 @@
+Background:
+This study looked at how people learn to use a body-powered prosthetic device. These devices are controlled by a harness and cable, and provide limited feedback to the user about limb position. The aim was to understand how practicing basic tasks could be applied to real-world tasks, and how this learning changes over time in new users of such prosthetics.
+
+Methods:
+The study involved 30 regular people and 17 controls; all of them used a simulated prosthetic device for the study. Those in the training group were split into four sub-groups and practiced either direct grasping, indirect grasping, fixation, or a combination for two weeks. They had to manipulate soft objects of different hardness while researchers measured their movement and grip strength. Performance was measured before and after the training sessions, and then again after two weeks and three months of no practice. The control group only did the performance tests.
+
+Results:
+All four training groups and the control group improved on the performance tests, even after they stopped using the device. The type of training did slightly affect how much they improved. Overall, they became faster with their movements and increased the speed at which they closed the device's hook over time. The group that practiced indirect grasping improved faster than the other groups. Grip strength didn't improve much with training.
+
+Conclusions:
+Practicing basic tasks with a body-powered prosthetic device can help users get better at real-world tasks, even after they've stopped practicing. Users got faster and the group that practiced indirect grasping progressed faster. It's recommended that new users of such devices start practicing with indirect grasping tasks and also practice different ways to orient the hook.
+
+Electronic Supplementary Material:
+More information related to the study is available online for those who are authorized to view it.

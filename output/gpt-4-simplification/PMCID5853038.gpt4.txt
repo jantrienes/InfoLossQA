@@ -1,0 +1,11 @@
+GOAL:
+We did a study in the United Arab Emirates, a place where people often use plant extracts in toothpaste. We wanted to see which of the two plant-based toothpastes - one with Meswak extract and the other with tea tree oil - is better at getting rid of plaque on teeth.
+
+HOW WE DID IT:
+We checked the teeth of 25 people for plaque and gave them a plaque score. Then we randomly divided them into two groups. One group used a toothpaste made with Meswak, and the other group used a toothpaste made with tea tree oil. After one day, we scored their plaque again. Then, they went back to using their usual toothpaste for two weeks. After this, they switched and used the other plant-based toothpaste for one day, and we scored their plaque again. We used special software and a standard statistical test to make sense of the numbers we collected.
+
+WHAT WE FOUND:
+Both plant-based toothpastes helped reduce plaque. But the toothpaste made with Meswak made a bigger difference. 
+
+WHAT THIS MEANS:
+Brushing with the toothpaste made with Meswak is better at reducing plaque than the one made with tea tree oil.

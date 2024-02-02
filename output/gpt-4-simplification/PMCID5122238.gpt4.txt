@@ -1,0 +1,11 @@
+BACKGROUND.
+Shivering after surgery is a common issue for patients who have had spinal anesthesia. This study is looking into how a drug called hydrocortisone might help prevent these shivering episodes.
+
+MATERIALS AND METHODS.
+We tested this in a clinical trial with ninety patients who were all having surgery that required spinal anesthesia. We split them into three groups. The first two groups got different doses of hydrocortisone (1 mg/kg and 2 mg/kg respectively), and the third group got a saline (or saltwater) solution, which acted as a control. We then compared whether people in each group experienced shivering after their operations.
+
+RESULTS.
+We found that out of the 31 patients who experienced shivering, 9 were from the first group (1 mg/kg hydrocortisone), 5 were from the second group (2 mg/kg hydrocortisone), and 17 were from the third group (normal saline). These differences were statistically significant, meaning they likely weren't due to pure chance.
+
+CONCLUSION.
+Our results suggest that giving patients hydrocortisone, at least in the dose of 1 mg/kg, before surgery can help reduce the chances of shivering during and after an operation involving spinal anesthesia.

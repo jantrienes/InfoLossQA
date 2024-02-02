@@ -1,0 +1,14 @@
+PURPOSE.
+This research was designed to see if educating older cancer patients about their surgery would affect their recovery time or their health and quality of life one year after their procedure.
+
+METHODS.
+Between February 2011 and January 2014, the research took place in two major medical centers in Germany. We had patients who were 65 years or older who were getting surgery for stomach, urinary, and chest cancer. We randomly put these patients into two groups. One group received an information booklet and kept a diary—a way to give more power to the patient. The other group was given the usual care. We measured how long they had to stay in the hospital after their surgery and their health and life quality after a year. We also looked at their stress and any complications after surgery. Lastly, we wanted to identify any factors that could predict their hospital stay and life quality at 12 months.
+
+RESULTS.
+We had 652 patients with an average age of around 72, and most were men. On average, patients stayed in the hospital for 9 days after their surgery. There wasn't a significant difference in hospital stay or life quality after a year between the two groups. While three out of four people had some kind of complication after the surgery, the frequency and severity were the same in both groups. However, those who received the information booklet and kept a diary reported having less pain after their surgery. The factors that determined how long patients stayed in the hospital were how severe the surgery was, how long the anesthesia lasted, any major complications after surgery, a patient's nutrition level, and their physical ability before surgery.
+
+CONCLUSION.
+Giving patients more information about their surgery and having them keep a diary did not shorten their hospital stay. However, it did result in less reported pain after surgery. How long a patient had to stay in the hospital was determined by their nutrition level, physical ability, the severity of the surgery, and how long the anesthesia lasted.
+
+TRIAL REGISTRATION.
+This trial was registered on clinicaltrials.gov with the identifier NCT01278537.

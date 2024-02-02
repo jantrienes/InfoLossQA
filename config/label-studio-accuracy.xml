@@ -1,0 +1,237 @@
+<View>
+    <Style>
+        .text-block {
+        border: 1px solid #e8e8e8;
+        background: rgba(0,0,0,.01);
+        margin-bottom: 0.5em;
+        border-radius: 3px;
+        padding: 10px 10px;
+        overflow: auto;
+        overflow-wrap: break-word;
+        }
+
+        .text-block-focus {
+        border: 1px solid #e8e8e8;
+        background: rgba(144, 238, 144,.2);
+        margin-bottom: 0.5em;
+        border-radius: 3px;
+        padding: 10px 10px;
+        overflow: auto;
+        overflow-wrap: break-word;
+        }
+
+        .sidebar {
+        max-heigth: 800px;
+        border: 1px solid #e8e8e8;
+        background: rgba(251,241,169,.2);
+        margin-bottom: 0.5em;
+        border-radius: 3px;
+        padding: 10px 10px;
+        overflow: auto;
+        overflow-wrap: break-word;
+        }
+
+        h2 {
+        /* Headers aligned with text */
+        font-size: 17px !important;
+        margin-top: 3px !important;
+        margin-bottom: 5px !important;
+        padding-left: 8px !important; /* align with text */
+        }
+        h3 {
+        /* Default header */
+        font-size: 17px !important;
+        }
+        h4 {
+        /* Normal text */
+        font-weight: 400 !important;
+        font-size: 15px !important;
+        }
+        h5 {
+        /* Subscripts and remarks */
+        font-weight: 400 !important;
+        font-size: 11px !important;
+        margin: 0px !important;
+        padding-left: 8px !important;
+        color: rgba(0, 0, 0, 0.5) !important;
+        }
+        .htx-text{ white-space: pre-wrap; }
+    </Style>
+
+    <View style="display: flex;">
+        <View style="flex: 60%;">
+            <!-- Q/A -->
+            <View className="text-block-focus">
+                <Header value="Question" size="2" />
+                <Text name="question" value="$question" selectionEnabled="false" />
+            </View>
+            <View className="text-block-focus">
+                <Header value="Answer" size="2" />
+                <Text name="answer" value="$answer" selectionEnabled="false" />
+            </View>
+
+            <!-- Simple / Complex -->
+            <View className="text-block" style="display: flex; max-height: 60vh;">
+                <View style="flex: 50%;">
+                    <Header value="Original" size="2" />
+                    <Text name="source" value="$source" />
+                </View>
+                <View style="flex: 50%;">
+                    <Header value="Simplification" size="2" />
+                    <Text name="target" value="$target" />
+                </View>
+            </View>
+        </View>
+
+        <!-- Evaluation Criteria -->
+        <View style="flex: 40%; margin-left: 1em; overflow-y: auto; max-height: 80vh;"
+            className="sidebar">
+            <!-- C1: Givenness -->
+            <Header value="1. Givenness" size="3" />
+            <Header value="How is the question phrased?" size="4" />
+            <Choices name="givenness_phrasing" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="givenness_phrasing_1" value="Good (reader focused, no new concepts*)" />
+                <Choice alias="givenness_phrasing_2"
+                    value="Bad (e.g., new concepts*, answer leakage, hallucinations)" />
+            </Choices>
+            <TextArea name="givenness_phrasing_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+            <Header
+                value="*Context: The entire simplified text for omissions, for Fuzzy everthing up to and including the highlight."
+                size="5" />
+
+            <Header value="2. Question localization" size="3" />
+            <Header value="To what extent does the highlight relate to the topic under discussion?"
+                size="4" />
+            <Choices name="givenness_location" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="givenness_location_1"
+                    value="Good: the highlight corresponds to the topic that the question discusses" />
+                <Choice alias="givenness_location_2"
+                    value="Unrelated: the highlighted text does not relate to what the question is asking" />
+                <Choice alias="givenness_location_3"
+                    value="Missing: there should be a highlight, but there is not." />
+                <Choice alias="givenness_location_na" value="n/a (no highlight in simple text)" />
+            </Choices>
+
+            <View visibleWhen="choice-selected" whenTagName="givenness_location"
+                whenChoiceValue="givenness_location_3">
+                <Header value="Please add missing highlight…" size="4" />
+                <Labels name="target_label_missing" toName="target" opacity="0">
+                    <Label value="concept (missing)" maxUsage="1" background="#00b3ff"
+                        selected="true" />
+                </Labels>
+            </View>
+
+            <TextArea name="givenness_location_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <!-- C2: Simplicity -->
+            <Header value="3. Answer Simplicity" size="3" />
+            <Header value="a) Does the answer contain jargon?" size="4" />
+            <Choices name="simplicity_jargon" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="simplicity_jargon_1" value="The answer is jargon-free." />
+                <Choice alias="simplicity_jargon_2"
+                    value="The answer contains jargon but it is adequately explained in the answer" />
+                <Choice alias="simplicity_jargon_3"
+                    value="The answer contains jargon but it is adequately explained in the simplified text" />
+                <Choice alias="simplicity_jargon_4" value="The answer contains unexplained jargon" />
+            </Choices>
+            <TextArea name="simplicity_jargon_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <Header value="b) Is the answer standalone?" size="4" />
+            <Choices name="simplicity_standalone" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="simplicity_standalone_1"
+                    value="Yes, the answer can be understood without looking at the original" />
+                <Choice alias="simplicity_standalone_2"
+                    value="No, the answer contains confusing aspects (e.g., unresolved coreferences, abbreviations/acronyms)" />
+            </Choices>
+            <TextArea name="simplicity_standalone_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <!-- C3: Relevance -->
+            <Header value="4. Question Relevance" size="3" />
+            <Header value="a) Is the question answerable with the original text?" size="4" />
+            <Choices name="relevance_source" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="relevance_source_1" value="Yes, and there is a single obvious answer" />
+                <Choice alias="relevance_source_2"
+                    value="Yes, but there could be multiple valid answers" />
+                <Choice alias="relevance_source_3" value="No" />
+            </Choices>
+            <TextArea name="relevance_source_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <Header value="b) To what extent is the question answerable with the simple text?"
+                size="4" />
+            <Choices name="relevance_target" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="relevance_target_1"
+                    value="Fully answerable. Asking it on the simplified text would give the same answer or a closely paraphrased answer as on the original." />
+                <Choice alias="relevance_target_2"
+                    value="Partly or vaguely answerable. The simplified text gives some relevant information, but is less specific or exhaustive than the original." />
+                <Choice alias="relevance_target_3" value="Unanswerable." />
+            </Choices>
+            <TextArea name="relevance_target_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <!-- C3: Accuracy -->
+            <Header value="5. Answer Accuracy" size="3" />
+            <Header value="a) Does the provided answer correctly answer the question?" size="4" />
+            <Choices name="accuracy_answer" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="accuracy_answer_1" value="Yes" />
+                <Choice alias="accuracy_answer_2"
+                    value="Partially, the answer is related but misses information" />
+                <Choice alias="accuracy_answer_3" value="No" />
+            </Choices>
+            <TextArea name="accuracy_answer_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <Header value="b) Does the provided answer have any hallucinations?" size="4" />
+            <Choices name="hallucinations_answer" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="hallucinations_answer_1" value="Good: no hallucinations." />
+                <Choice alias="hallucinations_answer_2"
+                    value="Bad: the answer contains hallucinations" />
+            </Choices>
+            <TextArea name="hallucinations_answer_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+
+            <Header value="c) Does the answer snippet correctly answer the question?" size="4" />
+            <Choices name="accuracy_snippet" toName="question"
+                choice="single-radio" showInLine="false" required="true">
+                <Choice alias="accuracy_snippet_1" value="Yes" />
+                <Choice alias="accuracy_snippet_2"
+                    value="Partially, the answer snippet is related but misses information" />
+                <Choice alias="accuracy_snippet_3" value="No" />
+            </Choices>
+            <TextArea name="accuracy_snippet_rationale" toName="question" maxSubmissions="1"
+                placeholder="Please explain your choice." />
+        </View>
+    </View>
+
+    <!-- Add labels to render text highlights, but never actually show them in the interface -->
+    <View visibleWhen="region-selected">
+        <Labels name="source_label" toName="source" opacity="0">
+            <Label value="omission" maxUsage="1" background="#ff725c" />
+            <Label value="concept" maxUsage="1" background="#ffd700" />
+        </Labels>
+        <Labels name="target_label" toName="target" opacity="0">
+            <Label value="concept" maxUsage="1" background="#ffd700" />
+        </Labels>
+    </View>
+</View>
+<!-- {
+    "data": {
+      "source": "OBJECTIVE AND DESIGN.\nDepot somatostatin analogues are well accepted as either adjuvant or primary therapy for acromegaly, and their long dosage intervals facilitate adherence to treatment. Our objective was to evaluate whether lanreotide Autogel® 120 mg, every 4–8 weeks, was as effective in controlling acromegaly as lanreotide microparticles 30 mg, every 1–2 weeks.\n\nPATIENTS DESIGN AND MEASUREMENTS.\nPatients who had used lanreotide microparticles 30 mg, ≥ 2 months prestudy, and had responded to treatment were recruited to this open, prospective, multicentre phase III trial. Three to five injections of lanreotide Autogel® 120 mg were administered. Lanreotide Autogel® 120 mg was injected every 4, 6 or 8 weeks in patients previously receiving lanreotide microparticles every 7, 10 or 14 days, respectively. GH and insulin-like growth factor (IGF)-1 levels were assessed one dosing interval after the final injections.\n\nRESULTS.\nNinety-eight patients were enrolled and 93 completed. Steady-state GH concentrations demonstrated similar efficacy between the formulations (upper 95% confidence interval of the quotient, 77·7%). Mean (SE) GH levels were lower with lanreotide Autogel® than with lanreotide microparticles (3·8 (0·5) vs 4·3 (0·5) ng/ml; P < 0·001). GH levels < 2·5 ng/ml were observed in 54% and 46% of patients; 40% and 35% having GH < 2·5 ng/ml and normalized IGF-1 with lanreotide Autogel® and microparticles, respectively. Symptoms were controlled better with lanreotide Autogel® and treatment was well accepted.\n\nCONCLUSIONS.\nLanreotide Autogel® 120 mg every 4–8 weeks, is at least as effective and as well tolerated in acromegaly as lanreotide microparticles 30 mg injected every 7–14 days.",
+      "target": "GOAL AND PLAN\nThe goal of this study was to see if giving lanreotide Autogel® 120 mg every 4 to 8 weeks worked as well as giving lanreotide microparticles 30 mg every week or two for treating acromegaly, a condition that makes the body produce too much growth hormone. Giving medicine less often could make it easier for people to stick with treatment.\n\nSTUDY DESIGN AND WHAT WE MEASURED.\nWe asked people to join this study if they had been using lanreotide microparticles 30 mg in the past, and it had worked for them. We gave the patients 3 to 5 shots of lanreotide Autogel® 120 mg. If they had been getting lanreotide microparticles each week before the study, we gave them lanreotide autogel® every 4 weeks. We adjusted the timing based on how often they were getting their old medication. We checked their growth hormone and insulin-like growth factor-1 levels after their last shots.\n\nWHAT WE FOUND.\nNinety-eight patients joined the study and 93 finished it. The amount of growth hormone in their bodies showed that both formulas worked about the same. On average, the growth hormone levels were slightly lower with the Autogel® than the microparticles. Symptoms were better controlled with the Autogel® and patients were happy with the treatment.\n\nCONCLUSIONS.\nUsing lanreotide Autogel® 120 mg every 4 to 8 weeks works just as well and is as well tolerated as using lanreotide microparticles 30 mg every one to two weeks in treating acromegaly.",
+      "question": "What is the motivation for this study about the effect of giving lanreotide at a higher dose with longer interval will have on acromegaly.",
+      "answer": "Drugs called depot somatostatin analogues (which slow the production of hormones and include lanreotide) are often used as an additional or the initial treatment for acromegaly."
+    }
+  }
+  -->

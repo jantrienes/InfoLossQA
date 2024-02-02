@@ -1,0 +1,14 @@
+BACKGROUND.
+This study looked at the best dosage of a drug called haloperidol to use in combination with another drug, dexamethasone, to prevent nausea and vomiting after surgery. The focus was on people who were at high risk of nausea and vomiting, specifically women having keyhole surgery on their reproductive organs.
+
+METHODS.
+The study involved 150 adult women who had a high risk of nausea and vomiting after surgery. They were divided into three groups. At the end of the anesthesia, the first group was given a harmless saline solution, the second group was given 1 mg of haloperidol, and the third group was given 2 mg of haloperidol. Everyone was given 5 mg of dexamethasone when they were first put to sleep for the surgery. The researchers then kept track of nausea, vomiting, use of other medicines to stop vomiting, pain, and side effects in the next 24 hours. They also assessed how sleepy the patients were after the surgery in the recovery room.
+
+RESULTS.
+Overall, fewer people felt sick or vomited in the 24 hours after surgery in the groups given haloperidol (29% in the 1 mg group and 24% in the 2 mg group) compared to the group given saline (54%). But there was no difference in results between the 1 mg and 2 mg haloperidol groups. The people given 2 mg of haloperidol were sleepier than the others after the surgery.
+
+CONCLUSIONS.
+For women having keyhole surgery on their reproductive organs who are at high risk of feeling sick or vomiting after surgery, 1 mg of haloperidol worked just as well as 2 mg in preventing these issues when used with dexamethasone. Plus, they didn't get as sleepy with the 1 mg dose.
+
+TRIAL REGISTRATION.
+This trial was registered at ClinicalTrials.gov with the code NCT01639599.

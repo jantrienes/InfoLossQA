@@ -1,0 +1,11 @@
+BACKGROUND.
+Emergency departments (EDs) in hospitals are often crowded, which can lead to longer waiting times and unhappy patients. To solve this problem, a new method called a 'fast track area' (FTA) was tested. This method is designed to reduce the amount of time patients wait and boost their satisfaction. The study was looking to see if this new area would really help with these factors. It also checked to see if this new area would negatively affect more urgent cases in the ED.
+
+METHODS.
+The study was conducted at a 500-bed hospital in Abu Dhabi, United Arab Emirates. It compared the waiting times and satisfaction rates of two groups: one before the FTA was introduced (in January 2005) and one after (in January 2006).
+
+RESULTS.
+The results showed that after the FTA was introduced, patients rated as less urgent in the ED waited 22 minutes less, on average. The very least urgent patients waited 28 minutes less. Even the more urgent cases benefited from shorter waiting times. The number of patients leaving without being seen (LWBS) dropped significantly from 4.7% to 0.7%. There was no notable change in the death rates after the FTA was opened.
+
+CONCLUSION.
+Overall, having a FTA in the ED helped to reduce waiting times and the rate of patients leaving without being seen, while the death rate didn't change.

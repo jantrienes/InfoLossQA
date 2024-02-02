@@ -1,0 +1,11 @@
+BACKGROUND:
+Even though previous studies mostly disagreed, many medical professionals believe that giving pain relief before surgery can help reduce pain after the operation. This research looked into whether giving ketamine (a strong painkiller) before appendix removal surgery lessens the pain that patients feel afterwards. 
+
+METHODS:
+We carried out an anonymous and randomized test on 80 adult male patients receiving emergency appendix removal surgery. The patients were split into two groups. Before the surgery started, the ketamine group were given a measured dose of ketamine through an IV drip, while the control group were given a saltwater injection. We checked the levels of pain they felt right after waking up from the operation, and then at 4, 12 and 24 hours after the surgery. We used a 10-point scale to measure the pain intensity.
+
+RESULTS:
+We enrolled 80 people into the study, with 40 in both groups. At all the pain measurement times, the group that got ketamine felt less pain than the control group. The time before the first request for pain relief was slightly longer in the ketamine group than in the control group. And fewer people in the ketamine group needed strong pain relief injections in the first 24 hours after surgery. There were no side effects from the ketamine.
+
+CONCLUSIONS:
+Giving a small amount of ketamine through an IV before surgery seems to help reduce pain after removing the appendix.

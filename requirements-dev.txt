@@ -1,0 +1,7 @@
+jupyter
+jupyter_contrib_nbextensions
+pytest
+pytest-cov
+pylint
+black[jupyter]~=24.0
+isort

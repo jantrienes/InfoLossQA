@@ -1,0 +1,11 @@
+BACKGROUND.
+This study was focused on looking at how giving a strong salt solution (hypertonic saline) by IV before surgery influences low blood pressure that can happen after putting a patient to sleep for the surgery.
+
+MATERIALS AND METHODS.
+We studied 54 patients who were going to have surgery. They were divided into two groups of 27 people each - one group was given a strong salt solution and the other was given a normal salt solution. The strong salt solution was given half an hour before the patient was put to sleep for surgery. We followed the same anesthesia process for all patients. We kept track of the patients' age, gender, body mass index (BMI), blood pressure, heart rate, and the average pressure in their arteries.
+
+RESULTS.
+The average age of the patients was about 37 years old, and 40% of them were men. We found that the strong salt solution didn't have a significant effect on the patients' blood pressure or heart rate at certain time points. However, other time points showed a significant increase in the blood pressure and average arterial pressure for patients who were given the strong salt solution.
+
+CONCLUSIONS.
+Giving a strong salt solution to patients before putting them to sleep for surgery can help avoid a big drop in blood pressure and a faster heart rate. It means there will be less chance of severe low blood pressure episodes.

@@ -1,0 +1,11 @@
+BACKGROUND.
+Metabolic syndrome is a mix of health conditions that can put you at risk of heart disease. It includes things like high blood pressure and the body's resistance to insulin, a hormone that manages the sugar in your body. Both high blood pressure and a type of diabetes are often found with metabolic syndrome and they make the risk of heart disease even higher. Telmisartan is a medication taken to lower high blood pressure, and it might also help the body respond better to insulin and improve blood fat levels in people with metabolic syndrome.
+
+METHODS.
+In a study which kept the patients and researchers blind to the treatment received, people with metabolic syndrome criteria defined by the World Health Organization were given either Telmisartan or another high blood pressure medication called Losartan daily for three months. At the beginning and end of treatment, we measured fasting and after-meal blood sugar levels, insulin responsiveness, the percentage of sugar coating on red blood cells (HbA1c), and average blood pressures throughout a day.
+
+RESULTS.
+Telmisartan was found to notably lower fasting blood sugar, fasting insulin, the measure of insulin resistance, and HbA1c. After taking Telmisartan, patients had lower blood sugar and insulin levels after eating sugar, which wasn't the case with Losartan. Telmisartan also significantly lowered the average blood pressure throughout the day, more so than Losartan.
+
+CONCLUSION.
+Besides better control of blood pressure throughout the day, Telmisartan was found to enhance the body's insulin response while Losartan did not. This could be related to Telmisartan's potential to partially provoke a specific activity in the body (PPARγ).

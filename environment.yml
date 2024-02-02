@@ -1,0 +1,30 @@
+name: ts-info-loss
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - pandas==2.1.1
+    - matplotlib==3.8.2
+    - seaborn==0.13.0
+    - datasets==2.14.5
+    - evaluate==0.4.1
+    - nltk==3.8.1
+    - openai==0.28.0
+    - torch==2.1.0
+    - transformers==4.35.1
+    - together==0.2.6
+    - accelerate==0.23
+    - scikit-learn
+    - wandb
+    - tqdm==4.66.1
+    - spacy==3.6.1
+    - textstat==0.7.3
+    - nervaluate
+    - gdown
+    - python-dotenv
+    - Levenshtein==0.23.0
+    - label-studio-sdk
+    - krippendorff==0.6.1
+    - statsmodels==0.14.0

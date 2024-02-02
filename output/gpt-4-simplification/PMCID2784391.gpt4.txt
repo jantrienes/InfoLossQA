@@ -1,0 +1,14 @@
+INTRODUCTION.
+People who are seriously sick, especially those in intensive care units, often lose a lot of muscle mass due to their illness and the long periods of time they spend without moving. Some studies have suggested that electrical muscle stimulation (EMS), a procedure that uses small electrical currents to make the muscles contract, could be a good substitute for exercise in patients with chronic lung or heart disease who also suffer from muscle weakness. Our study was designed to find out if EMS can help seriously ill patients keep their muscle mass, measured using ultrasound.
+
+METHODS.
+We studied 49 very sick patients, around 59 years old on average, who scored 13 or more on a scale measuring severity of illness. The patients were randomly divided into two groups when they arrived at the hospital: one that received daily EMS treatment on both legs, and a control group that did not receive the treatment. To evaluate the muscle mass, we used ultrasound to measure the thickness of two muscles in the thigh.
+
+RESULTS.
+In the end, 26 patients were fully evaluated. Both groups lost some muscle mass, but the group treated with EMS lost significantly less muscle mass than the control group. Specifically, the two thigh muscles we measured shrank less in the EMS group than in the control group.
+
+CONCLUSIONS.
+EMS appears to be well received by patients and seems to help very sick patients maintain their muscle mass. This suggests that it could be a useful tool to prevent muscle loss and help with rehabilitation in this patient group. However, we need to do further research to fully understand its potential uses.
+
+TRIAL REGISTRATION.
+This clinical trial has been registered: NCT00882830.

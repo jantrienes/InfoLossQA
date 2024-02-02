@@ -1,0 +1,17 @@
+BACKGROUND:
+Sexual violence can cause major physical, emotional, and social problems. Survivors sometimes feel negatively judged or stigmatized, but we're not sure how to best help them overcome this. We decided to test a group therapy approach, called Cognitive Processing Therapy (CPT), to see if it helps reduce stigma. Also, we wanted to see if feeling stigmatized affected how well the therapy worked for mental health issues. We did this study in the Democratic Republic of Congo.
+
+METHODS:
+We collected data from 405 adult women who survived sexual violence and were dealing with mental distress and trouble in daily life. In partnership with local support organizations, we randomly assigned these women to either group therapy or individual support. We checked on their progress at the start, the end, and six months after the therapy. We used statistical models to see if the therapy reduced feelings of stigma, and if stigma affected how well the therapy worked on other mental health issues.
+
+RESULTS:
+Women who went through group therapy felt less stigmatized after therapy, compared to those with individual support. However, this feeling faded away six months after the therapy. Neither feeling stigmatized nor experiencing discrimination significantly changed how well the therapy worked on mental health issues.
+
+CONCLUSIONS:
+Group therapy could be a good way to help survivors of sexual violence feel less stigmatized. Also, feeling stigmatized or discriminated didn't negatively affect how well the therapy worked on improving mental health.
+
+TRIAL REGISTRATION:
+This trial is registered on ClinicalTrials.gov (NCT01385163).
+
+ELECTRONIC SUPPLEMENTARY MATERIAL:
+More details of this article are available online for authorized users.

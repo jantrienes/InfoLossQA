@@ -1,0 +1,11 @@
+BACKGROUND:
+Research has shown that putting CO2 in the nose can help reduce pain in animals, probably by activating a specific type of neuron (nerve cells). Some evidence suggests that inhaling CO2 might also help people with facial pain. This is thought to work by activating the same kind of neurons in the nose, leading to effects that can help control pain. This study aims to see how CO2 in the nose affects facial pain caused by capsaicin, a substance that causes a burning sensation.
+
+METHODS:
+In this experiment, 48 healthy volunteers who never had facial pain before were made to feel a type of facial pain through the nasal application of capsaicin. They then had either CO2 or air alternately puffed into their nostrils for 60 seconds each. After that, they were split into two groups, where one group continuously received CO2 in the nose while the other received a placebo. They were asked to rate their level of pain every minute. 
+
+RESULTS:
+The results weren't as promising as the previous animal studies. The CO2 only slightly reduced the pain by about 5.3% compared to air and these effects were not seen after continuous implementation of CO2 or the placebo.
+
+CONCLUSIONS:
+Although a small reduction in pain was observed in this study where CO2 was administered to activate a specific type of neuron, the results were not significant enough to make a real difference in the clinical treatment of facial pain.

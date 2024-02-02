@@ -1,0 +1,11 @@
+PURPOSE:
+It has been suggested that a lack of good quality sleep might be linked to Alzheimer's disease. Since levels of the hormone melatonin, which helps control sleep, are often low in people in the early stages of Alzheimer's, we wanted to know if adding melatonin to their medication would help. We also wondered if these effects were related to whether or not these patients also had sleep disorders.
+
+PATIENTS AND METHODS:
+We tested the effects of adding prolonged-release melatonin (a slow-release form of the hormone) in 80 patients, roughly half men and half women, with an average age of 75 years. These patients had been diagnosed with mild to moderate Alzheimer's and were already receiving standard treatment. Some of these patients also had insomnia. For the first two weeks, we tested these patients with a placebo, then for the next 24 weeks, we gave half of them 2 mg of melatonin each night and the other half the placebo. Following this, we gave all patients the placebo for 2 more weeks. We measured how well these patients were thinking, their sleep quality, daily activities, and how safe this treatment was.
+
+RESULTS:
+The patients who received melatonin for 24 weeks generally thought better and slept more efficiently than those who received the placebo. The patients with insomnia who received melatonin saw a significant improvement in how well they could think and how well they slept. This treatment was safe and well-tolerated.
+
+CONCLUSION:
+Adding melatonin to Alzheimer's medication has positive results on thinking ability and sleep, especially in patients who also have insomnia. Our findings suggest that bad sleep might lead to a decline in cognitive ability.

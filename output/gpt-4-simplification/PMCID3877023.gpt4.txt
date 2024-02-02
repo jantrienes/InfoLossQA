@@ -1,0 +1,14 @@
+BACKGROUND.
+This study aimed to compare the picture quality of two different methods used in the scanning of the spine through magnetic resonance imaging (MRI)—the high-field horizontal open method and the short-bore method. 
+
+METHODS.
+93 patients (80% of them being women, with an average age of 53) were randomly chosen to have their spines scanned using either a 1-T horizontal open scanner or a 1.5-T short-bore scanner. The quality of the images produced by each scanner was then assessed by looking at certain aspects, such as the level of detail and brightness, and how sharp the outline of the images appeared.
+
+RESULTS.
+The short-bore method produced higher quality images. On average, the short-bore images were 39% better in quality, 53% brighter, and 34-37% sharper in outline (P<0.0001). Images from short-bore scans also showed superior contrast. Importantly, none of the scans were so poor in quality that they couldn't be used. The short-bore scanner also took less time to complete the scans.
+
+CONCLUSIONS.
+When comparing the quality of spine imaging using an open scanner versus a short-bore scanner, the study found that the short-bore method produced better quality images and took less time.
+
+TRIAL REGISTRATION.
+This trial was registered with ClinicalTrials.gov, with the number NCT00715806.

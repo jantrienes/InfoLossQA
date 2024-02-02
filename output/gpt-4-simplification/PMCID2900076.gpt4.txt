@@ -1,0 +1,9 @@
+This study is about a procedure called Total Knee Arthroplasty (TKA), which is a knee replacement surgery. Usually, during the operation, a tourniquet is used to control bleeding, and any blood loss that occurs after the operation is collected in drains. 
+
+Here, researchers are looking at the use of a drug called Tranexamic acid, which is known to reduce blood loss. The study involved patients who had one or both knees replaced. These patients were divided into two groups - one group was given a placebo (a substance with no therapeutic effect) and the other group got Tranexamic acid. 
+
+The aim was to see if there was any change in postoperative blood loss, the need for blood transfusion, the cost-effectiveness of the procedure, and any complications that occurred during the recovery period. 
+
+The findings showed that the group that received Tranexamic acid had less drainage fluid in their drains - both in patients who had one knee replaced and those who had both replaced. They also needed fewer blood transfusions than the group who got the placebo. 
+
+No patient in either group developed deep vein thrombosis, a type of blood clot. The results show that Tranexamic acid can reduce blood loss by about 54% in patients having both knees replaced and 40% in those having one knee replaced. This can lead to significantly fewer blood transfusions (more than 80% less).

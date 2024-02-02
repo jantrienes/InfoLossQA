@@ -1,0 +1,14 @@
+BACKGROUND
+Many people struggle with mental health issues, which can lead to other health problems and higher healthcare costs. We wanted to know if having nurses help these patients work through their problems (a method called Problem-Solving Treatment or PST) in the normal setting of a primary care doctor's office could be a useful and cost-effective way to manage mental health more efficiently. 
+
+METHODS
+We did a study, alongside a clinical trial, tracking costs and outcomes in two groups of patients who were known to have mental health problems (based on a standard questionnaire called the General Health Questionnaire) and had visited their family doctor at least three times in the past 6 months. One group was treated by their regular doctors in the normal way. The other was also treated by nurses using Problem-Solving Treatment. 
+
+RESULTS
+Nine months later, there was no major difference in mental health outcomes in the two groups. But the costs were lower for the group receiving nurse-led PST. Despite some statistical variations in the data, further analysis still showed that this method of managing mental health by nurses was cost-effective.
+
+CONCLUSIONS
+Our study suggests that using nurses to deliver this type of problem-solving treatment can be a cost-effective way of taking care of patients with mental health problems. However, the cost difference was heavily influenced by a few patients who had unusually high costs in the regular doctor's care group, so we must be cautious in generalizing these results.
+
+TRIAL REGISTRATION
+Our trial is registered with the Netherlands Trial Register with the number ISRCTN51021015.

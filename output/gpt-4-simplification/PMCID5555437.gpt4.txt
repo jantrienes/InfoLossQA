@@ -1,0 +1,14 @@
+BACKGROUND:
+This study is about finding the best treatment plan for a type of lung cancer called limited-stage small-cell lung cancer. The usual treatment is a combination of chemotherapy and radiotherapy, but it's not clear what the best way to do this is.
+
+METHODS:
+We conducted a trial where we gave the same group of adults two types of treatment. Every patient in the trial had the same type of lung cancer. Some patients received radiotherapy two times a day for 19 days, while others received it once a day for 45 days. Everyone also got the same chemotherapy treatment at the same time. Our goal was to see who lived longer and also noticed the side effects in both groups.
+
+FINDINGS:
+We started the trial in 2008 with 547 patients. We lost track of 4 patients so they weren't included in our results. After about four years, people who received radiotherapy twice a day lived about 30 months on average after being diagnosed, while people who received it once a day lived about 25 months. About 56% of patients who received radiotherapy twice daily were still alive two years after diagnosis, against 51% of those who got it once daily. The side effects were similar in both groups, just more patients in the twice-a-day group had a severe decrease in white blood cell count. On an unfortunate note, 11 patients died because of the treatment.
+
+INTERPRETATION:
+The study found that giving the treatment twice a day or once a day didn't really make a difference in how long people lived. Also, the side effects were similar for both treatment plans. For now, we should continue giving radiotherapy twice a day as the standard treatment because we designed the trial aiming to prove once-daily treatment was superior.
+
+FUNDING:
+This study was funded by several cancer research organizations and institutes from the United Kingdom, France, Canada, and Europe.

@@ -1,0 +1,12 @@
+ABSTRACT.
+BACKGROUND AND AIMS::
+Recent research shows that using etomidate for sedation during a colonoscopy could be safer than propofol for older people. Both are comparable in their effectiveness. We studied whether using etomidate with another sedative, midazolam, might lead to fewer heart and lung-related side effects compared to using propofol and midazolam. 
+
+METHODS.
+We carried out a clinical trial at a single center. We focused on patients over 65 years old who were due for a routine colonoscopy. These patients were randomly chosen to receive either etomidate or propofol along with midazolam. We mainly wanted to see which group had less heart and lung issues. We also looked at the patient's vital signs, any issues that interfered with the procedure, and the results related to the use of sedatives.
+
+RESULTS.
+The number of heart and lung-related issues was higher in the patients who received propofol (72.6%) as compared to those who received etomidate (54.8%). Changes in vital signs were observed in 27.4% of patients receiving etomidate and 50.0% of patients receiving propofol. Procedure-related complications were also significantly higher among patients in the etomidate group (25.8%) compared to the propofol group (8.1%). There were also more cases of muscle twitching observed in the etomidate group (16.1%) compared to the propofol group (1.6%). There was no significant difference between the two groups in terms of sedation times and how satisfied the patients and doctors were with the sedation process. When it came to changes in vital signs, patients receiving etomidate were much less likely to experience these than those receiving propofol.
+
+CONCLUSIONS.
+For patients who are at a high risk of complications or have severe medical conditions, we recommend using etomidate with midazolam. On the other hand, for patients at lower risk, propofol with midazolam could be a better choice.

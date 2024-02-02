@@ -1,0 +1,17 @@
+BACKGROUND.
+Breathing in tiny pieces of dust in the air, or air pollution, is linked with greater risks of illness and death. Extra-small particles, termed nanoparticles, may cause health problems like inflammation and blood clotting because they can enter lung cells and pass through lung mucus. We tested the idea that purposely putting carbon nanoparticles in certain areas of the lungs can cause inflammation and trigger blood clotting in healthy people.
+
+METHODS.
+We ran a study where we controlled the amount of carbon nanoparticles we gave to 26 healthy men. These participants had saltwater (a control substance) put in one part of their lungs and either more saltwater (a placebo) or different amounts of carbon nanoparticles in the other part. After 6 hours, we collected samples of their blood and washings from lung fluid to test for signs of inflammation and blood clotting.
+
+RESULTS.
+We found that the more carbon nanoparticles we used, the more white blood cells (cells that fight infection) appeared in the blood samples. Additionally, using the highest amount of nanoparticles caused a significant increase in these cells compared to using the placebo.
+
+CONCLUSIONS.
+This study shows that purposely sending carbon nanoparticles into certain parts of the lungs of healthy people can increase the number of infection-fighting cells in their blood. This suggests that small particles in the lungs can cause body-wide inflammation.
+
+TRIAL REGISTRATION.
+This study was registered with the Dutch Trial Register on July 11, 2011. The registration number is 2976. Further information can be found online.
+
+ADDITIONAL MATERIAL.
+The online article of this study (10.1186/s12890-017-0463-x) has additional content, which can be accessed by authorized users.

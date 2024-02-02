@@ -1,0 +1,11 @@
+GOAL:
+We wanted to see if giving chemotherapy before surgery improved life expectancy and disease outlook for patients with a certain type of lung cancer (non-small cell lung cancer) in stages I to IIIA, but not in the very earliest sub-stage of Stage I.
+
+METHODS:
+In this study, 356 patients with Stage I (except the earliest sub-stage), II, and IIIA lung cancer were randomly assigned to one of two groups: one group received chemotherapy before surgery (179 patients), and the other group had surgery first (177 patients). Both groups received additional chemotherapy after the surgery. We were particularly interested in comparing overall survival, the duration of time patients lived without their disease getting worse, and the survival rate of patients who showed signs of recovery.
+
+RESULTS:
+We found some difference in survival rates between the group that received preoperative chemotherapy and the group that only had surgery. However, patients who had chemotherapy first survived on average for a shorter amount of time (about 45 months vs about 58 months in the surgery-only group). When we looked at each cancer stage separately, we found some difference in survival rates only in Stage II patients. Interestingly, there was no significant difference in how long patients lived without their disease getting worse, except in Stage I patients. Finally, patients who seemed to get better after preoperative chemotherapy lived longer, but this difference was not big enough to be sure it wasn't due to chance.
+
+CONCLUSION:
+Giving chemotherapy before surgery did not significantly improve overall survival or delay disease progression for patients in stages I-III of non-small cell lung cancer.

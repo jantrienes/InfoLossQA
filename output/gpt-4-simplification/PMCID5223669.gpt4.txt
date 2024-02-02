@@ -1,0 +1,11 @@
+GOAL
+We want to understand the best way to analyze data from a study that is comparing two treatments for diabetes. This type of study is usually done by comparing the baseline, or starting, measurements of the patients' blood fat levels (fasting lipid profiles) to follow-up measurements taken after some time. There are traditional ways to do this comparison (like ANCOVA and LDA), but we're also exploring a different approach, called cLDA, that assumes the starting measurements are the same for both treatments. We want to see which method is the most reliable, considering some patients might not complete the trial.
+
+HOW WE DID IT
+We analyzed data from a study conducted at Group Medical Clinics (GMC) using all three methods -ANCOVA, LDA, and cLDA- and compared the results. We ran these tests on data from patients who finished the trial and also on data that includes patients who didn't finish.
+
+WHAT WE FOUND
+When we used data from patients who completed the trial (195 people), both ANCOVA and cLDA showed that the GMC treatment lowered bad cholesterol levels (LDL) by about 11.2 mg/dL, significantly more than the usual care. When we used all available data (233 people), cLDA showed an LDL improvement of 8.9 mg/dL with the GMC treatment, but LDA showed only a 7.2 mg/dL improvement and wasn't as sure of this result.
+
+WHAT IT MEANS
+If we take into account that some people might not complete the trial, cLDA seems to produce consistent and reliable results. It evaluates the effect of treatment very efficiently and its findings can be trusted. Thus, it may be a better choice compared to ANCOVA and LDA when looking at this type of data.

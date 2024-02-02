@@ -1,0 +1,14 @@
+BACKGROUND.
+Babies who have heart surgery may not get enough protein. This is because having surgery and using a heart-lung machine during the operation might break down protein faster than normal, and these babies might not eat enough to replace it. This study was done to see how giving these babies more protein after surgery would affect their protein levels.
+
+METHODS.
+We conducted a study where we randomly chose some babies to get a lot of protein and some to get a normal amount. This was done on the second day after they had surgery to fix heart defects they were born with. We did a special test to measure how much of a kind of protein called "valine" their bodies were making. We also measured how much of another protein called "albumin" their bodies were making. We then compared the results between the two groups.
+
+RESULTS.
+28 babies, who were around 9 months old and weighed about 7 kg, took part in the study. However, we could only use the data from 20 of them for our final results. Because we didn't have enough data, we couldn't make conclusions about protein levels. There was no difference in albumin production between the two groups. However, we saw that the babies getting a lot of protein had higher levels of valine and another substance called BUN, which is an indicator of how much protein a person is getting.
+
+CONCLUSIONS.
+It looks like the extra protein in the diet of the high-protein group might have increased the levels of valine and BUN. However, because we didn't have enough data, we can't say for sure that a high-protein diet would change protein levels in these babies. Therefore, the results from our study should be taken as a starting point for further research.
+
+TRIAL REGISTRATION.
+This trial was registered with the Dutch Trial Register (NTR2334).

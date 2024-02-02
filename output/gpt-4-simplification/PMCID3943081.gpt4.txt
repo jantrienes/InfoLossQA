@@ -1,0 +1,11 @@
+GOAL.
+Certain studies have disagreed on whether chest physiotherapy (a treatment involving physical movement and manipulation to breathe better) can help prevent instances of lung collapse in children after they have been on a breathing machine. Our goal was to look into how effective chest physiotherapy is in stopping a collapsed lung in children patients. 
+
+WHAT WE DID.
+Between March 2007 and March 2011, we ran a study comparing two groups of patients (35 kids in each group) who were at risk of lung collapse. These kids had muscle and nerve illnesses like spinal muscular atrophy, Guillain-Barre syndrome, critical illness polyneuropathy/myopathy, and cerebral palsy. We randomly put the patients into two groups (test and comparison); The test group received daily chest physiotherapy using a vibrating machine and manual chest hitting, and the comparison group was simply monitored. For the latter group, we treated their disease and managed any lung collapse if it happened.
+
+WHAT WE FOUND.
+Occurrence of lung collapse was lower in the group that received chest physiotherapy (16.6% vs. 40%).
+
+CONCLUSION.
+Chest physiotherapy and regular position changes can greatly lower the chance of lung collapse in child patients.

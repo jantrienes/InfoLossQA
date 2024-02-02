@@ -1,0 +1,15 @@
+BACKGROUND.
+Dexmedetomidine is a drug that helps to reduce pain, anxiety, and causes sleepiness without affecting breathing. However, it can cause changes in blood pressure. Sometimes, after spinal anesthesia, patients can experience low blood pressure. We wanted to understand if giving dexmedetomidine before or after the anesthesia could affect blood pressure changes and patient comfort level.
+
+METHODS.
+We tested this idea on 74 patients, who were all generally healthy or had only mild systemic illness. They were divided into two groups. Both received spinal anesthesia and dexmedetomidine, but the order in which they received the drug was different.
+Group A received the drug after the anesthesia, while Group B received it before. We monitored their vital signs during and after surgery and also used questionnaires to understand their level of anxiety and comfort.
+
+RESULTS.
+There was a difference in blood pressure changes between the two groups. Fewer patients in Group A experienced low blood pressure compared to Group B. Also, more patients in Group B required treatment for low blood pressure. However, heart rate and oxygen levels were similar in both groups and there were no significant differences in the patients' anxiety and comfort levels.
+
+CONCLUSIONS.
+Our study found that more patients experienced low blood pressure and required treatment when given Dexmedetomidine before rather than after spinal anesthesia. However, giving the drug before or after anesthesia didn't make a significant difference in patients' comfort or anxiety levels during lower limb surgeries.
+
+TRIAL REGISTRATION.
+This trial is recorded in the U.S National Library of Medicine under the identification number NCT02155010 and was first registered on the database on May 22, 2014.

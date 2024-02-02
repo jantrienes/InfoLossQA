@@ -1,0 +1,11 @@
+BACKGROUND.
+This study was performed to show the importance of increasing autism awareness among those who work with children, as it could lead to an earlier diagnosis. For this, the researchers developed a computer program which teaches properly about autism and then checked how well it did the job.
+
+METHODS.
+The computer program, a learning tool, was created using two types of computer software. To test its effectiveness, they gave it to 32 childcare students in the UK. Half of these students got to learn with this computer program, while the other half read a leaflet containing the same information. To see how well they learned, the researchers checked how much they remembered, how much they enjoyed the process, and how confident they felt in recognizing a child with autism. Then, they used statistical methods to analyze the data from both groups.
+
+RESULTS.
+Students who used the computer program remembered more information and enjoyed learning more as compared to students who read the leaflet. However, both groups had the same level of confidence in recognizing a child with autism.
+
+CONCLUSION.
+From this study, the researchers concluded that the computer program they developed was a useful tool in teaching people who work with children about autism.

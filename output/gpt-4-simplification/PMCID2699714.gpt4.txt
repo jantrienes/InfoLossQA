@@ -1,0 +1,11 @@
+GOAL.
+The goal of this study was to test if a drug called etanercept could help children with newly detected type 1 diabetes continue making their own insulin for longer.
+
+STUDY DESIGN. 
+This was a six-month experiment carried out at the Children's Hospital of Buffalo's Diabetes Center. A diverse group of 18 kids aged between 7.8-18.2 years participated. They were randomly split into two groups. One group received etanercept, and the other got a placebo (a substance with no therapeutic effect). The researchers used standard criteria, including age, health status, insulin injections, and general health markers to select the participants. They treated all participants equally whether they finished the study or not.
+
+FINDINGS. 
+At the end of the study, the group that received etanercept had a lower average blood sugar level and seemed to be making more of their own insulin than the placebo group. Their average insulin dose decreased by 18%, while the placebo group's average dose increased by 23%. Importantly, none of the patients dropped out due to side effects from the etanercept.
+
+CONCLUSIONS. 
+This small preliminary study suggests that etanercept might help children newly diagnosed with type 1 diabetes maintain their ability to produce insulin. Therefore, etanercept might delay the point at which patients need to rely entirely on insulin injections. More extensive research is needed to confirm this possibility and to ensure the safety and effectiveness of this treatment approach.

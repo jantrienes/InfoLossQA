@@ -1,0 +1,11 @@
+BACKGROUND.
+This study looks at if picking workers based on certain facts (objective) for a program meant to stop them from taking sick days is better than just choosing them based on a hunch (subjective). The researchers think that those chosen based on solid evidence are more likely to be at risk of taking sick days, making them the ideal candidates for the program.
+
+METHODS.
+The researchers started by sending out 8603 surveys to begin the evidence-based selection process. They detailed and compared the different steps in this process, which involved some workers not completing the process or being ruled out, to the hunch-based selection. They studied and noted down certain characteristics of the workers who couldn't join and those who were eventually chosen for a test experiment using data regarding sick leave.
+
+RESULTS.
+The overall response to the survey was 42.0%. There was bias in answering the survey when it came to sex and age, but not for sick leave. The rate of sick leave was higher in the 'at risk' group (42%) as compared to the 'not at risk' group (25%). The selection process ended successfully with 151 workers, or 2% of those contacted, included in the test.
+
+CONCLUSION.
+The study found that selecting workers for this kind of program based on solid evidence is effective. Even though they faced some challenges, the researchers were able to find that the workers picked were genuinely those at risk of taking sick leave. These workers are likely to benefit more from the program than others.

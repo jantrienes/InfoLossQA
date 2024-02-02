@@ -1,0 +1,5 @@
+This study is about testing whether high or low doses of a drug called haloperidol are more effective at treating short-lasting mental illnesses. The researchers started out thinking that high doses might work better and faster, but some recent studies have disagreed with this idea. They decided to test it out themselves.
+
+40 patients - both male and female - who were experiencing a brief bout of mental illness were chosen for this study. These patients were randomly split into two groups, with one group receiving a high dose (20 mg/day) and the other receiving a low dose (5 mg/day) of haloperidol. Over a six-week period, the groups were checked weekly for any improvement in their symptoms and side effects from the drug.
+
+In the end, both groups showed significant recovery from their initial symptoms at every check-up. When they compared the two groups, the researchers found no notable difference in how much the patients improved. So, it didn't really matter whether they were given a high or low dose - they ended up getting better around the same amount.

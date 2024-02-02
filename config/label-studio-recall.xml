@@ -1,0 +1,135 @@
+<View>
+    <Style>
+        .text-block {
+        border: 1px solid #e8e8e8;
+        background: rgba(0,0,0,.01);
+        margin-bottom: 0.5em;
+        border-radius: 3px;
+        padding: 10px 10px;
+        overflow: auto;
+        overflow-wrap: break-word;
+        }
+
+        .text-block-focus {
+        border: 1px solid #e8e8e8;
+        background: rgba(144, 238, 144,.2);
+        margin-bottom: 0.5em;
+        border-radius: 3px;
+        padding: 10px 10px;
+        overflow: auto;
+        overflow-wrap: break-word;
+        }
+
+        .sidebar {
+        max-heigth: 800px;
+        border: 1px solid #e8e8e8;
+        background: rgba(251,241,169,.2);
+        margin-bottom: 0.5em;
+        border-radius: 3px;
+        padding: 10px 10px;
+        overflow: auto;
+        overflow-wrap: break-word;
+        }
+
+        h2 {
+        /* Headers aligned with text */
+        font-size: 14px !important;
+        margin-top: 3px !important;
+        margin-bottom: 0px !important;
+        padding-left: 8px !important; /* align with text */
+        }
+        h3 {
+        /* Default header */
+        font-size: 17px !important;
+        }
+        h4 {
+        /* Normal text */
+        font-weight: 400 !important;
+        font-size: 15px !important;
+        }
+        h5 {
+        /* Subscripts and remarks */
+        font-weight: 400 !important;
+        font-size: 11px !important;
+        margin: 0px !important;
+        padding-left: 8px !important;
+        color: rgba(0, 0, 0, 0.5) !important;
+        }
+        .htx-text{ white-space: pre-wrap; }
+        .horizontal-line {
+        border-top: 1px solid lightgray;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        }
+
+        .qa {
+        max-width: 60%;
+        margin: 0 auto; /* Center the view horizontally */
+        display: flex;
+        flex-direction: column;
+        }
+
+        .texts {
+        display: flex;
+        width: 80%;
+        margin: 0 auto;
+        }
+
+        .highlighted-text {
+        flex: 1; /* Take up the available space */
+        }
+
+
+    </Style>
+
+    <View className="qa" style="margin-top: 50px">
+        <View className="text-block-focus">
+            <Header value="$reference_question" size="2" />
+            <Text name="reference_answer" value="$reference_answer" selectionEnabled="false" />
+        </View>
+        <View className="text-block">
+            <Header value="$predicted_question" size="2" />
+            <Text name="predicted_answer" value="$predicted_answer" selectionEnabled="false" />
+        </View>
+        <Choices name="rating" toName="reference_answer" choice="single-radio">
+            <Choice alias="aligned" value="Fully recalled" />
+            <Choice alias="partial" value="Partially recalled" />
+            <Choice alias="not_aligned" value="No overlap" />
+        </Choices>
+    </View>
+    <View className="horizontal-line"></View>
+    <View className="texts">
+        <View className="highlighted-text text-block-focus">
+            <Header value="Reference Highlight" size="2" />
+            <HyperText name="reference_highlighted" value="$reference_highlighted"></HyperText>
+        </View>
+        <View className="highlighted-text text-block" style="margin-left: 8px;">
+            <Header value="Predicted Highlight" size="2" />
+            <HyperText name="predicted_highlighted" value="$predicted_highlighted"></HyperText>
+        </View>
+    </View>
+
+    <View className="qa">
+        <View className="horizontal-line"></View>
+        <TextArea toName="reference_answer" name="comment" maxSubmissions="1"
+            placeholder="Comment (optional)"></TextArea>
+        <Header value="Document: $doc_id" size="5" />
+        <Header value="Reference: $reference_id" size="5" />
+        <Header value="Prediction: $prediction_id" size="5" />
+    </View>
+
+</View>
+<!-- {
+      "data": {
+ 		"doc_id": 1234,
+		"reference_id": 5,
+		"prediction_id": 6,
+        "reference_question": "Why are micronutrients essential to brain growth and development?",
+        "reference_answer": "In early development stages, developmental cellular activity is sensitive to a lack of micronutrient deficiencies. However, the evidence of this from human studies remains ambiguous. ",
+        "predicted_question": "What nutrients are important for brain growth?",
+        "predicted_answer": "Micronutrients, which include vitamins and minerals, are crucial for brain growth.",
+        "reference_highlighted": "<pre style=\"white-space: pre-wrap; font-size: 12px; font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;\">BACKGROUND.\nInduction of anesthesia is the most crucial period of general anesthesia. Inhalational induction is the most commonly used technique in pediatric anesthesia. Tracheal intubation can be done after reaching the deep levels of anesthesia. The depth of anesthesia is often difficult to be judged. Bispectral index is a measure of the effects of anesthesia on brain. This study was designed to evaluate the efficacy of bispectral index (BIS) in clarifying suitable depth of anesthesia for tracheal intubation during inhalational induction of anesthesia.\n\nMETHODS.\nIn a clinical trial, ninety patients, ASA I & II, 1 to 6 years old, scheduled for elective surgery were enrolled into the study. After starting BIS monitoring, patients randomly were divided into three groups. Then, anesthesia was induced by gradual increase of halothane in 50% mixture of oxygen (O2) and N2O and continued until <span style=\"font-weight: bold; background-color: #ff725c;\">target BIS (60 \u00b1 2, 50 \u00b1 2 and 40 \u00b1 2)</span> achieved. After tracheal intubation, the duration of laryngoscopy and the presence of laryngospasm, bronchospasm, laryngoscopy failure, the movement of extremities and the changes in SpO2 and BIS were recorded. The data were analyzed by chi-square and ANOVA at 0.05 level of significance.\n\nRESULTS.\nBIS could not determine the appropriate level of anesthesia for tracheal intubation in this setting. There were no differences in laryngoscopy duration and the occurrence of laryngospasm, bronchospasm, laryngoscopy failure, extremity movement and awakening time among three groups.\n\nCONCLUSIONS.\nThese results confirmed that there was no significant difference in the incidence of complications related to intubation at different BIS values (from 60 to 40) during inhalation induction, and probably to achieve an adequate or more reliable depth of anesthesia, the lower values of BIS is required.</pre>",
+        "predicted_highlighted": "<pre style=\"white-space: pre-wrap; font-size: 12px; font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;\">BACKGROUND.\nInduction of anesthesia is the most crucial period of general anesthesia. Inhalational induction is the most commonly used technique in pediatric anesthesia. Tracheal intubation can be done after reaching the deep levels of anesthesia. The depth of anesthesia is often difficult to be judged. Bispectral index is a measure of the effects of anesthesia on brain. This study was designed to evaluate the efficacy of bispectral index (BIS) in clarifying suitable depth of anesthesia for tracheal intubation during inhalational induction of anesthesia.\n\nMETHODS.\nIn a clinical trial, ninety patients, ASA I & II, 1 to 6 years old, scheduled for elective surgery were enrolled into the study. After starting BIS monitoring, patients randomly were divided into three groups. Then, anesthesia was induced by gradual increase of halothane in 50% mixture of oxygen (O2) and N2O and continued until <span style=\"font-weight: bold; background-color: #ff725c;\">target BIS (60 \u00b1 2, 50 \u00b1 2 and 40 \u00b1 2)</span> achieved. After tracheal intubation, the duration of laryngoscopy and the presence of laryngospasm, bronchospasm, laryngoscopy failure, the movement of extremities and the changes in SpO2 and BIS were recorded. The data were analyzed by chi-square and ANOVA at 0.05 level of significance.\n\nRESULTS.\nBIS could not determine the appropriate level of anesthesia for tracheal intubation in this setting. There were no differences in laryngoscopy duration and the occurrence of laryngospasm, bronchospasm, laryngoscopy failure, extremity movement and awakening time among three groups.\n\nCONCLUSIONS.\nThese results confirmed that there was no significant difference in the incidence of complications related to intubation at different BIS values (from 60 to 40) during inhalation induction, and probably to achieve an adequate or more reliable depth of anesthesia, the lower values of BIS is required.</pre>"
+      }
+    } -->

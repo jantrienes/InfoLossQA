@@ -1,0 +1,11 @@
+BACKGROUND.
+This study was conducted to see how quinine, a medication used for malaria, affects blood sugar levels in healthy people.
+
+METHODS.
+We tested blood sugar responses to a 4-hour dose of saline (salt) solution or a glucose (sugar) solution, with and without quinine. We used ten healthy volunteers, mainly men, averaging 28 years old. The experiments were conducted in a random order. In each experiment, we checked the blood sugar every 15 minutes for 4 hours and compared the average and changes in blood sugar for each test. We also performed a resting ECG (a test that measures the electrical activity of the heartbeat) before and after giving quinine to each participant.
+
+RESULTS.
+The average blood sugar level during the 4-hour test was slightly lower with quinine than without it, both in the salt and sugar solutions. The largest drop (17.5%) occurred at the 60th minute but then it gradually increased until the 4th hour. There were no indications of too low blood sugar or significant heart rhythm changes as shown by the ECG. Overall, quinine didn't cause a significant change in blood sugar levels compared to the saline solution.
+
+CONCLUSION.
+Giving quinine through IV at a normal dose resulted in a small drop in blood sugar levels, which hit its lowest point at the 60th minute in healthy people. There were no signs of dangerously low blood sugar. This implies that patients at risk of low blood sugar levels, such as those with severe malaria, should be watched closely during the first hour of quinine treatment.

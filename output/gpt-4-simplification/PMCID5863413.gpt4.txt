@@ -1,0 +1,17 @@
+INTRODUCTION.
+Lichen planus is a lasting skin disease that we don't know the cause of and is often treated with steroids. These steroids can have negative side effects, so researchers are trying to find other ways to treat it. Right now, they're looking into using propolis, which is a natural product created by bees.
+
+AIM.
+The goal of this study is to see if propolis can be used effectively to treat lichen planus.
+
+MATERIALS AND METHODS.
+The study involved 27 people who have been diagnosed with a type of lichen planus that affects the inside of the mouth. Fifteen of these people were given a common treatment (a 0.1% mix of a steroid), while the other twelve were given a gel made from propolis. Over two weeks, both groups were regularly checked for pain and redness.
+
+RESULTS.
+Both groups - those treated with steroids and those treated with propolis - showed a significant decrease in pain and redness by the end of two weeks. The decrease in these symptoms between the two groups wasn't significant enough to be conclusive.
+
+STATISTICAL ANALYSIS USED.
+Chi-square and Cramer's V test were used to analyze the results.
+
+CONCLUSION.
+In conclusion, propolis (the product made by bees) seemed to be as effective as steroids in treating this type of lichen planus.

@@ -1,0 +1,11 @@
+BACKGROUND.
+This study looked at breast cancer patients who, for different reasons, didn't receive a common follow-up treatment called Tamoxifen after their surgery. The aim was to see what role, if any, Tamoxifen could still play for these patients if given later.
+
+METHODS.
+Between 1997 and 2003, we looked at patients aged 35-75 who had had surgery for one-sided breast cancer more than 2 years before. These patients didn't have any signs of the cancer spreading and were healthy enough to take Tamoxifen. They were split into two groups: one received 20 mg/day of Tamoxifen for two years, and the other did not. We tracked various outcomes including local and distant cancer recurrence, new breast cancers, other types of cancer, and death. We based our sample size on the hypothesis that taking Tamoxifen would result in 30% fewer events occurring over 10 years. The study included 433 people, 217 took Tamoxifen while 216 did not. The patient's characteristics were very similar in both groups.
+
+RESULTS.
+Thirty-six patients stopped taking Tamoxifen after about a month, mainly due to not tolerating it well. Eighty-three significant events occurred: 10 local and 16 distant cancer recurrences, 14 new breast cancers, and 21 other cancers. In the Tamoxifen group, fewer patients developed new estrogen-receptor positive breast cancers (1 vs 10). However, the two groups showed similar overall health progress.
+
+CONCLUSIONS.
+The 5-year analysis showed that fewer patients in the Tamoxifen group developed new estrogen-receptor positive cancers. We didn't, however, see any other significant differences between the two groups.

@@ -1,0 +1,11 @@
+BACKGROUND:
+Certain parts of the brain called the amygdala respond less to happy things in people with depression, but this can improve when they start feeling better. One way to boost this activity in the brain is by using a special type of MRI (a brain imaging technique) known as real-time functional MRI neurofeedback (rtfMRI-nf). We wanted to see if people with depression could use this technique to increase their brain's response to positive personal memories, and if this could affect their symptoms.
+
+METHODS:
+We worked with people who have depression but are not taking medication. We divided these individuals into two groups: one was shown rtfMRI-nf from the left amygdala and the other from a different brain area (as a comparison). These individuals were asked to think about happy personal memories to increase the level of a certain signal in the targeted brain area. They did this activity for 40 seconds, followed by rest and counting backwards. Lastly, they did another brain scan without feedback information.
+
+RESULTS:
+People in the first group were able to increase their amygdala's response when remembering positive personal memories. Compared to the second group, these individuals also showed a significant decrease in anxiety and an increase in happiness after scanning. When they were not given feedback, their brain activity in certain areas was increased compared to the control group.
+
+CONCLUSION:
+Our research suggests that people with depression were able to control their brain's response to happy memories using this special type of MRI known as rtfMRI-nf. This resulted in an improved mood. These findings provide preliminary evidence that such brain training using positive memory recall could potentially be a new way to treat depression.

@@ -1,0 +1,11 @@
+GOAL:
+Our study wanted to see how the combination of two drugs, levosimendan (LS) and sodium nitroprusside (SNP), impacts the heart's ability to pump during and after heart bypass surgery in people who also needed another procedure to fix the inside wall of the heart.
+
+HOW WE DID IT:
+We had 70 heart disease patients with a type of heart damage that causes it to enlarge. We gave half the patients the drug combination and the other half a harmless salt solution (as a comparison group). The levosimendan was started 4 hours before surgery and stopped before the start of the heart bypass; during the last part of surgery, levosimendan was restarted along with SNP. If a patient's blood pressure dropped significantly during this process, a volume increasing solution was given to correct it. We recorded many patients' blood measurements, their need for heart-strengthening drugs, and laboratory test results.
+
+WHAT WE FOUND:
+After surgery, 5 patients died due to heart complications (one from the drug group and four from the comparison group). Patients given the drugs had stronger heart function stats compared to those who weren't. These patients also needed less supportive drugs and less interventional equipment post-surgery. Various measurements like cardiac output, stroke volume, and cardiac index were better in the drug group. Also, fewer people in the drug group needed help from heart-strengthening drugs or equipment post-surgery.
+
+CONCLUSION:
+The study shows that the LS and SNP combination really improved heart function during and after surgery. Using these drugs led to less need for other supporting drugs or equipment. Thus, we suggest using this drug combination before and during surgery.

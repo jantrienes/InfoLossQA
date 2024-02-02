@@ -1,0 +1,5 @@
+This study looked at whether manipulating the speed of steps (stride frequency) during uphill training could increase the distance covered in a single step (stride length) in race walking. The researchers took twelve male race walkers and split them randomly into two groups. One group had structured step frequency during their training, and the other had no specific step frequency set.
+
+The results showed that the group with structured step frequency saw an increase in the distance of their step and the time their foot was in contact with the ground. Simultaneously, the speed of their steps and energy used decreased. The group without specific step frequency had a decrease in the distance of their step and foot contact time but saw an increase in the speed of their steps and energy used.
+
+This research suggests that training on slopes with specific step frequencies could offer coaches a useful technique to improve race walkers’ performance by increasing the distance of their steps without changing the walker's style or creating extra energy demand.

@@ -1,0 +1,11 @@
+BACKGROUND.
+The body has a compound called adenosine-5’-triphosphate (ATP), which is mostly found inside our cells and plays a significant role in energy supply. Brief increases in this compound level outside the cells can be useful as it helps improve blood flow and oxygen supply to tissues. It can also act as a neurotransmitter to help nerves communicate with each other. Better blood flow can assist in our body's recovery after activity by removing waste products from metabolism. It may also empower muscles to do more work without tiring. This study aims to determine if taking extra ATP can enhance muscle power and reduce fatigue during intense workouts.
+
+METHODS.
+We included sixteen people (8 men and 8 women; aged between 21-34 years) in a tightly controlled study that neither the researchers nor the participants knew who was getting the ATP supplements or a placebo. The participants were given either ATP supplements (400mg/day divided into two daily doses) or placebo for 15 days. After fasting overnight, the participants were made to do strength and fatigue tests, involving three sets of 50 maximum knee extensions executed on a machine called a Biodex® leg dynamometer.
+
+RESULTS.
+ATP supplementation didn't make any difference in high peak power or total work. But, it did show significant improvement in low peak power in the second set. There was also a notable trend pointing towards less fatigue with ATP supplementation in the third set.
+
+CONCLUSIONS.
+Taking 400 mg of ATP supplements every day for 15 days seemed to decrease muscle fatigue and improved a participant's capacity to maintain a higher force towards the end of an exhaustive exercise.

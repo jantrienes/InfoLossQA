@@ -1,0 +1,11 @@
+INTRODUCTION.
+When a person has a kidney transplant, a tube called a stent is often used to help the new kidney function properly. But there are problems with this. Sometimes, the stent can become clogged up and need to be removed, which can lead to pain, infection, and other complications. This study is trying to find a better way to use the stent to avoid these problems.
+
+MATERIAL AND METHODS.
+We looked at 90 patients who were going to have a kidney transplant within a year. We split them into two groups. In one group, the stent was attached to a catheter. In the other group, the stent was used in the standard way, separate from the catheter. We then compared rates of infection, how often the stent got blocked, and how bad any urinary symptoms were between the two groups.
+
+RESULTS.
+After two and four weeks, fewer patients in the group where the stent was attached to the catheter had an infection compared to the standard group. Overall, urinary leakage was slight, but it only happened in the standard group. Stent blockage only happened in the standard group too.
+
+CONCLUSION.
+Although the differences between the two groups weren't big enough to be statistically significant, the group where the stent was attached to the catheter had fewer complications. This suggests that this new technique could be a better way to use the stent following a kidney transplant.

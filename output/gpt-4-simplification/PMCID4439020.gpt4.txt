@@ -1,0 +1,11 @@
+BACKGROUND.
+Sometimes after a type of brain surgery, patients can experience symptoms such as alertness loss due to a condition where air fills up their brain cavities. We studied whether treating this condition with pure oxygen via a breathing tube can help absorb this air build-up.
+
+METHODS AND FINDINGS.
+We investigated 44 patients who underwent brain surgery and experienced air build-up in their brain. Half of these patients were given pure oxygen for 3 hours while the other half simply breathed in normal room air. We performed scans on their brains just after the surgery and 24 hours afterwards. Without knowing who had received the oxygen treatment, we assessed the change in air volume in their brains and the air absorption rate 24 hours after the surgery. Our findings suggest that the air build-up reduced more in the patients who received the oxygen treatment. This effect was especially pronounced in patients who were above 52 years old. However, there was no significant difference in attention levels (measured by a test) between the two groups. The alertness level differed between the two groups, with the oxygen-treated patients had increased alertness.
+
+CONCLUSIONS.
+The oxygen treatment administered through a tube after brain surgery is safe and effective in reducing air build-up in the brain. Older patients, especially men, benefit the most from this treatment.
+
+TRIAL REGISTRATION.
+The experiment was officially logged with the German Clinical Trials Register.

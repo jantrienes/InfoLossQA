@@ -1,0 +1,15 @@
+BACKGROUND.
+We're studying the effects of controlling the amount of fluids patients get during brain surgery. This control is important because in brain surgeries, swelling in the brain can be a big problem. We don't know whether controlling the fluids, with a strategy we're calling "goal-directed fluid restriction" (GDFR), makes a difference in how patients recover after surgery.
+
+METHODS.
+We had two groups of patients who needed brain surgery, and were at high risk for complications. One group was given the usual amount of fluids during their surgery (the control group), and the other group was given less fluid (the GDFR group). 
+
+For the GDFR group, we did two things: (1) We limited the fluids they got during surgery to 3ml per kilogram of their body weight each hour, using a clear liquid solution and (2) We only gave additional fluid packs if they showed signs of low blood pressure, lower heart output and higher fluctuations in blood volume.
+
+We then studied different outcomes: how long they stayed in the ICU, the level of a specific acid (lactates) in their body after surgery, any complications they had after surgery, how long they stayed in the hospital, whether they died within 30 days after the surgery, and the cost of their treatment.
+
+RESULTS.
+We compared 73 patients in the GDFR group to 72 patients in the control group. Before surgery, both groups were similar. During surgery, we did end up giving less fluid to the GDFR group compared to the control group. After surgery, the GDFR group spent less time in the ICU and the cost of their stay was lower. Also, fewer patients in the GDFR group had any complications after surgery. But the time they spent in the hospital overall, their total hospital costs, and whether they died within 30 days were not significantly different between the two groups.
+
+CONCLUSION.
+In high-risk patients needing brain surgery, limiting the amount of fluids they got during surgery (using our GDFR method) helped them recover better after surgery, needed less time in the ICU, and reduced their ICU costs. Also, fewer of these patients had complications after surgery.

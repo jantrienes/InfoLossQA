@@ -1,0 +1,17 @@
+BACKGROUND.
+This is a study on the drug Maraviroc and its effects on HIV patients who are also taking the drug Abacavir, which some believe may increase their risk of heart disease. Maraviroc is known to decrease immune activation and inflammation in mouse experiments, so we wanted to see if it has similar effects in HIV patients.
+
+METHODS.
+We did a study for 16 weeks, with half of that time the patients were given extra Maraviroc in addition to their regular HIV medication, and the other half they didn't change anything in their treatment. We tested a range of health markers at the start, halfway and end of the study. We then compared the results from when the patients were given extra Maraviroc and when they weren't.
+
+RESULTS.
+The study was carried out in 21 male patients who had been living with HIV for an average of 9.2 years and were taking Abacavir for an average of 6.5 years. We found that Maraviroc improved blood flow which is beneficial for heart health. Also, there was a negative relationship between improvements in blood flow and inflammation, as well as immune activation, which suggests Maraviroc might be protecting against inflammation and immune activation.
+
+CONCLUSION.
+Adding Maraviroc modestly improves blood flow in HIV patients on Abacavir.
+
+TRIAL REGISTRATION.
+NCT01389063.
+
+ELECTRONIC SUPPLEMENTARY MATERIAL.
+For those with access, there's additional information available online related to this study.

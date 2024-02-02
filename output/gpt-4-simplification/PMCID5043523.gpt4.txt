@@ -1,0 +1,14 @@
+BACKGROUND.
+The researchers wanted to see if knowing about your personal genetic risks would encourage you to make healthier diet and lifestyle choices. They ran a 6-month online trial across seven locations in Europe. Some people received general healthy eating advice while others received advice tailored to their personal nutrition needs. One specific group learned whether they had a certain gene variant that increased their risk of heart disease. They were told about the importance of eating enough folate, a type of B vitamin. The researchers then analyzed changes in their folate intake over six months. 
+
+RESULTS.
+There wasn't any difference in age, gender, or body weight between the groups. Although, the number of participants from each country was not evenly spread across the groups. The amount of folate the groups ate at the start of the trial was about the same. Over six months, no group's folate intake changed significantly. 
+
+CONCLUSIONS.
+The finding implies that just knowing if you have a risky gene variant does not necessarily encourage you to eat more folate. 
+
+TRIAL REGISTRATION.
+This trial is recorded on ClinicalTrials.gov under the number NCT01530139
+
+ELECTRONIC SUPPLEMENTARY MATERIAL.
+There is additional information online for this study, which can be accessed by authorized individuals.

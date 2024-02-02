@@ -1,0 +1,15 @@
+BACKGROUND.
+Though some studies suggest that less invasive surgeries are the better way to perform total knee replacements (TKA), professionals can't completely agree on this.
+
+METHODS.
+We selected 69 patients seeking treatment for severe knee pain at three international hospitals to participate in a trial. They were randomly assigned to one of two groups: one group received the less invasive surgery (MIS); the other received the standard surgery. Both surgeries were aided by a computer system (CAS-TKA), but did not include resurfacing of the kneecap.
+
+Our main goal was to compare pain and flexibility after surgery between the two groups. We also recorded other measurements like the length of surgery, blood loss, time it took to rise from a chair, strength, knee pain, knee scores, and leg alignment measurements.
+
+RESULTS.
+Two weeks after surgery, patients who had the less invasive procedure reported significantly more pain than those who had the standard procedure. Additionally, surgeries were longer and involved more blood loss in the less invasive group. However, there was no significant difference in flexibility or leg alignment between the two groups.
+
+CONCLUSION.
+Our findings indicate that the standard surgery may have some advantages over the less invasive technique, such as shorter surgery time and less blood loss. Nevertheless, the less invasive technique seems to be safe when it comes to implant placement. 
+
+The trial was registered with ClinicalTrials.gov on December 8, 2015 with the number NCT02625311.

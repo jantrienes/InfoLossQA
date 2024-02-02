@@ -1,0 +1,11 @@
+OBJECTIVE.
+We wanted to see if certain genetic differences might impact how diet, specifically levels of fat intake, affects something called Metabolic Syndrome (MetS). MetS is a group of conditions like high blood sugar or blood pressure that together increase the risk of heart disease, stroke, and type 2 diabetes. We tested this theory in a 2-year diet experiment.
+
+RESEARCH DESIGN AND METHODS.
+We looked at two genetic differences in 738 overweight or obese adults. These people were randomly put on one of four diets for 2 years. These diets all had a reduction of 750 daily calories but varied in fat content. We then checked the MetS health of people on high-fat diets (40% of daily calorie intake) and low-fat diets (20% of daily calorie intake). We saw how these conditions changed for people with and without these genetic differences.
+
+RESULTS.
+Among people who carry a specific genetic difference, they were more likely to see a decrease in MetS conditions if they followed a high-fat diet compared to those on a low-fat diet over the 2-year period. However, there was no significant diet difference for people without this genetic difference. The effect of the diet was independent of weight changes. If you carried this genetic difference, you were almost 3 times more likely to see a decrease in MetS when on a high-fat diet compared to a low-fat diet. The second genetic difference we tested did not have a noticeable impact on diet effects on MetS.
+
+CONCLUSIONS.
+This suggests that a high-fat diet might be better at managing MetS for people with a specific genetic difference near IRS1, compared to a low-fat diet.

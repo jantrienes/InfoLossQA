@@ -1,0 +1,7 @@
+Biliary tract cancer (aBTC), a type of liver cancer, has a very poor survival rate. To help improve this, we're researching new treatments, one of which includes therapies that strengthen the body's immune system. 
+
+In a recent study, we tested a treatment using low-dose cyclophosphamide (CPA), a type of drug often used in chemotherapy, combined with a personalised peptide vaccination (PPV). The PPV is tailored specifically to each patient's immune response. To test this combined treatment, we gave it to 24 patients and compared them to a group of 25 patients who received only the PPV. 
+
+Results showed that those who received the combination of CPA and PPV had a stronger immune response and displayed slower cancer progression, living longer than those who received only PPV. We noticed that the combo treatment worked better because it prevented the release of IL-6 protein, a substance which can suppress the immune system. 
+
+In conclusion, the addition of low-dose CPA to PPV shows promise as a potential treatment for advanced biliary tract cancer patients. Further research is needed to confirm these findings.

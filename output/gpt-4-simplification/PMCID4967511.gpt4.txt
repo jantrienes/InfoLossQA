@@ -1,0 +1,14 @@
+BACKGROUND.
+This summary is about a study of the Health Promoting Schools program, a model from the World Health Organization. This program has started in various countries, but we need more data to see whether it works really well.
+
+METHODS.
+To see if this program is effective, we tested it with Year 3 students in primary schools in Lower Austria. We picked 53 classes from 45 schools and divided them into two groups. One group used the program right away (432 children) and the other group waited to start the program (493 children). We checked how things were in September 2010 before the program started. Then, teachers in the first group were trained to promote healthy behaviors like exercising during the day and running better gym classes. After one and a half school years, we checked 15 different things grouped into five categories: 1. Feelings and social activities in school, 2. Physical activity, 3. Well-being, 4. Concentration, and 5. Physical skills measured in gym class. The main thing we wanted to learn was about the classroom atmosphere. We repeated the checks in April 2012.
+
+RESULTS.
+The data did not show a big difference between the two groups in feelings and social activities at school, physical activity, well-being, and concentration. There was a noticeable difference only in physical skills, where the group that received the program performed a bit better.
+
+CONCLUSIONS.
+Even though the children who participated in the program had slightly better physical skills, we didn't see substantial improvements in their feelings and social interaction at school, their physical activity, well-being, or their focus. 
+
+TRIAL REGISTRATION.
+This study was registered in the German register of clinical studies, was recorded after it had started, and was approved by the Ethics Committee of Lower Austria.
