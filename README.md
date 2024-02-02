@@ -10,7 +10,7 @@ Text simplification aims to make technical texts more accessible to laypeople. H
 
 ## Dataset
 
-Original and simplified documents are in `data/infolossqa-v1.0/documents.json`.
+Original and simplified documents are in [`data/infolossqa-v1.0/documents.json`](data/infolossqa-v1.0).
 
 <details>
 <summary>Example</summary>
@@ -28,7 +28,7 @@ Original and simplified documents are in `data/infolossqa-v1.0/documents.json`.
 </details>
 
 
-1,000 manually annotated information loss instances (QA pairs) are in `data/infolossqa-v1.0/questions.json`. Use the `PMCID` column to link questions to documents.
+1,000 manually annotated information loss instances (QA pairs) are in [`data/infolossqa-v1.0/questions.json`](data/infolossqa-v1.0). Use the `PMCID` column to link questions to documents.
 
 <details>
 <summary>Example</summary>
@@ -71,7 +71,7 @@ Original and simplified documents are in `data/infolossqa-v1.0/documents.json`.
 
 ## Model Predictions
 
-Model predictions can be found in `data/infolossqa-v1.0/models/`.
+Model predictions can be found in [`data/infolossqa-v1.0/models/`](data/infolossqa-v1.0/models/).
 
 
 <details>
