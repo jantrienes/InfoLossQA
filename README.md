@@ -196,6 +196,10 @@ If you found any of these resources useful, please consider citing the following
 }
 ```
 
+## Licenses
+
+Code: [MIT](LICENSE), Annotations: [CC-BY-4.0](data/infolossqa-v1.0/LICENSE).
+
 ## Contact
 
 Please reach out to <a href="mailto:jan.trienes@gmail.com">Jan Trienes</a> if you have any comments, questions, or suggestions.
