@@ -190,7 +190,7 @@ If you found any of these resources useful, please consider citing the following
     },
     title = {{InfoLossQA}: {C}haracterizing and Recovering Information Loss in Text Simplification},
     journal = {CoRR},
-    year = {2023},
+    year = {2024},
     volume = {abs/2401.16475},
     url = {https://arxiv.org/abs/2401.16475}
 }
