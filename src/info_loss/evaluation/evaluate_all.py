@@ -1,13 +1,11 @@
 import argparse
 import json
 import logging
-import os
 from collections import defaultdict
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ProcessPoolExecutor
 from json.decoder import JSONDecodeError
 from pathlib import Path
 
-import openai
 from dotenv import load_dotenv
 from tqdm import tqdm
 
@@ -109,7 +107,7 @@ def main(args):
             arg_list.append((sample, prompt_name, args.output_path, args.model))
 
     results = defaultdict(list)
-    with ThreadPoolExecutor(max_workers=args.max_workers) as pool:
+    with ProcessPoolExecutor(max_workers=args.max_workers) as pool:
         r = list(tqdm(pool.map(process_prompt, arg_list), total=len(arg_list)))
         for result, criterion in r:
             results[criterion].append(result)

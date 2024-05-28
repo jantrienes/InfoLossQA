@@ -8,9 +8,9 @@ from pathlib import Path
 import litellm
 from openai import OpenAI
 
-client = OpenAI()
 import together
 
+_OPENAI_CLIENT = None
 
 def text2hash(string: str) -> str:
     hash_object = hashlib.sha256(string.encode("utf-8"))
@@ -42,9 +42,12 @@ def openai_request(
         with open(cache_file) as fin:
             return json.load(fin)
 
+    if not _OPENAI_CLIENT:
+        _OPENAI_CLIENT = OpenAI()
+
     for retry in range(retries):
         try:
-            response = client.chat.completions.create(**generation_params,
+            response = _OPENAI_CLIENT.chat.completions.create(**generation_params,
             messages=messages)
             response = response.to_dict()
             response = {**response, **generation_params}

@@ -7,7 +7,6 @@ from pathlib import Path
 
 from openai import OpenAI
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 import pandas as pd
 from dotenv import load_dotenv
 from tqdm.auto import tqdm
@@ -159,4 +158,5 @@ def arg_parser():
 
 if __name__ == "__main__":
     load_dotenv()
+    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     main(arg_parser())
