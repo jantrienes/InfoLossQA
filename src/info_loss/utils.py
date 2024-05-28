@@ -7,6 +7,7 @@ from pathlib import Path
 
 import openai
 import together
+import litellm
 
 
 def text2hash(string: str) -> str:
@@ -30,6 +31,7 @@ def openai_request(
     cache_dir=Path("../output/openai_cache/"),
     overwrite_cache=False,
     retries=5,
+    cooldown=0,
 ):
     cache_dir = Path(cache_dir)
     cache_file = get_cache_path(generation_params, messages, cache_dir, cache_id)
@@ -47,6 +49,8 @@ def openai_request(
             response = response.to_dict_recursive()
             response = {**response, **generation_params}
             response["messages"] = messages
+            if cooldown > 0:
+                time.sleep(cooldown)
             break
         except Exception as exc:
             if retry < retries - 1:
@@ -124,6 +128,54 @@ def together_request(
     with open(cache_file, "w") as fout:
         json.dump(response, fout)
     return response
+
+
+def litellm_request(
+    generation_params,
+    messages,
+    cache_id=None,
+    cache_dir=Path("../output/litellm_cache/"),
+    overwrite_cache=False,
+    retries=5,
+    cooldown=0,
+):
+    cache_dir = Path(cache_dir)
+    cache_file = get_cache_path(generation_params, messages, cache_dir, cache_id)
+
+    if not overwrite_cache and cache_dir is not None and cache_file.exists():
+        with open(cache_file) as fin:
+            return json.load(fin)
+
+    for retry in range(retries):
+        try:
+            response = litellm.completion(
+                **generation_params,
+                messages=messages,
+            )
+            response = response.to_dict()
+            response = {**response, **generation_params}
+            response["messages"] = messages
+            if cooldown > 0:
+                time.sleep(cooldown)
+            break
+        except Exception as exc:
+            if retry < retries - 1:
+                sleep_seconds = 5
+                logging.warning(
+                    f"Exception in API call. Retry in {sleep_seconds} secs...",
+                    exc_info=True,
+                )
+                time.sleep(sleep_seconds)
+            else:
+                raise Exception(
+                    f"API failed for {retries} times. Please try again later."
+                ) from exc
+
+    cache_dir.mkdir(exist_ok=True, parents=True)
+    with open(cache_file, "w") as fout:
+        json.dump(response, fout)
+    return response
+
 
 
 def huggingface_generate(

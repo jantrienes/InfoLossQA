@@ -29,3 +29,4 @@ dependencies:
     - krippendorff==0.6.1
     - statsmodels==0.14.0
     - sentence-transformers==2.7.0
+    - litellm==1.38

@@ -15,10 +15,11 @@ USER_PROMPT = """
 {answer}
 
 # Instruction
-Is the answer standalone? That means the answer should be understood only by the given context and question. In particular it should not contain any coreferences, acronyms or abbreviations that cannot be found in the context. Choose one of the ratings below.
+Please assess if the answer is standalone. That means the answer should be understood only by the given context and question. In particular it should not contain any coreferences, acronyms or abbreviations that cannot be found in the context.
 
-A: Yes
-B: No
+Is the answer standalone? Choose one of the ratings below.
+A: Yes, the answer can be understood without looking at the original.
+B: No, the answer contains confusing aspects (e.g., unresolved coreferences, abbreviations/acronyms).
 
 For the rating, only give the letter nothing else. Also provide a brief motivation for your choice (one sentence). Respond according to below JSON format.
 {{
@@ -26,17 +27,6 @@ For the rating, only give the letter nothing else. Also provide a brief motivati
     "rating": ""
 }}
 """.strip()
-
-
-def generation_params():
-    return {
-        "model": "gpt-4-0125-preview",
-        "temperature": 0,
-        "max_tokens": 256,
-        "top_p": 1,
-        "frequency_penalty": 0,
-        "presence_penalty": 0,
-    }
 
 
 def get_messages(qa_pair):
@@ -59,8 +49,8 @@ def parse_response(response):
 
     response = json.loads(response)
     answer_mapping = {
-        "A": "simplicity_standalone_2",  # bad
-        "B": "simplicity_standalone_1",  # good
+        "A": "simplicity_standalone_1",
+        "B": "simplicity_standalone_2",
     }
     return {
         "simplicity_standalone": answer_mapping[response["rating"]],

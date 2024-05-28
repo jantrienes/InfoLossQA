@@ -1,14 +1,16 @@
-import time
-from tqdm import tqdm
-import os
-import json
+import logging
 import argparse
+import json
+import os
+from multiprocessing import Pool
 from pathlib import Path
+
 import openai
 from dotenv import load_dotenv
-from multiprocessing import Pool, cpu_count
+from tqdm import tqdm
 
-from info_loss.utils import openai_request
+from json.decoder import JSONDecodeError
+
 from info_loss.evaluation import (
     accuracy_answer,
     accuracy_snippet,
@@ -20,6 +22,7 @@ from info_loss.evaluation import (
     simplicity_jargon,
     simplicity_standalone,
 )
+from info_loss.utils import openai_request, litellm_request
 
 PROMPTS = {
     "accuracy_answer": accuracy_answer,
@@ -33,18 +36,53 @@ PROMPTS = {
     "simplicity_standalone": simplicity_standalone,
 }
 
-MAX_WORKERS = 8
+MAX_WORKERS = 1
+
+logger = logging.getLogger(__name__)
+
+
+def generate(messages, cache_dir, model):
+    if model == "gpt4":
+        params = {
+            "model": "gpt-4o-2024-05-13",
+            "temperature": 0,
+            "max_tokens": 256,
+            "top_p": 1,
+            "frequency_penalty": 0,
+            "presence_penalty": 0,
+        }
+        response = openai_request(params, messages, cache_dir=cache_dir, cooldown=0.1)
+
+    elif model == "llama3":
+        params = {
+            "model": "together_ai/meta-llama/Llama-3-70b-chat-hf",
+            "temperature": 0,
+            "max_tokens": 256,
+            "top_p": 1,
+            "frequency_penalty": 0,
+        }
+        response = litellm_request(params, messages, cache_dir=cache_dir, cooldown=0.1)
+    else:
+        raise ValueError(f"Invalid model {model}.")
+
+    return response
 
 
 def process_prompt(args):
-    qa_pair, criterion, output_path = args
+    qa_pair, criterion, output_path, model = args
     prompt = PROMPTS[criterion]
     cache_dir = Path(output_path) / criterion
 
-    params = prompt.generation_params()
     messages = prompt.get_messages(qa_pair)
-    response = openai_request(params, messages, cache_dir=cache_dir, cooldown=0.1)
-    response = prompt.parse_response(response)
+    response = generate(messages, cache_dir=cache_dir, model=model)
+    try:
+        respnose = response["choices"][0]["message"]["content"]
+        response = prompt.parse_response(response)
+    except JSONDecodeError as e:
+        log = f"WARN: could not parse response for edit_id={qa_pair['edit_id']}, criterion={criterion}. Raw:\n{respnose}"
+        logger.warning(log)
+        response = {f"{criterion}": None, f"{criterion}_rationale": None}
+
     response["edit_id"] = qa_pair["edit_id"]
     return response, criterion
 
@@ -57,10 +95,10 @@ def main(args):
     arg_list = []
     for criterion in PROMPTS.keys():
         for qa_pair in data:
-            arg_list.append((qa_pair, criterion, args.output_path))
+            arg_list.append((qa_pair, criterion, args.output_path, args.model))
 
     results = {criterion: [] for criterion in PROMPTS.keys()}
-    with Pool(processes=MAX_WORKERS) as pool:
+    with Pool(processes=args.max_workers) as pool:
         with tqdm(total=len(arg_list), desc="Processing QA pairs") as progress:
             for result, criterion in pool.imap_unordered(process_prompt, arg_list):
                 results[criterion].append(result)
@@ -78,12 +116,16 @@ def arg_parser():
     parser = argparse.ArgumentParser(
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
     )
-    parser.add_argument("--input_json", help="Path to JSON with QA-pairs.")
+    parser.add_argument(
+        "--input_json", help="Path to JSON with QA-pairs.", required=True
+    )
     parser.add_argument(
         "--output_path",
-        default="output/infolossqa-eval/gpt-4-0125-preview-zero-shot/",
         help="Root of output. Will store cache and final predictions there.",
+        required=True,
     )
+    parser.add_argument("--model", choices=["gpt4", "llama3"])
+    parser.add_argument("--max_workers", type=int, default=1)
     return parser.parse_args()
 
 

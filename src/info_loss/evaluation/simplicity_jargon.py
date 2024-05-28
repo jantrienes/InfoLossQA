@@ -34,17 +34,6 @@ For the rating, only give the letter nothing else. Also provide a brief motivati
 """.strip()
 
 
-def generation_params():
-    return {
-        "model": "gpt-4-0125-preview",
-        "temperature": 0,
-        "max_tokens": 256,
-        "top_p": 1,
-        "frequency_penalty": 0,
-        "presence_penalty": 0,
-    }
-
-
 def get_messages(qa_pair):
     system_prompt = SYSTEM_PROMPT
     user_prompt = USER_PROMPT.format(

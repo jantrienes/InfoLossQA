@@ -33,21 +33,10 @@ D: Correctly absent, there should not be a marker because the topic is not part 
 
 For the rating, only give the letter nothing else. Also provide a brief motivation for your choice (one sentence). Respond according to below JSON format.
 {{
-    "motivation": "",
-    "rating": ""
+    "motivation": "(the rationale)",
+    "rating": "(the rating)"
 }}
 """.strip()
-
-
-def generation_params():
-    return {
-        "model": "gpt-4-0125-preview",
-        "temperature": 0,
-        "max_tokens": 256,
-        "top_p": 1,
-        "frequency_penalty": 0,
-        "presence_penalty": 0,
-    }
 
 
 def get_messages(qa_pair):
