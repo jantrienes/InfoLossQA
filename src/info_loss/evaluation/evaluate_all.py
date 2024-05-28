@@ -4,6 +4,7 @@ import json
 import os
 from multiprocessing import Pool
 from pathlib import Path
+from collections import defaultdict
 
 import openai
 from dotenv import load_dotenv
@@ -21,10 +22,11 @@ from info_loss.evaluation import (
     relevance_target,
     simplicity_jargon,
     simplicity_standalone,
+    recall,
 )
 from info_loss.utils import openai_request, litellm_request
 
-PROMPTS = {
+ACCURACY_PROMPTS = {
     "accuracy_answer": accuracy_answer,
     "accuracy_snippet": accuracy_snippet,
     "givenness_location": givenness_location,
@@ -35,6 +37,11 @@ PROMPTS = {
     "simplicity_jargon": simplicity_jargon,
     "simplicity_standalone": simplicity_standalone,
 }
+
+RECALL_PROMPTS = {
+    "recall": recall,
+}
+PROMPTS = {**ACCURACY_PROMPTS, **RECALL_PROMPTS}
 
 MAX_WORKERS = 1
 
@@ -69,37 +76,43 @@ def generate(messages, cache_dir, model):
 
 
 def process_prompt(args):
-    qa_pair, criterion, output_path, model = args
-    prompt = PROMPTS[criterion]
-    cache_dir = Path(output_path) / criterion
+    sample, prompt_name, output_path, model = args
+    prompt = PROMPTS[prompt_name]
+    cache_dir = Path(output_path) / prompt_name
 
-    messages = prompt.get_messages(qa_pair)
+    messages = prompt.get_messages(sample)
     response = generate(messages, cache_dir=cache_dir, model=model)
     try:
-        respnose = response["choices"][0]["message"]["content"]
+        response = response["choices"][0]["message"]["content"]
         response = prompt.parse_response(response)
     except JSONDecodeError as e:
-        log = f"WARN: could not parse response for edit_id={qa_pair['edit_id']}, criterion={criterion}. Raw:\n{respnose}"
+        log = f"WARN: could not parse response for edit_id={sample['edit_id']}, criterion={prompt_name}. Raw:\n{response}"
         logger.warning(log)
-        response = {f"{criterion}": None, f"{criterion}_rationale": None}
+        response = {f"{prompt_name}": None, f"{prompt_name}_rationale": None}
 
-    response["edit_id"] = qa_pair["edit_id"]
-    return response, criterion
+    response["edit_id"] = sample["edit_id"]
+    return response, prompt_name
 
 
 def main(args):
     with open(args.input_json) as fin:
         data = json.load(fin)
-    order = {qa_pair["edit_id"]: i for i, qa_pair in enumerate(data)}
+        data = data[:10]
+    order = {sample["edit_id"]: i for i, sample in enumerate(data)}
+
+    if args.evaluate_recall:
+        prompts = RECALL_PROMPTS.keys()
+    else:
+        prompts = ACCURACY_PROMPTS.keys()
 
     arg_list = []
-    for criterion in PROMPTS.keys():
-        for qa_pair in data:
-            arg_list.append((qa_pair, criterion, args.output_path, args.model))
+    for prompt_name in prompts:
+        for sample in data:
+            arg_list.append((sample, prompt_name, args.output_path, args.model))
 
-    results = {criterion: [] for criterion in PROMPTS.keys()}
+    results = defaultdict(list)
     with Pool(processes=args.max_workers) as pool:
-        with tqdm(total=len(arg_list), desc="Processing QA pairs") as progress:
+        with tqdm(total=len(arg_list), desc="Processing samples.") as progress:
             for result, criterion in pool.imap_unordered(process_prompt, arg_list):
                 results[criterion].append(result)
                 progress.update(1)
@@ -107,7 +120,7 @@ def main(args):
     output_path = Path(args.output_path)
     output_path.mkdir(parents=True, exist_ok=True)
     for criterion, ratings in results.items():
-        ratings = sorted(ratings, key=lambda qa_pair: order[qa_pair["edit_id"]])
+        ratings = sorted(ratings, key=lambda sample: order[sample["edit_id"]])
         with open(output_path / f"{criterion}.json", "w") as fout:
             json.dump(ratings, fout)
 
@@ -117,7 +130,7 @@ def arg_parser():
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
     )
     parser.add_argument(
-        "--input_json", help="Path to JSON with QA-pairs.", required=True
+        "--input_json", help="Path to JSON with samples.", required=True
     )
     parser.add_argument(
         "--output_path",
@@ -126,6 +139,7 @@ def arg_parser():
     )
     parser.add_argument("--model", choices=["gpt4", "llama3"])
     parser.add_argument("--max_workers", type=int, default=1)
+    parser.add_argument("--evaluate_recall", action="store_true", default=False)
     return parser.parse_args()
 
 
