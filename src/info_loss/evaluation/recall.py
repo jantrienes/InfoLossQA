@@ -97,10 +97,11 @@ def parse_response(response):
 
     response = json.loads(response)
     answer_mapping = {
-        "A": "hallucinations_answer_1",
-        "B": "hallucinations_answer_2",
+        "A": "aligned",
+        "B": "partial",
+        "C": "not_aligned",
     }
     return {
-        "hallucinations_answer": answer_mapping[response["rating"]],
-        "hallucinations_answer_rationale": response["motivation"],
+        "recall": answer_mapping[response["rating"]],
+        "recall_rationale": response["motivation"],
     }

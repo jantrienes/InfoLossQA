@@ -5,10 +5,9 @@ import re
 import unicodedata
 from pathlib import Path
 
-from openai import OpenAI
-
 import pandas as pd
 from dotenv import load_dotenv
+from openai import OpenAI
 from tqdm.auto import tqdm
 
 SYSTEM_PROMPT = "Please simplify the following technical abstract into plain language that an average adult would understand. If the abstract has sections, keep them."
@@ -63,16 +62,18 @@ def segment_abstract(text):
 
 
 def openai_request(prompt):
-    response = client.chat.completions.create(model=GPT_MODEL,
-    messages=[
-        {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": prompt},
-    ],
-    temperature=1,
-    max_tokens=1024,
-    top_p=1,
-    frequency_penalty=0,
-    presence_penalty=0)
+    response = client.chat.completions.create(
+        model=GPT_MODEL,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt},
+        ],
+        temperature=1,
+        max_tokens=1024,
+        top_p=1,
+        frequency_penalty=0,
+        presence_penalty=0,
+    )
     # get the first message in response (should only be one)
     result = response.choices[0].message.content
     return result

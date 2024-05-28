@@ -83,18 +83,17 @@ def process_prompt(args):
         response = response["choices"][0]["message"]["content"]
         response = prompt.parse_response(response)
     except JSONDecodeError as e:
-        log = f"WARN: could not parse response for edit_id={sample['edit_id']}, criterion={prompt_name}. Raw:\n{response}"
+        log = f"WARN: could not parse response for criterion={prompt_name}. Sample:\n{sample}\nRaw:\n{response}"
         logger.warning(log)
         response = {f"{prompt_name}": None, f"{prompt_name}_rationale": None}
 
-    response["edit_id"] = sample["edit_id"]
+    response = {**sample, **response}
     return response, prompt_name
 
 
 def main(args):
     with open(args.input_json) as fin:
         data = json.load(fin)
-        data = data[:10]
 
     if args.evaluate_recall:
         prompts = RECALL_PROMPTS.keys()

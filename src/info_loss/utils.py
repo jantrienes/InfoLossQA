@@ -6,11 +6,11 @@ from collections import defaultdict
 from pathlib import Path
 
 import litellm
+import together
 from openai import OpenAI
 
-import together
-
 _OPENAI_CLIENT = None
+
 
 def text2hash(string: str) -> str:
     hash_object = hashlib.sha256(string.encode("utf-8"))
@@ -42,16 +42,18 @@ def openai_request(
         with open(cache_file) as fin:
             return json.load(fin)
 
+    global _OPENAI_CLIENT
     if not _OPENAI_CLIENT:
         _OPENAI_CLIENT = OpenAI()
 
     for retry in range(retries):
         try:
-            response = _OPENAI_CLIENT.chat.completions.create(**generation_params,
-            messages=messages)
+            response = _OPENAI_CLIENT.chat.completions.create(
+                **generation_params, messages=messages
+            )
             response = response.to_dict()
             response = {**response, **generation_params}
-            response['messages'] = messages
+            response["messages"] = messages
             if cooldown > 0:
                 time.sleep(cooldown)
             break
