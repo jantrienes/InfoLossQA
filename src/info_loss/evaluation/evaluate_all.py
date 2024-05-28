@@ -1,16 +1,15 @@
-import logging
 import argparse
 import json
+import logging
 import os
-from concurrent.futures import ThreadPoolExecutor
-from pathlib import Path
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
+from json.decoder import JSONDecodeError
+from pathlib import Path
 
 import openai
 from dotenv import load_dotenv
 from tqdm import tqdm
-
-from json.decoder import JSONDecodeError
 
 from info_loss.evaluation import (
     accuracy_answer,
@@ -18,13 +17,13 @@ from info_loss.evaluation import (
     givenness_location,
     givenness_phrasing,
     hallucinations_answer,
+    recall,
     relevance_source,
     relevance_target,
     simplicity_jargon,
     simplicity_standalone,
-    recall,
 )
-from info_loss.utils import openai_request, litellm_request
+from info_loss.utils import litellm_request, openai_request
 
 ACCURACY_PROMPTS = {
     "accuracy_answer": accuracy_answer,
