@@ -2,7 +2,7 @@ import logging
 import argparse
 import json
 import os
-from multiprocessing import Pool
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from collections import defaultdict
 
@@ -98,7 +98,6 @@ def main(args):
     with open(args.input_json) as fin:
         data = json.load(fin)
         data = data[:10]
-    order = {sample["edit_id"]: i for i, sample in enumerate(data)}
 
     if args.evaluate_recall:
         prompts = RECALL_PROMPTS.keys()
@@ -111,16 +110,14 @@ def main(args):
             arg_list.append((sample, prompt_name, args.output_path, args.model))
 
     results = defaultdict(list)
-    with Pool(processes=args.max_workers) as pool:
-        with tqdm(total=len(arg_list), desc="Processing samples.") as progress:
-            for result, criterion in pool.imap_unordered(process_prompt, arg_list):
-                results[criterion].append(result)
-                progress.update(1)
+    with ThreadPoolExecutor(max_workers=args.max_workers) as pool:
+        r = list(tqdm(pool.map(process_prompt, arg_list), total=len(arg_list)))
+        for result, criterion in r:
+            results[criterion].append(result)
 
     output_path = Path(args.output_path)
     output_path.mkdir(parents=True, exist_ok=True)
     for criterion, ratings in results.items():
-        ratings = sorted(ratings, key=lambda sample: order[sample["edit_id"]])
         with open(output_path / f"{criterion}.json", "w") as fout:
             json.dump(ratings, fout)
 
