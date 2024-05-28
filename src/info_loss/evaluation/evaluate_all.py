@@ -141,5 +141,4 @@ def arg_parser():
 
 if __name__ == "__main__":
     load_dotenv()
-    openai.api_key = os.getenv("OPENAI_API_KEY")
     main(arg_parser())

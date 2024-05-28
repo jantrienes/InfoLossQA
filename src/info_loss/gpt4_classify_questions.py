@@ -75,5 +75,4 @@ def arg_parser():
 
 if __name__ == "__main__":
     dotenv.load_dotenv()
-    openai.api_key = os.environ["OPENAI_API_KEY"]
     main(arg_parser())

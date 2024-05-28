@@ -6,7 +6,9 @@ from collections import defaultdict
 from pathlib import Path
 
 import litellm
-import openai
+from openai import OpenAI
+
+client = OpenAI()
 import together
 
 
@@ -42,13 +44,11 @@ def openai_request(
 
     for retry in range(retries):
         try:
-            response = openai.ChatCompletion.create(
-                **generation_params,
-                messages=messages,
-            )
-            response = response.to_dict_recursive()
+            response = client.chat.completions.create(**generation_params,
+            messages=messages)
+            response = response.to_dict()
             response = {**response, **generation_params}
-            response["messages"] = messages
+            response['messages'] = messages
             if cooldown > 0:
                 time.sleep(cooldown)
             break

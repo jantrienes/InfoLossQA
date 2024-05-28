@@ -5,7 +5,9 @@ import re
 import unicodedata
 from pathlib import Path
 
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 import pandas as pd
 from dotenv import load_dotenv
 from tqdm.auto import tqdm
@@ -62,20 +64,18 @@ def segment_abstract(text):
 
 
 def openai_request(prompt):
-    response = openai.ChatCompletion.create(
-        model=GPT_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": prompt},
-        ],
-        temperature=1,
-        max_tokens=1024,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0,
-    )
+    response = client.chat.completions.create(model=GPT_MODEL,
+    messages=[
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user", "content": prompt},
+    ],
+    temperature=1,
+    max_tokens=1024,
+    top_p=1,
+    frequency_penalty=0,
+    presence_penalty=0)
     # get the first message in response (should only be one)
-    result = response["choices"][0]["message"]["content"]
+    result = response.choices[0].message.content
     return result
 
 
@@ -159,5 +159,4 @@ def arg_parser():
 
 if __name__ == "__main__":
     load_dotenv()
-    openai.api_key = os.environ["OPENAI_API_KEY"]
     main(arg_parser())
