@@ -205,7 +205,7 @@ Please refer to their documentation for deployment.
 If you found any of these resources useful, please consider citing the following paper.
 
 ```bibtex
-@Article{Trienes:2024:arXiv,
+@InProceedings{Trienes:2024:ACL,
     author = {
         Trienes, Jan and
         Joseph, Sebastian and
@@ -217,10 +217,8 @@ If you found any of these resources useful, please consider citing the following
         Li, Junyi Jessy
     },
     title = {{InfoLossQA}: {C}haracterizing and Recovering Information Loss in Text Simplification},
-    journal = {CoRR},
-    year = {2024},
-    volume = {abs/2401.16475},
-    url = {https://arxiv.org/abs/2401.16475}
+    booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+    year = {2024}
 }
 ```
 
