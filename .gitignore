@@ -1,3 +1,6 @@
+output/gpt-eval
+notebooks/figures/
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

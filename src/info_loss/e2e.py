@@ -24,7 +24,6 @@ Match = namedtuple("Match", ["start", "end", "similarity"])
 class GPT4:
     def __init__(self, cache_dir):
         self.cache_dir = cache_dir
-        openai.api_key = os.environ["OPENAI_API_KEY"]
 
     def predict(self, sample_id, original, simplification):
         try:

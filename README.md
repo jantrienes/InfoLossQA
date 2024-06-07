@@ -162,6 +162,34 @@ To classify questions according to the taxonomy of [Cao and Wang (2021)](https:/
 python -m info_loss.gpt4_classify_questions --input_path <path/to/predictions.json> --output_json <path/to/questions.json>
 ```
 
+### Automatic evaluation
+
+```sh
+# GPT-4o
+python -m info_loss.evaluation.evaluate_all \
+  --input_json data/infolossqa-v1.0/evals-accuracy/samples.json \
+  --output_path output/gpt-eval/gpt-4o-2024-05-13/ \
+  --model gpt4
+
+python -m info_loss.evaluation.evaluate_all \
+  --input_json data/infolossqa-v1.0/evals-recall/candidates.json \
+  --output_path output/gpt-eval/gpt-4o-2024-05-13/ \
+  --model gpt4 \
+  --evaluate_recall
+
+# Llama3-70B
+python -m info_loss.evaluation.evaluate_all \
+  --input_json data/infolossqa-v1.0/evals-accuracy/samples.json \
+  --output_path output/gpt-eval/llama-3-70b-chat-hf/ \
+  --model llama3
+
+python -m info_loss.evaluation.evaluate_all \
+  --input_json data/infolossqa-v1.0/evals-recall/candidates.json \
+  --output_path output/gpt-eval/llama-3-70b-chat-hf/ \
+  --model llama3 \
+  --evaluate_recall
+```
+
 ## Annotation Interface
 
 We used [Thresh](https://github.com/davidheineman/thresh/) for annotating QAs and [Label Studio](https://labelstud.io/) for evaluating model predictions.
