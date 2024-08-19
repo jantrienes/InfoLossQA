@@ -218,7 +218,9 @@ If you found any of these resources useful, please consider citing the following
     },
     title = {{InfoLossQA}: {C}haracterizing and Recovering Information Loss in Text Simplification},
     booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
-    year = {2024}
+    year = {2024},
+    url = {https://aclanthology.org/2024.acl-long.234},
+    pages = {4263--4294}
 }
 ```
 
